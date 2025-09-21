@@ -1,3 +1,13 @@
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.container-fluid {
+  flex: 1;
+}
+
 .grid-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
@@ -18,4 +28,30 @@ h2 {
 
 .card-body {
     height: 60px;
+}
+
+.filter-container {
+  display: flex;
+}
+
+.filter-section {
+  flex: 1;
+  max-width: 30%;
+  grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
+  gap: 1rem;
+  margin: 2rem;
+  background-color: #f8f9fa;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.results {
+  flex: 3;
+}
+
+@media (max-width: 768px) {
+  .filter-section {
+    flex-direction: column;
+  }
 }
