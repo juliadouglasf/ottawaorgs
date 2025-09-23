@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-  <div id="head"></div>
-  <script>
-  fetch('head.html').then(response => response.text()).then(data => document.getElementById('head').innerHTML = data);
-  </script> 
+  <div id="head">
+    <script>
+    fetch('head.html').then(response => response.text()).then(data => document.getElementById('head').innerHTML = data);
+    </script> 
+  </div>
   <body class="d-flex flex-column min-vh-100">
     <div id="navbar"></div>
     <script>
@@ -11,6 +12,7 @@
     </script>  
     <div class="container-fluid">
       <h1 class="text-center mt-4">Welcome to Ottawa Orgs!</h1>
+      <section id="overview">
       <div class="grid-container">
         <div class="grid-item card align-items-center">        
           <div class="card-body">
@@ -61,7 +63,8 @@
           </div>
           <img width="100" height="100" src="https://img.icons8.com/fluency-systems-regular/100/like--v1.png" alt="like--v1"/>
         </div>
-      </div> 
+      </div>
+      </section> 
     </div>
     <div id="footer"></div>
     <script>
