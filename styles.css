@@ -27,8 +27,28 @@ h2 {
     font-size: 22px;
 }
 
+.card {
+  display: flex;
+}
+
 .card-body {
-    height: 60px;
+  justify-content: center;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.card-title {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.org-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
 }
 
 .filter-container {
