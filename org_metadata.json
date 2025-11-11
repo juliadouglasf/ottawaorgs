@@ -274,5 +274,57 @@
       "description": "Provides laundry, showers, meals (breakfast and lunch), hygiene supplies, telephone access, internet, and community navigation support to women, children, and gender-diverse people.",
       "url": "https://belongottawa.ca/programs/the-well/"
     }
+  ],
+    "transit_orgs": [
+    {
+      "name": "Bike Ottawa",
+      "description": "Advocates for a vibrant and equitable Ottawa where active transportation plays an important role in year-round mobility.",
+      "url": "https://bikeottawa.ca/"
+    },
+    {
+      "name": "Envirocentre",
+      "description": "Hosts Let's Bike Month, an annual campaign that encourages people to try cycling as a fun and healthy transportation option.",
+      "url": "https://letsbike.ca/"
+    },
+    {
+      "name": "Free Transit Ottawa",
+      "description": "Shares a common goal of a more equitable and sustainable future for all. Sees public transit as having a crucial role in combating climate change and promoting social justice in Ottawa and around the world.",
+      "url": "https://freetransitottawa.ca/"
+    },
+    {
+      "name": "Helping with Bikes",
+      "description": "Provides adults and children in client families with functional bikes as an affordable means of transportation and a source of exercise and safe, wholesome fun.",
+      "url": "https://www.hwfottawa.org/eng/give-bikes"
+    },
+    {
+      "name": "Hop on Bikes",
+      "description": "Obtains, refurbishes, fits, and delivers bikes to children and youth living in Ottawa Community Housing communities.",
+      "url": "https://ochfoundation.ca/programs/hop-on-bikes/"
+    },
+    {
+      "name": "Ottawa Transit Riders",
+      "description": "Works to make Ottawa's transit system more affordable, reliable, accessible, and safe for users.",
+      "url": "https://www.ottawatransitriders.ca/"
+    },
+    {
+      "name": "re-Cycles",
+      "description": "Puts more bicycles on the road by providing affordable, recycled bikes to the community; provides low-cost access to a fully equipped bike repair shop; reduces materials going into landfills by recycling bikes and bike parts; promotes a healthier environment and lifestyle, and offers a place for like-minded bike enthusiasts to meet and exchange ideas.",
+      "url": "https://re-cycles.ca/"
+    },
+    {
+      "name": "Recyclore",
+      "description": "Keeps bicycles out of the landfill and puts them back on the street. Accepts donations of old bicycles, reconditions them, and then offers the used bicycles for sale.",
+      "url": "https://www.recyclore.org/"
+    },
+    {
+      "name": "Trips for Kids Ottawa",
+      "description": "Provides outdoor recreation to Ottawa's youth, who would not otherwise have the opportunity.",
+      "url": "https://www.tripsforkidsottawa.ca/"
+    },
+    {
+      "name": "Vélo Vanier",
+      "description": "Offers Vanier residents the opportunity to borrow a bicycle for free during the summer months.",
+      "url": "https://cscvanier.com/en/our-services/velo-vanier/"
+    }
   ]
 }
