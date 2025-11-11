@@ -1,0 +1,54 @@
+{
+  "accessibility_orgs": [
+    {
+      "name": "Abilities Ottawa",
+      "description": "Programs and initiatives that support quality participation, community capacity building, and educational opportunities that break down barriers and increase inclusive recreational and sport opportunities for people of all abilities.",
+      "url": "https://abilitiescentreottawa.org"
+    },
+    {
+      "name": "Ability First Ottawa",
+      "description": "Comprehensive services and support for people with disabilities.",
+      "url": "https://abilityfirstottawa.org"
+    },
+    {
+      "name": "ABLE2",
+      "description": "Empowers individuals of all ages across the disability spectrum to lead fulfilling lives by supporting them with programs, services, and resources.",
+      "url": "https://www.able2.org"
+    },
+    {
+      "name": "Active Abilities Canada",
+      "description": "Bringing physical activity, recreation, and sport professionals together to ensure participation for people of all abilities.",
+      "url": "https://activeabilities.ca/"
+    },
+    {
+      "name": "Canadian Council of the Blind",
+      "description": "Vibrant network of active members across Canada. Each chapter is unique to its geographic area and engages in a variety of social and recreational activities based on the particular interests of their local members.",
+      "url": "https://ccbnational.net/shaggy"
+    },
+    {
+      "name": "Canadian Hard of Hearing Association",
+      "description": "Creating accessible, connected, and equitable communities for Canadians with hearing loss.",
+      "url": "https://chha.ca"
+    },
+    {
+      "name": "Disability Advocacy Network of Eastern Ontario",
+      "description": "Advocates for the rights of citizens labelled with an intellectual/developmental disability to have access to the same opportunities and choices as other Ontarians.",
+      "url": "https://daneo-raipheo.ca"
+    },
+    {
+      "name": "Kids on the Block Ottawa",
+      "description": "Disability awareness, bullying prevention, and educational puppet performance.",
+      "url": "https://www.kidsontheblockottawa.com"
+    },
+    {
+      "name": "Neil Squire Society",
+      "description": "Uses technology, knowledge, and passion to empower Canadians with disabilities.",
+      "url": "https://www.neilsquire.ca"
+    },
+    {
+      "name": "Ottawa Independent Living Resource Centre",
+      "description": "Promoting a new perspective on disability.",
+      "url": "https://oilrc.com"
+    }
+  ]
+}
