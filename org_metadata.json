@@ -21,6 +21,11 @@
       "url": "https://activeabilities.ca/"
     },
     {
+      "name": "Breaking925",
+      "description": "Dismantles systemic employment barriers faced by mid-senior career level professionals due to disabilities.",
+      "url": "https://www.breaking925.ca/"
+    },
+    {
       "name": "Canadian Council of the Blind",
       "description": "Vibrant network of active members across Canada. Each chapter is unique to its geographic area and engages in a variety of social and recreational activities based on the particular interests of their local members.",
       "url": "https://ccbnational.net/shaggy"
@@ -63,6 +68,11 @@
       "url": "https://blaircourt.ca/programs-and-services/"
     },
     {
+      "name": "Bountiful Beaver",
+      "description": "A queer communal gardening project.",
+      "url": "https://linktr.ee/BountifulBeaver"
+    },
+    {
       "name": "Community Compassion Centre Food Bank",
       "description": "Provides food and assistance to our K1C neighbours.",
       "url": "https://cpcorleans.ca/foodbank/"
@@ -83,6 +93,11 @@
       "url": "https://feedthecity.ca/"
     },
     {
+      "name": "Foodeliver",
+      "description": "Shares kindness through making food accessible to newcomer families with dignity. Reduces food waste, improves access to nutritious meals, and builds a more caring community in Ottawa.",
+      "url": "https://www.foodeliver.ca/"
+    },
+    {
       "name": "Foodsharing Ottawa",
       "description": "Working together to reduce food waste in our community.",
       "url": "https://foodsharingottawa.com/"
@@ -91,6 +106,11 @@
       "name": "Gloucester Emergency Food Cupboard",
       "description": "Alleviates food insecurity in our community by working together to create opportunities to access and share good food through innovative food programming, partnerships, and civic engagement.",
       "url": "https://gefc.ca/"
+    },
+    {
+      "name": "In From the Cold",
+      "description": "Cooks and serves a delicious 4-course meal, hosts live music from local bands, and gets the community together.",
+      "url": "https://parkdaleunitedchurch.ca/in-from-the-cold/"
     },
     {
       "name": "Just Food",
@@ -123,6 +143,11 @@
       "url": "https://ottawamission.com/ottawa-mission-food-truck-weekly-schedule/"
     },
     {
+      "name": "Parkdale Food Centre",
+      "description": "Builds healthier, more connected neighbourhoods through good food, innovative community partnerships, and by challenging inequalities in order to create lasting impacts.",
+      "url": "https://parkdalefoodcentre.ca/"
+    },
+    {
       "name": "Partage Vanier",
       "description": "Offre du dépannage alimentaire d'urgence une fois par mois pour les résident.es de Vanier.",
       "url": "https://cscvanier.com/services/partage-vanier/"
@@ -151,6 +176,103 @@
       "name": "Westboro Region Food Bank",
       "description": "Provides fresh and non-perishable food and essential supplies to food bank neighbours.",
       "url": "https://www.allsaintswestboro.com/westboro-region-food-bank/"
+    }
+  ],
+    "homelessness_orgs": [
+    {
+      "name": "Action Housing",
+      "description": "Assists clients to find housing when they do not have computer access or the skills to look online for themselves.",
+      "url": "https://www.action-logement.ca/en/"
+    },
+    {
+      "name": "Alliance to End Homelessness Ottawa",
+      "description": "Member-driven coalition of people and organisations working together to end homelessness through systems planning and coordination, public education and advocacy, and community-wide mobilization.",
+      "url": "https://www.endhomelessnessottawa.ca/"
+    },
+    {
+      "name": "Ancoura",
+      "description": "Provides a nurturing and fulfilling environment for adults living with a mental illness in Ottawa through stable housing and a supportive community.",
+      "url": "https://ancoura.ca/"
+    },
+    {
+      "name": "Backpacks for the Homeless",
+      "description": "Gives backpacks to the homeless.",
+      "url": "https://www.backpacksforhomeless.ca/"
+    },
+    {
+      "name": "Centre 454",
+      "description": "Provides laundry, showers, hygiene supplies, telephone access, Wifi access, and community navigation support to people looking for community and connection. Hosts social activities, including bingo, karaoke, and arts and crafts.",
+      "url": "https://belongottawa.ca/programs/centre-454/"
+    },
+    {
+      "name": "Chrysalis House",
+      "description": "Provides shelter to cis and trans women, two-spirit, non-binary, and gender-diverse people of diverse ages, cultures, race, sexual orientaions, and abilities.",
+      "url": "https://wocrc.ca/program/chrysalis-house/"
+    },
+    {
+      "name": "Cornerstone",
+      "description": "Helps women transform their lives from crisis to hope, housing, and healing.",
+      "url": "https://cornerstonewomen.ca/"
+    },
+    {
+      "name": "GottaGo!",
+      "description": "Campaigns for a network of public toilets in Ottawa.",
+      "url": "https://www.gottago-ottawa.ca/"
+    },
+    {
+      "name": "Landseed",
+      "description": "Addresses the Canadian housing crisis by leveraging community market data and AI systems to solution the problems and support attainable housing opportunities for corhorts in need.",
+      "url": "https://landseed.ca/"
+    },
+    {
+      "name": "Naomi's House",
+      "description": "Protects women with or without children who have been physically, emotionally, sexually, or financially threatened or harassed.",
+      "url": "https://naomiscentre.ca/"
+    },
+    {
+      "name": "Ottawa Community Housing",
+      "description": "Delivers a great housing experience through exceptional service. Works closely with communities to foster tenants' sense of belonging and empowerment. Provides quality, safe, and affordable homes meeting the needs of individuals and families. Works with partners to support the tenants' needs and contribute to stronger, more inclusive communities.",
+      "url": "https://www.och-lco.ca/"
+    },
+    {
+      "name": "Ottawa Innercity Ministries",
+      "description": "Comes alongside and supports individuals experiencing poverty and homelessness, by demonstrating the message of Christ in action and word, showing compassion, and promoting self-esteem.",
+      "url": "https://www.ottawainnercityministries.ca/"
+    },
+    {
+      "name": "The Ottawa Mission",
+      "description": "Helps people experiencing poverty, addiction, and homelessness to change their lives.",
+      "url": "https://ottawamission.com/"
+    },
+    {
+      "name": "Pal Ottawa",
+      "description": "Works to meet the needs of senior artists and arts workers in the National Capital Region by providing access to affordable housing, personal support services, and community programming.",
+      "url": "https://www.palottawa.org/"
+    },
+    {
+      "name": "Salus Ottawa",
+      "description": "Creates opportunities for adults with mental health and substance use health challenges, as well as behavioural addictions, to live independently by improving access to housing and a community of integrated support services.",
+      "url": "https://www.salusottawa.org/"
+    },
+    {
+      "name": "Shepherds of Good Hope",
+      "description": "Shelter. Stability. Support. Dignity. Community. Employment. Helps people find their way to hope - in all its forms.",
+      "url": "https://www.sghottawa.com/"
+    },
+    {
+      "name": "St. Joe's Women's Centre",
+      "description": "Provides a safe, welcoming space with social and educational programs that empower, promote autonomy, and uphold dignity within a non-judgmental atmosphere for all women and their children.",
+      "url": "https://www.stjoeswomenscentre.org/"
+    },
+    {
+      "name": "St. Luke's Table",
+      "description": "Provides coffee, tea, breakfast, lunch, hygiene supplies, telephone access, Wifi and computer access, and community navigation support in the heart of the Chinatown neighbourhood of Ottawa. Also hosts karaoke, bingo, movies, and more.",
+      "url": "https://belongottawa.ca/programs/st-lukes-table/"
+    },
+    {
+      "name": "The Well",
+      "description": "Provides laundry, showers, meals (breakfast and lunch), hygiene supplies, telephone access, internet, and community navigation support to women, children, and gender-diverse people.",
+      "url": "https://belongottawa.ca/programs/the-well/"
     }
   ]
 }
