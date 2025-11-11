@@ -50,5 +50,107 @@
       "description": "Promoting a new perspective on disability.",
       "url": "https://oilrc.com"
     }
+  ],
+  "food_orgs": [
+    {
+      "name": "The Baby Cupboard Program",
+      "description": "Distributes items such as diapers, wipes, cereals, and other baby items to families with children ages 0 to 3 years old with postal codes K1K, K1M, and, in some cases, K1G.",
+      "url": "https://www.crcrr.org/_files/ugd/5732b4_50e0c3811be34c27bdd5603afb102ca3.pdf"
+    },
+    {
+      "name": "Blair Court Community House",
+      "description": "Offers food by appointment.",
+      "url": "https://blaircourt.ca/programs-and-services/"
+    },
+    {
+      "name": "Community Compassion Centre Food Bank",
+      "description": "Provides food and assistance to our K1C neighbours.",
+      "url": "https://cpcorleans.ca/foodbank/"
+    },
+    {
+      "name": "Confederation Court Community House Food Bank",
+      "description": "Provides essential support to individuals and families facing food insecurity.",
+      "url": "https://confederationcourt.com/programs/"
+    },
+    {
+      "name": "Dalhousie Food Cupboard",
+      "description": "Meets the needs of our neighbours by providing emergency food support and offering innovative solutions to address food security, build community, and promote well-being.",
+      "url": "https://www.dalhousiefoodcupboard.ca/home.html"
+    },
+    {
+      "name": "Feed the City",
+      "description": "Delivers emergency food to community members in Ottawa, Ontario, who are unable to access their local food bank, due to a variety of barriers.",
+      "url": "https://feedthecity.ca/"
+    },
+    {
+      "name": "Foodsharing Ottawa",
+      "description": "Working together to reduce food waste in our community.",
+      "url": "https://foodsharingottawa.com/"
+    },
+    {
+      "name": "Gloucester Emergency Food Cupboard",
+      "description": "Alleviates food insecurity in our community by working together to create opportunities to access and share good food through innovative food programming, partnerships, and civic engagement.",
+      "url": "https://gefc.ca/"
+    },
+    {
+      "name": "Just Food",
+      "description": "Building a sustainable food system that ensures access to healthy, local food for all Ottawa residents.",
+      "url": "https://justfood.ca/"
+    },
+    {
+      "name": "Orléans-Cumberland Community Resource Centre Food Bank",
+      "description": "Offers emergency food to low-income individuals and families within the Orleans East, Cumberland, Sarsfield, Vars, Navan, and Carlsbad Spring communities.",
+      "url": "https://www.crcoc.ca/en/food-bank/"
+    },
+    {
+      "name": "Ottawa Community Food Partnership",
+      "description": "Shifting the way we think about the food charity model across Algonquin/Ottawa towards meaningful community engagement and food security.",
+      "url": "https://ottawacommunityfoodpartnership.ca/"
+    },
+    {
+      "name": "Ottawa Food Bank",
+      "description": "Creates a healthier city by empowering people, increasing access to healthy food, and advocating for systemic changes that reduce food insecurity.",
+      "url": "https://www.ottawafoodbank.ca/"
+    },
+    {
+      "name": "Ottawa Food Rescue",
+      "description": "Works with donors, volunteers, and charities to ensure those in our community that may need a helping hand have access to quality food.",
+      "url": "https://ottawafoodrescue.ca/"
+    },
+    {
+      "name": "Ottawa Mission Food Truck",
+      "description": "Travels to our city's most vulnerable communities to serve people in need.",
+      "url": "https://ottawamission.com/ottawa-mission-food-truck-weekly-schedule/"
+    },
+    {
+      "name": "Partage Vanier",
+      "description": "Offre du dépannage alimentaire d'urgence une fois par mois pour les résident.es de Vanier.",
+      "url": "https://cscvanier.com/services/partage-vanier/"
+    },
+    {
+      "name": "Pavilion Food Bank",
+      "description": "Provides food for three days, once a month.",
+      "url": "https://www.facebook.com/profile.php?id=100057498376199"
+    },
+    {
+      "name": "Rideau-Rockcliffe Community Resource Centre Emergency Food Bank",
+      "description": "Aims to reduce food insecurity.",
+      "url": "https://www.crcrr.org/foodbank"
+    },
+    {
+      "name": "Russell Heights Community House Food Bank",
+      "description": "Improves the quality of life for our community members.",
+      "url": "https://www.russellheights.ca/Hours-and-Schedules.php"
+    },
+    {
+      "name": "St. Joe's Supper Table",
+      "description": "Feeds the hungry that come to their doors. Serves anyone who comes in need of food - for both the body and the soul.",
+      "url": "https://www.supper-table.ca/"
+    },
+    {
+      "name": "Westboro Region Food Bank",
+      "description": "Provides fresh and non-perishable food and essential supplies to food bank neighbours.",
+      "url": "https://www.allsaintswestboro.com/westboro-region-food-bank/"
+    }
   ]
 }
