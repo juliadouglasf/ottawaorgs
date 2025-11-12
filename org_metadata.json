@@ -54,6 +54,11 @@
       "name": "Ottawa Independent Living Resource Centre",
       "description": "Promoting a new perspective on disability.",
       "url": "https://oilrc.com"
+    },
+    {
+      "name": "Pinecrest-Queensway Community Health Centre (PQCHC) Blind-Low Vision Early Intervention Program",
+      "description": "Builds your knowledge about your child's learning style and builds your capacity to respond to their developmental needs.",
+      "url": "https://www.firstwords.ca/vision"
     }
   ],
   "food_orgs": [
@@ -156,6 +161,11 @@
       "name": "Pavilion Food Bank",
       "description": "Provides food for three days, once a month.",
       "url": "https://www.facebook.com/profile.php?id=100057498376199"
+    },
+    {
+      "name": "Pinecrest-Queensway Community Health Centre (PQCHC) Food Bank",
+      "description": "Provides access to nutritious and nourishing food, which positively impacts health and well-being.",
+      "url": "https://www.pqchc.com/services/food-bank"
     },
     {
       "name": "Rideau-Rockcliffe Community Resource Centre Emergency Food Bank",
@@ -325,6 +335,53 @@
       "name": "Vélo Vanier",
       "description": "Offers Vanier residents the opportunity to borrow a bicycle for free during the summer months.",
       "url": "https://cscvanier.com/en/our-services/velo-vanier/"
+    }
+  ],
+  "newcomers_orgs": [
+    {
+      "name": "Catholic Centre for Immigrants Ottawa",
+      "description": "Promotes and facilitates the reception of newcomers to Canada, sensitizes the community to address newcomers' needs and invites it to respond, and assists newcomes to realize their full potential in Canadian Society.",
+      "url": "https://cciottawa.ca/"
+    },
+    {
+      "name": "CÉSOC Refugee Resettlement Assistance Program (RAP)",
+      "description": "Welcomes, integrates, and resettles refugees sponsored by the federal government.",
+      "url": "https://www.cesoc.ca/nos-services/programme-daide-a-la-reinstallation-des-refugies-par/"
+    },
+    {
+      "name": "CÉSOC Support for Elderly Immigrants",
+      "description": "Helps immigrant seniors age safely and with dignity in their own homes by providing them with culturally and linguistically appropriate services offered by volunteers, community relations workers, and case managers.",
+      "url": "https://www.cesoc.ca/nos-services/appui-aux-aines-immigrants/"
+    },
+    {
+      "name": "Jewish Family Services (JFS) Settlement Services",
+      "description": "Offers newcomer services to all newcomers, no matter your cultural, ethnic, and linguistic backgrounds.",
+      "url": "https://www.jfsottawa.com/settlement-support-2/"
+    },
+    {
+      "name": "Ottawa Community Immigrant Services Organization (OCISO)",
+      "description": "Supports immigrants through the journey of making Canada their home by providing creative and responsive programs that are culturally and linguistically appropriate, by building community through mutual respect and partnerships, and by fostering healthy and inclusive spaces for open dialogue and healing.",
+      "url": "https://ociso.org/"
+    },
+    {
+      "name": "Ottawa Newcomers' Club",
+      "description": "Helps women new to Ottawa or those who have experienced a significant life change in the last two years meet new friends and become part of the community.",
+      "url": "https://ottawanewcomersclub.ca/"
+    },
+    {
+      "name": "Ottawa Public Library",
+      "description": "Provides blogs, events, and online resources for newcomers.",
+      "url": "https://collections.biblioottawalibrary.ca/en/newcomers-1"
+    },
+    {
+      "name": "Pinecrest-Queensway Community Health Centre (PQCHC) Community Connections for Newcomer Employment",
+      "description": "Provides employment preparation help to newcomers and connects them with community resources and employment supports to be able to find a job.",
+      "url": "https://www.pqchc.com/services/ccne"
+    },
+    {
+      "name": "YMCA Newcomer Information Centre",
+      "description": "Provides newcomers with all the necessary resources and support to help them successfully integrate into their new community.",
+      "url": "https://www.ymcaottawa-nic.ca/"
     }
   ]
 }
