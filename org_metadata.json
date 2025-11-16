@@ -344,6 +344,11 @@
       "url": "https://cciottawa.ca/"
     },
     {
+      "name": "Centretown Community Health Centre LGBTQIA+ Newcomer Program",
+      "description": "A social drop-in for LGBTQIA+ newcomers.",
+      "url": "https://www.centretownchc.org/programs/lgbtqia%2B-newcomer-program"
+    },
+    {
       "name": "CÉSOC Refugee Resettlement Assistance Program (RAP)",
       "description": "Welcomes, integrates, and resettles refugees sponsored by the federal government.",
       "url": "https://www.cesoc.ca/nos-services/programme-daide-a-la-reinstallation-des-refugies-par/"
@@ -382,6 +387,30 @@
       "name": "YMCA Newcomer Information Centre",
       "description": "Provides newcomers with all the necessary resources and support to help them successfully integrate into their new community.",
       "url": "https://www.ymcaottawa-nic.ca/"
+    }
+  ],
+  "survivor_support_orgs": [
+    {
+      "name": "Algonquin College Student Distress Line",
+      "description": "Connects survivors of a sexual assault to relevant support, resources, and options on campus.",
+      "url": "https://www.algonquincollege.com/projectlighthouse/survivor-information/"
+    },
+    {
+      "name": "Carlington Community Health Centre Health Services for Violence Against Women",
+      "description": "Provides individual counselling, transitional support, and support groups for women that have experienced abuse.",
+      "url": "https://carlingtonchc.com/programs-and-services/health-services/violence-against-women/"
+    },
+    {
+      "name": "Centre for Treatment of Sexual Abuse and Childhood Trauma",
+      "description": "Offers individual, couples, and group therapy.",
+      "url": "https://www.centrefortreatment.com/"
+    }
+  ],
+  "2SLGBTQIA+_orgs": [
+    {
+      "name": "Centretown Community Health Centre 2SLGBTQIA+ Programs and Services",
+      "description": "Provides free programs for counselling, HIV point-of-care testing, hormone therapy starts and surgery referral, LGBTQIA+ newcomers, and trans health.",
+      "url": "https://www.centretownchc.org/lgbtq2s"
     }
   ]
 }
