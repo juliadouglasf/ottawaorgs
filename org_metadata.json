@@ -321,6 +321,12 @@
         "description": "Enhances the quality of life for Indigenous people in the Capital Region.",
         "url": "https://odawa.ca/",
         "scope": "local"
+      },
+      {
+        "name": "Ontario Native Women's Association: Services for Indigenous Women in Ottawa",
+        "description": "Provices programs and services for Indigenous women.",
+        "url": "https://www.onwa.ca/ottawa-services",
+        "scope": "local"
       }
     ],
     "transit_orgs": [
