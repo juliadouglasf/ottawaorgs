@@ -183,6 +183,12 @@
       "url": "https://www.supper-table.ca/"
     },
     {
+      "name": "UOSU Food Bank",
+      "description": "Supports undergraduate students at the University of Ottawa who are experiencing food insecurity.",
+      "url": "https://www.seuo-uosu.com/services/food-bank",
+      "scope": "local"
+    },
+    {
       "name": "Westboro Region Food Bank",
       "description": "Provides fresh and non-perishable food and essential supplies to food bank neighbours.",
       "url": "https://www.allsaintswestboro.com/westboro-region-food-bank/"
@@ -240,6 +246,12 @@
       "url": "https://naomiscentre.ca/"
     },
     {
+      "name": "Operation Come Home",
+      "description": "A centre for homeless and at-risk youth aged 16-29, dedicated to providing employment, education, and support services.",
+      "url": "https://www.operationcomehome.ca/",
+      "scope": "local"
+    },
+    {
       "name": "Ottawa Community Housing",
       "description": "Delivers a great housing experience through exceptional service. Works closely with communities to foster tenants' sense of belonging and empowerment. Provides quality, safe, and affordable homes meeting the needs of individuals and families. Works with partners to support the tenants' needs and contribute to stronger, more inclusive communities.",
       "url": "https://www.och-lco.ca/"
@@ -283,8 +295,34 @@
       "name": "The Well",
       "description": "Provides laundry, showers, meals (breakfast and lunch), hygiene supplies, telephone access, internet, and community navigation support to women, children, and gender-diverse people.",
       "url": "https://belongottawa.ca/programs/the-well/"
+    },
+    {
+      "name": "Youth Services Bureau of Ottawa (YSB) Housing and Shelter",
+      "description": "Offers multiple services and housing programs to suit youth in a variety of life situations.",
+      "url": "https://www.ysb.ca/services/community-and-housing-services/housing-and-shelter/",
+      "scope": "local"
     }
-  ],
+    ],
+    "indigenous_orgs": [
+      {
+        "name": "Hope for Wellness Helpline",
+        "description": "Provides experienced and culturally competent counsellors for all Indigenous people across Canada.",
+        "url": "https://www.hopeforwellness.ca/",
+        "scope": "national"
+      },
+      {
+        "name": "Minwaashin Lodge",
+        "description": "Provides a range of programs and services to First Nations, Inuit, and Métis women and children (regardless of status) who are survivors of domestic and other forms of violence, and who may also be suffering the effects of the residential school system.",
+        "url": "https://www.minlodge.com/",
+        "scope": "local"
+      },
+      {
+        "name": "Odawa Native Friendship Centre",
+        "description": "Enhances the quality of life for Indigenous people in the Capital Region.",
+        "url": "https://odawa.ca/",
+        "scope": "local"
+      }
+    ],
     "transit_orgs": [
     {
       "name": "Bike Ottawa",
@@ -332,12 +370,24 @@
       "url": "https://www.tripsforkidsottawa.ca/"
     },
     {
+      "name": "UOSU Bike Co-op",
+      "description": "An inclusive DIY space for beginners as well as experts. Provides tools and expertise needed to repair or build a bicycle.",
+      "url": "https://www.seuo-uosu.com/services/bike-coop",
+      "scope": "local"
+    },
+    {
       "name": "Vélo Vanier",
       "description": "Offers Vanier residents the opportunity to borrow a bicycle for free during the summer months.",
       "url": "https://cscvanier.com/en/our-services/velo-vanier/"
     }
   ],
-  "newcomers_orgs": [
+  "newcomer_orgs": [
+    {
+      "name": "Capital Rainbow Refuge",
+      "description": "Supports and sponsors LGBTQI+ refugees.",
+      "url": "https://capitalrainbow.ca/",
+      "scope": "local"
+    },
     {
       "name": "Catholic Centre for Immigrants Ottawa",
       "description": "Promotes and facilitates the reception of newcomers to Canada, sensitizes the community to address newcomers' needs and invites it to respond, and assists newcomes to realize their full potential in Canadian Society.",
@@ -384,6 +434,12 @@
       "url": "https://www.pqchc.com/services/ccne"
     },
     {
+      "name": "Positive Spaces Initiative",
+      "description": "Shares resources and increases organizational capacity across the immigrant- and refugee-serving sector to more effectively serve LGBTQIA+ immigrants, refugees, and newcomers.",
+      "url": "https://positivespaces.ca/en",
+      "scope": "provincial"
+    },
+    {
       "name": "YMCA Newcomer Information Centre",
       "description": "Provides newcomers with all the necessary resources and support to help them successfully integrate into their new community.",
       "url": "https://www.ymcaottawa-nic.ca/"
@@ -408,9 +464,284 @@
   ],
   "2SLGBTQIA+_orgs": [
     {
+      "name": "Big Brothers and Big Sisters of Ottawa (BBBSO) Prism",
+      "description": "Community and school-based program that connects children and youth who identify as 2SLGBTQIA+ with an adult mentor who also identifies as 2SLGBTQIA+ for a one-on-one mentoring relationship.",
+      "url": "https://www.bbbso.ca/get-involved/prism/",
+      "scope": "local"
+    },
+    {
+      "name": "Capital Pride",
+      "description": "Creates opportunities to celebrate, advocate, educate, and connect people, respecting the full diversity of the 2SLGBTQ+ community.",
+      "url": "https://capitalpride.ca/"
+    },
+    {
+      "name": "Capital Rainbow Refuge",
+      "description": "Supports and sponsors LGBTQI+ refugees.",
+      "url": "https://capitalrainbow.ca/",
+      "scope": "local"
+    },
+    {
       "name": "Centretown Community Health Centre 2SLGBTQIA+ Programs and Services",
       "description": "Provides free programs for counselling, HIV point-of-care testing, hormone therapy starts and surgery referral, LGBTQIA+ newcomers, and trans health.",
       "url": "https://www.centretownchc.org/lgbtq2s"
+    },
+    {
+      "name": "Champlain Regional Planning Table (RPT) for Trans, Non-binary, Two-Spirit, Intersex, and Gender-Diverse Health",
+      "description": "Works to improve trans, two-spirit, intersex, and gender-diverse health in Ottawa and the surrounding areas.",
+      "url": "https://transhealthottawa.org/",
+      "scope": "local"
+    },
+    {
+      "name": "CHEO Gender Diversity Clinic",
+      "description": "Works with families to create individualized care plans that support each youth's gender affirmation goals.",
+      "url": "https://www.cheo.on.ca/en/clinics-services-programs/gender-diversity-clinic.aspx",
+      "scope": "local"
+    },
+    {
+      "name": "Les Chouettes",
+      "description": "Organises social, cultural, and outdoor activities for women who love women.",
+      "url": "https://www.meetup.com/les-chouettes-ottawa-gatineau/"
+    },
+    {
+      "name": "CUSA Gender & Sexuality Resource Centre (GSRC)",
+      "description": "Creates a safe(r) environment for the 2SLGBTQIA+ community through education, advocacy, and unwavering support.",
+      "url": "https://www.cusaonline.ca/service-centres/gsrc/",
+      "scope": "local"
+    },
+    {
+      "name": "Family Services Ottawa (FSO) 2SLGBTQI+ Around the Rainbow",
+      "description": "Provides education, counselling, and support services to 2SLGBTQI+ families and individuals.",
+      "url": "https://familyservicesottawa.org/services-and-programs/around-the-rainbow/",
+      "scope": "local"
+    },
+    {
+      "name": "FrancoQueer",
+      "description": "Mobilise, soutient et célèbre les francophones 2SLGBTQIA+ en Ontario, tout en sensibilisant et en outillant les communautés et les organisations pour favoriser la création d'espaces sécuritaires, affirmatifs et respectueux de la diversité affective, sexuelle et de genre.",
+      "url": "https://www.francoqueer.ca/accueil"
+    },
+    {
+      "name": "Gay Lesbian Tennis Ottawa",
+      "description": "A social group in Ottawa and surrounding areas that values equality, respect, and having fun while playing tennis.",
+      "url": "https://www.facebook.com/groups/2192400794342865/",
+      "scope": "local"
+    },
+    {
+      "name": "Gegi",
+      "description": "Helps you or someone you love advocate for your gender expression and gender identity human rights at school.",
+      "url": "https://www.gegi.ca/",
+      "scope": "provincial"
+    },
+    {
+      "name": "Gender Marker Change Guide",
+      "description": "Document check-lists, important tips, and additional information about the process of changing your gender marker on a variety of different documents.",
+      "url": "https://www.gwlegalclinic.ca/wp-content/uploads/2025/04/Updated-Gender-Marker-ID-Guide-1.pdf",
+      "scope": "national"
+    },
+    {
+      "name": "Gender Mosaic",
+      "description": "Trans social and support group.",
+      "url": "https://www.facebook.com/gendermosaic/",
+      "scope": "national"
+    },
+    {
+      "name": "Goodhead",
+      "description": "Website for guys into guys (G2G) to learn and get curious about the mental health issues affecting them and their communities and to help them locate mental health services in Ontario.",
+      "url": "https://goodhead.ca/en/",
+      "scope": "provincial"
+    },
+    {
+      "name": "The Good Companions 2SLGBTQIA+ Programs and Services",
+      "description": "Offers programs for the senior Rainbow Community.",
+      "url": "https://thegoodcompanions.ca/community-support-services/2slgbtqia-programs-and-services/",
+      "scope": "local"
+    },
+    {
+      "name": "Government of Canada Gender-inclusive writing",
+      "description": "Vocabularies, glossaries, and collections of terms related to gender and sexual diversity.",
+      "url": "https://www.noslangues-ourlanguages.gc.ca/en/ressources-resources/ecriture-inclusive-writing/glossaires-glossaries-eng",
+      "scope": "national"
+    },
+    {
+      "name": "Government of Canada Gender and Sexual Diversity Glossary",
+      "description": "English and French equivalents to 155 concepts on gender and sexual diversity.",
+      "url": "https://www.btb.termiumplus.gc.ca/publications/diversite-diversity-eng.html",
+      "scope": "national"
+    },
+    {
+      "name": "Government of Canada 2SLGBTQI+ terminology",
+      "description": "Glossary and common acronyms related to 2SLGBTQI+ identities and issues.",
+      "url": "https://www.canada.ca/en/women-gender-equality/free-to-be-me/2slgbtqi-plus-glossary.html",
+      "scope": "national"
+    },
+    {
+      "name": "Jeunesse Idem",
+      "description": "Improves the lives of 2LGBTQIA+ people aged 7 to 35. Raises awareness of the diversity of sexual orientations and gender identities among the population of the Outaouais region.",
+      "url": "https://www.jeunesseidem.org/?lang=en",
+      "scope": "local"
+    },
+    {
+      "name": "Kind Space",
+      "description": "Community centre that offers resources, events, social, and educational programming. Celebrates, supports, and prioritises oppressed sexual orientations, gender identities, and expressions.",
+      "url": "https://www.kindspace.ca/"
+    },
+    {
+      "name": "Lesbian Outdoor Group",
+      "description": "Provides opportunities for lesbians, bisexual, trans, and LGBT-friendly women in the Ottawa-Gatineau region to enjoy the great outdoors and to socialise indoors, too!",
+      "url": "https://www.meetup.com/lesbian-outdoor-group/"
+    },
+    {
+      "name": "MAX Ottawa",
+      "description": "Health and wellness services and programs for queer, trans, and non-binary people.",
+      "url": "https://maxottawa.ca/"
+    },
+    {
+      "name": "Ottawa-Carleton District School Board (OCDSB) 2SLGBTQ+ Supports",
+      "description": "Resources for students, families, and staff of all gender identities, gender expressions, and sexual orientations to feel physically and emotionally safe, welcomed, and accepted at school.",
+      "url": "https://www.ocdsb.ca/family-community-support/2slgbtq-supports",
+      "scope": "local"
+    },
+    {
+      "name": "Ottawa Frontrunners (OFR)",
+      "description": "A running and walking club for members of the Two-Spirit, Lesbian, Gay, Bisexual, Transgender, and Queer (2SLGBTQ) community and friends.",
+      "url": "https://www.ottawafrontrunners.org/en/home/"
+    },
+    {
+      "name": "Ottawa Gay Men's Chorus",
+      "description": "Promotes the study and practice of choral music and affirms 2SLGBTQ+ community identity and culture by establishing and operating a bilingual gay men's chorus and performing choral concerts for the benefit of the public-at-large.",
+      "url": "https://cgogmc.com/",
+      "scope": "local"
+    },
+    {
+      "name": "Ottawa Pride Hockey",
+      "description": "Ottawa's inclusive hockey team, founded and run by queer and trans individuals.",
+      "url": "https://www.ottawapridehockey.org/",
+      "scope": "local"
+    },
+    {
+      "name": "Ottawa Senior Pride Network",
+      "description": "Works to advance change for lesbian, gay, bisexual, transgender, two-spirited, and queer-identified senior adults over 50 years of age in the National Capital Region.",
+      "url": "https://ospn-rfao.ca/"
+    },
+    {
+      "name": "Ottawa Time Out Hiking Club",
+      "description": "A hiking club for members of the gay, lesbian, bisexual, trans, and queer (LGBTQ+) communities.",
+      "url": "https://www.facebook.com/groups/timeouthiking/discussion/preview",
+      "scope": "local"
+    },
+    {
+      "name": "Ottawa Trans Library",
+      "description": "Houses a collection of books by trans authors, as well as historical, important, and interesting works on trans issues and people.",
+      "url": "https://ottawatranslibrary.ca/",
+      "scope": "local"
+    },
+    {
+      "name": "Ottawa Wolves Rugby Football Club",
+      "description": "A Rugby Football Club for men and women. Team members are predominantly part of the LGBTQA community, but diverse in its make-up, and inclusive of everyone.",
+      "url": "https://ottawawolves.ca/",
+      "scope": "local"
+    },
+    {
+      "name": "Out and About Ottawa-Gatineau",
+      "description": "A free, all-encompassing Meetup group for people that identify as LGBTQ2S+ and their allies who like to go out, be entertained and socialise.",
+      "url": "https://www.meetup.com/out-and-about-ottawa-gatineau/"
+    },
+    {
+      "name": "pflag Canada",
+      "description": "Help 2SLGBTQIA+ individuals and their loved ones connect with resources and find a supportive community.",
+      "url": "https://pflagcanada.ca/",
+      "scope": "national"
+    },
+    {
+      "name": "Positive Spaces Initiative",
+      "description": "Shares resources and increases organizational capacity across the immigrant- and refugee-serving sector to more effectively serve LGBTQIA+ immigrants, refugees, and newcomers.",
+      "url": "https://positivespaces.ca/en",
+      "scope": "provincial"
+    },
+    {
+      "name": "Pride Capital Volleyball",
+      "description": "Promotes volleyball and the well-being of the 2SLGBTQ+ community of the National Capital Region by offering fun, inclusive, and positive spaces for 2SLGBTQ+ people and allies of all skill levels.",
+      "url": "https://pcv-fvc.ca/",
+      "scope": "local"
+    },
+    {
+      "name": "Psychiatric Survivors of Ottawa Rainbow Peers Support Group",
+      "description": "Creates a safe space to share about sexual orientation, gender identity, mental health, and experiences accessing services.",
+      "url": "https://www.pso-ottawa.ca/rainbow-peers",
+      "scope": "local"
+    },
+    {
+      "name": "Public Service Pride",
+      "description": "Builds a workplace where every employee feels valued, respected, and empowered to contribute fully, ensuring that the federal public service is a model of inclusion and equity.",
+      "url": "https://publicservicepride.ca/"
+    },
+    {
+      "name": "qtpoc++ socialbees ottawa-gatineau",
+      "description": "Social networking forum for use by qtpoc++ for building solidarity in the Ottawa-Gatineau area.",
+      "url": "https://www.facebook.com/groups/1429671590689706"
+    },
+    {
+      "name": "Rainbow Health Ontario",
+      "description": "Advances 2SLGBTQ+ health equity in Ontario through provider training, resources, and advocacy.",
+      "url": "https://www.rainbowhealthontario.ca/",
+      "scope": "provincial"
+    },
+    {
+      "name": "Rideau Speedeaus",
+      "description": "An inclusive masters swim club which values swimming in a diverse, fun, open, safe, and supportive environment. Helps members reach their swimming goals, whether they be for recreation, fitness, or competition. Fosters connection and friendship through social and swimming activities.",
+      "url": "https://www.rideauspeedeaus.com/",
+      "scope": "local"
+    },
+    {
+      "name": "SAEFTY Ottawa",
+      "description": "Fosters spaces for trans and gender-diverse children, youth, and adults, along with their families, to connect with each other through youth-centred events outside of mainstream health and social services in the Ottawa region.",
+      "url": "https://www.saeftyottawa.ca/",
+      "scope": "local"
+    },
+    {
+      "name": "Trans Outaouais",
+      "description": "Promotes the development of harmonious relations within the LGBTQIA2S+ community and the inclusion of gender-diverse people and all other intersections.",
+      "url": "https://www.transoutaouais.com/en/",
+      "scope": "local"
+    },
+    {
+      "name": "Tone Cluster",
+      "description": "Creates a queer-positive environment where singers can be themselves and work towards choral excellence, all while supporting those of varied sexual orientation, gender identity, and relationship orientation, as well as highlighting intersections between the 2SLGBTQIA+ community and other equity-seeking groups.",
+      "url": "https://www.tonecluster.ca/?home"
+    },
+    {
+      "name": "UOSU Pride Centre",
+      "description": "An independent, student-run service that strives to promote and represent a culture of affirmation through the celebration of individual diversity and choice in all areas of life.",
+      "url": "https://www.seuo-uosu.com/services/pride",
+      "scope": "local"
+    },
+    {
+      "name": "Western Ottawa Community Resource Centre Queerios LGBTQ+",
+      "description": "Offers a safe space for connection, growth, and community engagement to LGBTQ+ youth aged 12-17.",
+      "url": "https://wocrc.ca/program/queerios-lgbtq-youth-drop-in/",
+      "scope": "local"
+    },
+    {
+      "name": "We Are Allies",
+      "description": "Helps adults learn how to support and care for the trans, Two-Spirit, and non-binary youth in their lives.",
+      "url": "https://www.weareallies.ca/",
+      "scope": "national"
+    },
+    {
+      "name": "Wisdom2Action",
+      "description": "Social enterprise and consulting firm specializing in community engagement; creative facilitation; research and evaluation; knowledge mobilization; and equity, diversity, and inclusion.",
+      "url": "https://www.wisdom2action.org/",
+      "scope": "national"
+    },
+    {
+      "name": "YouthLine",
+      "description": "Offers free support through its Ontario-wide 2SLGBTQ+ peer-support HelpLine.",
+      "url": "https://www.youthline.ca/",
+      "scope": "provincial"
+    },
+    {
+      "name": "Youth Services Bureau of Ottawa (YSB) Spectrum 2SLGBTQ Community Youth Group",
+      "description": "Provides workshops, discussion groups, art collaborations, counselling services, peer mentoring, and primary care resources.",
+      "url": "https://www.ysb.ca/for-youth/youth-engagement/spectrum-lgbtq-community-youth-group/"
     }
   ]
 }
