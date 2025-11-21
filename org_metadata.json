@@ -61,6 +61,194 @@
       "url": "https://www.firstwords.ca/vision"
     }
   ],
+  "environment_orgs": [
+    {
+      "name": "Canada Green Building Council",
+      "description": "Changes industry standards, develops best practices, and provides the tools and training needed for sustainable green building everywhere.",
+      "url": "https://www.cagbc.org/",
+      "scope": "national"
+    },
+    {
+      "name": "Canadian Environmental Network",
+      "description": "Connects, supports, and mobilizes an informed and committed network to secure a healthy environment and stable climate for Canada.",
+      "url": "https://www.rcen.ca/en/home",
+      "scope": "national"
+    },
+    {
+      "name": "Canadian Network for Environmental Education and Communication (EECOM)",
+      "description": "Propels environmental learning among practitioners nationwide by offering professional development opportunities and establishing a centralized platform for networking and collaborative endeavours. Convenes the multifaceted environmental and sustainability education (ESE) community primarily through conferences, leadership training programs, webinars, and the esteemed national Awards of Excellence.",
+      "url": "https://www.eecom.org/",
+      "scope": "national"
+    },
+    {
+      "name": "Canadian Network for Human Health and the Environemnt (CNHHE)",
+      "description": "Engages members in the Chemicals Management Plan (CMP) run jointly by Health Canada (HC) and Environment and Climate Change Canada (ECCC).",
+      "url": "https://cnhhe.nb.lung.ca/",
+      "scope": "national"
+    },
+    {
+      "name": "Canadian Renewable Energy Association",
+      "description": "Advocates on behalf of the wind energy, solar energy, and energy storage industries to benefit Canada's economy and energy future. Increases stakeholder understanding that renewable electricity and energy storage are clean, low-cost, reliable, flexible, and scalable solutions for Canada's energy needs. Provides a forum devoted to dialogue, collaboration, stewardship, and growth of the industry.",
+      "url": "https://renewablesassociation.ca/",
+      "scope": "national"
+    },
+    {
+      "name": "CanadianSolar",
+      "description": "Provides a full suite of solar solutions, both as a module and solar services provider.",
+      "url": "https://www.csisolar.com/na/canada/",
+      "scope": "national"
+    },
+    {
+      "name": "Climate Action Network Canada",
+      "description": "Combats climate change, particularly by building social consensus for the implementation of comprehensive climate change action plans by all levels of government, based on the best available science, with specific policies, targets, timetables, and reporting, and to work with Canada's governments, First Nations, Inuit, and Métis, private sector, labour, and civil society for the effective implementation of these plans.",
+      "url": "https://climateactionnetwork.ca/",
+      "scope": "national"
+    },
+    {
+      "name": "Climate Action Partnership",
+      "description": "Enables communities to improve air quality, advance active transportation, and take bold climate action. Convenes networks, leads research and knowledge transfer, and catalyzes transformative action.",
+      "url": "https://climateactionpartnership.ca/",
+      "scope": "national"
+    },
+    {
+      "name": "Conservation Ontario",
+      "description": "Promotes and continually strengthens a watershed-based conservation coalition in Ontario.",
+      "url": "https://conservationontario.ca/",
+      "scope": "provincial"
+    },
+    {
+      "name": "Cooperation Canada",
+      "description": "Works alongside governments, communities, and change-makers - both in Canada and abroad - to advance practical solutions that create a fairer, safer, and more sustainable world.",
+      "url": "https://cooperation.ca/",
+      "scope": "national"
+    },
+    {
+      "name": "Ecology Ottawa",
+      "description": "Works to make Ottawa the green capital of Canada.",
+      "url": "https://www.ecologyottawa.ca/",
+      "scope": "local"
+    },
+    {
+      "name": "Ecovillage Network of Canada",
+      "description": "Facilitates the exchanges of ideas and information on sustainable ways of living in communities and promotes the principles and practices developed in the ecovillages around the world.",
+      "url": "https://ecovillagenetworkcanada.wordpress.com/?fbclid=IwY2xjawONOGJleHRuA2FlbQIxMABicmlkETFnbU52T3dQcHVLbDl2UEREc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHs6DrDHMVweN9zuhmuADD70uS7Iq1Qsr_zu-aV7Eq50O0YqsXExwjZ8G-VdG_aem_j_xM3qociIdAAtbH9bMJWQ",
+      "scope": "national"
+    },
+    {
+      "name": "Envirocentre",
+      "description": "Scopes, designs, delivers, and scales practical solutions to dramatically reduce climate emissions in our communities.",
+      "url": "https://envirocentre.ca/",
+      "scope": "local"
+    },
+    {
+      "name": "Fairtrade Canada",
+      "description": "Supports, promotes, and advocates for fairer terms of trade for farmers and workers disadvantaged by unfair global trade structures.",
+      "url": "https://fairtrade.net/ca-en.html",
+      "scope": "national"
+    },
+    {
+      "name": "Gardens Ottawa",
+      "description": "Promotes the development of marketing synergies, directly linked to local, regional, provincial, and national strategies. Provides unique and effective opportunities to develop the experience of the gardening sector, its markets, and the buy-in of all those involved.",
+      "url": "https://gardensottawa.ca/",
+      "scope": "local"
+    },
+    {
+      "name": "GoodWork",
+      "description": "Connect motivated, passionate people with opportunities in environment and sustainability: meaningful work with environmental organizations, sustainable business, and municipal and federal government.",
+      "url": "https://www.goodwork.ca/",
+      "scope": "national"
+    },
+    {
+      "name": "Green Communities Canada",
+      "description": "Connects community-based climate action groups through a national network to share resources, co-create innovative programming, and elevate our collective impact.",
+      "url": "https://greencommunitiescanada.org/",
+      "scope": "national"
+    },
+    {
+      "name": "Green Ottawa",
+      "description": "Directory for green, sustainable, eco-friendly, renewable, natural, and organic resources",
+      "url": "https://greenottawa.ca/",
+      "scope": "local"
+    },
+    {
+      "name": "Greening Sacred Spaces",
+      "description": "Harnesses the power of diverse faith and spiritual groups through education, capacity-building, and collective action to build more resilient and sustainable communities.",
+      "url": "https://www.greeningsacredspaces.ca/",
+      "scope": "local"
+    },
+    {
+      "name": "LandOwner Resource Centre",
+      "description": "Provides integrated information and referrals for landowners through a one-window approach.",
+      "url": "http://www.lrconline.com/",
+      "scope": "local"
+    },
+    {
+      "name": "Master Gardeners of Ottawa-Carleton",
+      "description": "Offers free, authoritative, and unbiased gardening advice to the public.",
+      "url": "https://mgottawa.ca/",
+      "scope": "local"
+    },
+    {
+      "name": "National Capital Commission",
+      "description": "Provides unique value in the Capital Region by fulfilling three specific roles: long-term planner of federal lands, principal steward of nationally significant public places, and creative partner committed to excellence in development and conservation.",
+      "url": "https://ncc-ccn.gc.ca/",
+      "scope": "local"
+    },
+    {
+      "name": "Ontario Clean Air Alliance",
+      "description": "Works to move Ontario to a zero-carbon electricity grid by 2035 or sooner and lower electricity bills through an integrated combination of energy efficiency and demand management; cost-effective, made-in-Canada renewable energy; and energy storage.",
+      "url": "http://www.cleanairalliance.org",
+      "scope": "provincial"
+    },
+    {
+      "name": "Ontario Sustainable Energy Association",
+      "description": "Accelerates Ontario's transition to low-carbon technologies by supporting sustainable energy jobs and businesses.",
+      "url": "https://ontario-sea.org/",
+      "scope": "provincial"
+    },
+    {
+      "name": "Ottawa Green Drinks",
+      "description": "Informal meet-ups for people who work in the environmental field.",
+      "url": "https://www.greendrinks.org/ON/Ottawa",
+      "scope": "local"
+    },
+    {
+      "name": "Renewable Industries Canada",
+      "description": "Works with government stakeholders and policymakers to identify climate solutions with growth opportunities. Shares expertise in planning and building initiatives with economic and environmental sustainability. Advocates for increases in adoption, production, and innovation of biofuels, renewable products, and clean technologies.",
+      "url": "https://ricanada.org/",
+      "scope": "national"
+    },
+    {
+      "name": "Sierra Club Canada",
+      "description": "Empowers people to be leaders in protecting, restoring, and enjoying healthy and safe ecosystems.",
+      "url": "https://www.sierraclub.ca/",
+      "scope": "national"
+    },
+    {
+      "name": "Stewardship Directory",
+      "description": "Helps community stewardship groups, organizations, businesses, and government connect with each other to share their experiences and lessons learned in stewardship and natural resource management.",
+      "url": "https://stewardshipdirectory.com/",
+      "scope": "national"
+    },
+    {
+      "name": "Sustainability Network",
+      "description": "Strengthens environmental non-profit leadership.",
+      "url": "https://www.sustainabilitynetwork.ca/",
+      "scope": "national"
+    },
+    {
+      "name": "Sustainable Eastern Ontario",
+      "description": "Fosters partnerships and collaborations on sustainability activities throughout Eastern Ontario. Connects sustainability groups together, develops strategic collaborations across the sector, builds capacity of administration and operations, and celebrates successes across the region. Raises the profile and capability of sustainability initiatives and tells the story of transition and resilience in our community.",
+      "url": "https://www.sustainableeasternontario.ca/",
+      "scope": "provincial"
+    },
+    {
+      "name": "Sustainable Enterprise Alliance",
+      "description": "Helps clients assess their environmental footprint, identify risks and opportunities, and work with their organizations to set a pathway to become leaders in their sector.",
+      "url": "https://www.sustainableinsights.ca/ottawa/",
+      "scope": "local"
+    }
+  ],
   "food_orgs": [
     {
       "name": "The Baby Cupboard Program",
@@ -98,6 +286,12 @@
       "url": "https://feedthecity.ca/"
     },
     {
+      "name": "Food Secure Canada",
+      "description": "Encourages conversation on challenges around food issues, advocates for policy improvements, and strengthens the capacity of communities towards a future where everyone everywhere has access to good, healthful food, which honours both our relationships to the earth and to each other.",
+      "url": "https://foodsecurecanada.org/",
+      "scope": "national"
+    },
+    {
       "name": "Foodeliver",
       "description": "Shares kindness through making food accessible to newcomer families with dignity. Reduces food waste, improves access to nutritious meals, and builds a more caring community in Ottawa.",
       "url": "https://www.foodeliver.ca/"
@@ -106,6 +300,12 @@
       "name": "Foodsharing Ottawa",
       "description": "Working together to reduce food waste in our community.",
       "url": "https://foodsharingottawa.com/"
+    },
+    {
+      "name": "FoodWork",
+      "description": "Job board for all kinds of work in local and sustainable food: jobs, entrepreneurs, farmers, board positions, interns, managers, partners, and volunteers.",
+      "url": "https://www.foodwork.ca/",
+      "scope": "national"
     },
     {
       "name": "Gloucester Emergency Food Cupboard",
