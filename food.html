@@ -2,9 +2,32 @@
 <html lang="en">
   <div id="head"></div>
   <script>
-  fetch('head.html').then(response => response.text()).then(data => document.getElementById('head').innerHTML = data);
-  </script>  
-  <body class="d-flex flex-column min-vh-100">
+    function fetchAndInsert(id, url) {
+      fetch(url)
+      .then(r => r.text())
+      .then(html => {
+        const element = document.getElementById(id);
+        if (!element) return;
+        element.innerHTML = html;
+        const tmp = document.createElement('div');
+        tmp.innerHTML = html;
+        tmp.querySelectorAll('script').forEach(old => {
+          const s = document.createElement('script');
+          if (old.src) {
+            s.src = old.src;
+            s.async = false;
+          } else {
+            s.textContent = old.textContent;
+          }
+          document.body.appendChild(s);
+        });
+      })
+      .catch(err => console.error('fetchAndInsert error: ', err));
+    }
+
+    fetchAndInsert('head', 'head.html');
+  </script> 
+  <body class="d-flex flex-column min-vh-100 bg-dark">
     <div id="navbar"></div>
     <script>
         fetch('navbar.html').then(response => response.text()).then(data => document.getElementById('navbar').innerHTML = data);

@@ -1,36 +1,96 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top auto-hiding-navbar">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="index.html">Ottawa Orgs</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav ms-auto">
-          <li class="nav-item">
-            <a class="nav-link" href="about.html">About</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="accessibility.html">Accessibility</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="environment.html">Environment</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="food.html">Food</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="homelessness.html">Homelessness</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="indigenous.html">Indigenous</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="transit.html">Transit</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="2SLGBTQIA+.html">2SLGBTQIA+</a>
-          </li>
-        </ul>
-      </div>
+<!-- navbar only; no head or body tags needed -->
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+
+  <!-- navbar container -->
+  <div class="container-fluid d-flex align-items-center">
+
+    <!-- website logo & name (left side) -->
+    <div class="navbar-brand">
+      <img src="ottawa_orgs_full_logo.png" id="logo" alt="Ottawa Orgs logo">
+      <!-- <a class="me-3" id="site-name" href="index.html">Ottawa Orgs</a> -->
     </div>
-  </nav>
+
+    <!-- right-side flex group -->
+    <!--<div class="d-flex ms-auto align-items-center"> -->
+
+    <!-- large screen search (right side, but left of actual nav) -->
+    <form class="d-none d-lg-flex flex-grow-1 mx-lg-1" action="results.html" method="GET">
+      <div class="input-group">
+        <input class="form-control" type="search" id="search-input" name="q" placeholder="Search">
+        <button class="btn btn-success" type="submit">Go</button>
+      </div>
+    </form>
+
+    <!-- magnifying glass search button (small screens)-->
+
+    <!-- <button class="btn d-lg-none" id="mobile-search-btn" aria-label="search button"> -->
+
+    <!-- <a role="button" href="mobile_search.js" aria-label="search button">
+<i class="bi bi-search"></i>
+        </a> -->
+
+    <button type="button" id="mobile-search-btn" class="btn d-lg-none ms-auto me-2" onclick="openMobileSearch()"
+      aria-label="search button" aria-expanded="false" aria-haspopup="dialog">
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" class="bi bi-search" viewBox="0 0 16 16">
+        <path
+          d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0" />
+      </svg>
+    </button>
+    <!-- </button> -->
+
+    <!-- actual navigation (far right) -->
+
+    <!-- navbar toggle button (small screens) -->
+    <button class="navbar-toggler me-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+      aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <!-- </div> -->
+
+    <!-- links -->
+    <div class="collapse navbar-collapse container" id="navbarNav">
+      <ul class="navbar-nav me-0">
+        <li class="nav-item flex">
+          <a class="nav-link" href="about.html">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="accessibility.html">Accessibility</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="environment.html">Environment</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="food.html">Food</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="homelessness.html">Homelessness</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="indigenous.html">Indigenous</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="transit.html">Transit</a>
+        </li>
+        <li class="nav-item d-flex">
+          <a class="nav-link" href="2SLGBTQIA+.html">2SLGBTQIA+</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- mobile search -->
+  <div id="mobile-search-bar" class="mobile-search d-none w-100">
+    <form action="results.html" method="GET" class="d-flex align-items-center w-100">
+      <input class="form-control flex-grow-1" type="search" name="q" placeholder="Search">
+      <button type="button" class="btn btn-link text-light" id="mobile-search-x" aria-label="mobile search button">
+        <i class="bi bi-x-lg" onclick="closeMobileSearch()"></i>
+      </button>
+    </form>
+  </div>
+
+
+</nav>

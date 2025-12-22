@@ -1,507 +1,507 @@
-{
-  "accessibility_orgs": [
-    {
-      "name": "Abilities Ottawa",
-      "description": "Programs and initiatives that support quality participation, community capacity building, and educational opportunities that break down barriers and increase inclusive recreational and sport opportunities for people of all abilities.",
-      "url": "https://abilitiescentreottawa.org"
-    },
-    {
-      "name": "Ability First Ottawa",
-      "description": "Comprehensive services and support for people with disabilities.",
-      "url": "https://abilityfirstottawa.org"
-    },
-    {
-      "name": "ABLE2",
-      "description": "Empowers individuals of all ages across the disability spectrum to lead fulfilling lives by supporting them with programs, services, and resources.",
-      "url": "https://www.able2.org"
-    },
-    {
-      "name": "Active Abilities Canada",
-      "description": "Bringing physical activity, recreation, and sport professionals together to ensure participation for people of all abilities.",
-      "url": "https://activeabilities.ca/"
-    },
-    {
-      "name": "Breaking925",
-      "description": "Dismantles systemic employment barriers faced by mid-senior career level professionals due to disabilities.",
-      "url": "https://www.breaking925.ca/"
-    },
-    {
-      "name": "Canadian Council of the Blind",
-      "description": "Vibrant network of active members across Canada. Each chapter is unique to its geographic area and engages in a variety of social and recreational activities based on the particular interests of their local members.",
-      "url": "https://ccbnational.net/shaggy"
-    },
-    {
-      "name": "Canadian Hard of Hearing Association",
-      "description": "Creating accessible, connected, and equitable communities for Canadians with hearing loss.",
-      "url": "https://chha.ca"
-    },
-    {
-      "name": "Disability Advocacy Network of Eastern Ontario",
-      "description": "Advocates for the rights of citizens labelled with an intellectual/developmental disability to have access to the same opportunities and choices as other Ontarians.",
-      "url": "https://daneo-raipheo.ca"
-    },
-    {
-      "name": "Kids on the Block Ottawa",
-      "description": "Disability awareness, bullying prevention, and educational puppet performance.",
-      "url": "https://www.kidsontheblockottawa.com"
-    },
-    {
-      "name": "Neil Squire Society",
-      "description": "Uses technology, knowledge, and passion to empower Canadians with disabilities.",
-      "url": "https://www.neilsquire.ca"
-    },
-    {
-      "name": "Ottawa Independent Living Resource Centre",
-      "description": "Promoting a new perspective on disability.",
-      "url": "https://oilrc.com"
-    },
-    {
-      "name": "Pinecrest-Queensway Community Health Centre (PQCHC) Blind-Low Vision Early Intervention Program",
-      "description": "Builds your knowledge about your child's learning style and builds your capacity to respond to their developmental needs.",
-      "url": "https://www.firstwords.ca/vision"
-    }
-  ],
-  "environment_orgs": [
-    {
-      "name": "Canada Green Building Council",
-      "description": "Changes industry standards, develops best practices, and provides the tools and training needed for sustainable green building everywhere.",
-      "url": "https://www.cagbc.org/",
-      "scope": "national"
-    },
-    {
-      "name": "Canadian Environmental Network",
-      "description": "Connects, supports, and mobilizes an informed and committed network to secure a healthy environment and stable climate for Canada.",
-      "url": "https://www.rcen.ca/en/home",
-      "scope": "national"
-    },
-    {
-      "name": "Canadian Network for Environmental Education and Communication (EECOM)",
-      "description": "Propels environmental learning among practitioners nationwide by offering professional development opportunities and establishing a centralized platform for networking and collaborative endeavours. Convenes the multifaceted environmental and sustainability education (ESE) community primarily through conferences, leadership training programs, webinars, and the esteemed national Awards of Excellence.",
-      "url": "https://www.eecom.org/",
-      "scope": "national"
-    },
-    {
-      "name": "Canadian Network for Human Health and the Environemnt (CNHHE)",
-      "description": "Engages members in the Chemicals Management Plan (CMP) run jointly by Health Canada (HC) and Environment and Climate Change Canada (ECCC).",
-      "url": "https://cnhhe.nb.lung.ca/",
-      "scope": "national"
-    },
-    {
-      "name": "Canadian Renewable Energy Association",
-      "description": "Advocates on behalf of the wind energy, solar energy, and energy storage industries to benefit Canada's economy and energy future. Increases stakeholder understanding that renewable electricity and energy storage are clean, low-cost, reliable, flexible, and scalable solutions for Canada's energy needs. Provides a forum devoted to dialogue, collaboration, stewardship, and growth of the industry.",
-      "url": "https://renewablesassociation.ca/",
-      "scope": "national"
-    },
-    {
-      "name": "CanadianSolar",
-      "description": "Provides a full suite of solar solutions, both as a module and solar services provider.",
-      "url": "https://www.csisolar.com/na/canada/",
-      "scope": "national"
-    },
-    {
-      "name": "Climate Action Network Canada",
-      "description": "Combats climate change, particularly by building social consensus for the implementation of comprehensive climate change action plans by all levels of government, based on the best available science, with specific policies, targets, timetables, and reporting, and to work with Canada's governments, First Nations, Inuit, and Métis, private sector, labour, and civil society for the effective implementation of these plans.",
-      "url": "https://climateactionnetwork.ca/",
-      "scope": "national"
-    },
-    {
-      "name": "Climate Action Partnership",
-      "description": "Enables communities to improve air quality, advance active transportation, and take bold climate action. Convenes networks, leads research and knowledge transfer, and catalyzes transformative action.",
-      "url": "https://climateactionpartnership.ca/",
-      "scope": "national"
-    },
-    {
-      "name": "Conservation Ontario",
-      "description": "Promotes and continually strengthens a watershed-based conservation coalition in Ontario.",
-      "url": "https://conservationontario.ca/",
-      "scope": "provincial"
-    },
-    {
-      "name": "Cooperation Canada",
-      "description": "Works alongside governments, communities, and change-makers - both in Canada and abroad - to advance practical solutions that create a fairer, safer, and more sustainable world.",
-      "url": "https://cooperation.ca/",
-      "scope": "national"
-    },
-    {
-      "name": "Ecology Ottawa",
-      "description": "Works to make Ottawa the green capital of Canada.",
-      "url": "https://www.ecologyottawa.ca/",
-      "scope": "local"
-    },
-    {
-      "name": "Ecovillage Network of Canada",
-      "description": "Facilitates the exchanges of ideas and information on sustainable ways of living in communities and promotes the principles and practices developed in the ecovillages around the world.",
-      "url": "https://ecovillagenetworkcanada.wordpress.com/?fbclid=IwY2xjawONOGJleHRuA2FlbQIxMABicmlkETFnbU52T3dQcHVLbDl2UEREc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHs6DrDHMVweN9zuhmuADD70uS7Iq1Qsr_zu-aV7Eq50O0YqsXExwjZ8G-VdG_aem_j_xM3qociIdAAtbH9bMJWQ",
-      "scope": "national"
-    },
-    {
-      "name": "Envirocentre",
-      "description": "Scopes, designs, delivers, and scales practical solutions to dramatically reduce climate emissions in our communities.",
-      "url": "https://envirocentre.ca/",
-      "scope": "local"
-    },
-    {
-      "name": "Fairtrade Canada",
-      "description": "Supports, promotes, and advocates for fairer terms of trade for farmers and workers disadvantaged by unfair global trade structures.",
-      "url": "https://fairtrade.net/ca-en.html",
-      "scope": "national"
-    },
-    {
-      "name": "Gardens Ottawa",
-      "description": "Promotes the development of marketing synergies, directly linked to local, regional, provincial, and national strategies. Provides unique and effective opportunities to develop the experience of the gardening sector, its markets, and the buy-in of all those involved.",
-      "url": "https://gardensottawa.ca/",
-      "scope": "local"
-    },
-    {
-      "name": "GoodWork",
-      "description": "Connect motivated, passionate people with opportunities in environment and sustainability: meaningful work with environmental organizations, sustainable business, and municipal and federal government.",
-      "url": "https://www.goodwork.ca/",
-      "scope": "national"
-    },
-    {
-      "name": "Green Communities Canada",
-      "description": "Connects community-based climate action groups through a national network to share resources, co-create innovative programming, and elevate our collective impact.",
-      "url": "https://greencommunitiescanada.org/",
-      "scope": "national"
-    },
-    {
-      "name": "Green Ottawa",
-      "description": "Directory for green, sustainable, eco-friendly, renewable, natural, and organic resources",
-      "url": "https://greenottawa.ca/",
-      "scope": "local"
-    },
-    {
-      "name": "Greening Sacred Spaces",
-      "description": "Harnesses the power of diverse faith and spiritual groups through education, capacity-building, and collective action to build more resilient and sustainable communities.",
-      "url": "https://www.greeningsacredspaces.ca/",
-      "scope": "local"
-    },
-    {
-      "name": "LandOwner Resource Centre",
-      "description": "Provides integrated information and referrals for landowners through a one-window approach.",
-      "url": "http://www.lrconline.com/",
-      "scope": "local"
-    },
-    {
-      "name": "Master Gardeners of Ottawa-Carleton",
-      "description": "Offers free, authoritative, and unbiased gardening advice to the public.",
-      "url": "https://mgottawa.ca/",
-      "scope": "local"
-    },
-    {
-      "name": "National Capital Commission",
-      "description": "Provides unique value in the Capital Region by fulfilling three specific roles: long-term planner of federal lands, principal steward of nationally significant public places, and creative partner committed to excellence in development and conservation.",
-      "url": "https://ncc-ccn.gc.ca/",
-      "scope": "local"
-    },
-    {
-      "name": "Ontario Clean Air Alliance",
-      "description": "Works to move Ontario to a zero-carbon electricity grid by 2035 or sooner and lower electricity bills through an integrated combination of energy efficiency and demand management; cost-effective, made-in-Canada renewable energy; and energy storage.",
-      "url": "http://www.cleanairalliance.org",
-      "scope": "provincial"
-    },
-    {
-      "name": "Ontario Sustainable Energy Association",
-      "description": "Accelerates Ontario's transition to low-carbon technologies by supporting sustainable energy jobs and businesses.",
-      "url": "https://ontario-sea.org/",
-      "scope": "provincial"
-    },
-    {
-      "name": "Ottawa Green Drinks",
-      "description": "Informal meet-ups for people who work in the environmental field.",
-      "url": "https://www.greendrinks.org/ON/Ottawa",
-      "scope": "local"
-    },
-    {
-      "name": "Renewable Industries Canada",
-      "description": "Works with government stakeholders and policymakers to identify climate solutions with growth opportunities. Shares expertise in planning and building initiatives with economic and environmental sustainability. Advocates for increases in adoption, production, and innovation of biofuels, renewable products, and clean technologies.",
-      "url": "https://ricanada.org/",
-      "scope": "national"
-    },
-    {
-      "name": "Sierra Club Canada",
-      "description": "Empowers people to be leaders in protecting, restoring, and enjoying healthy and safe ecosystems.",
-      "url": "https://www.sierraclub.ca/",
-      "scope": "national"
-    },
-    {
-      "name": "Stewardship Directory",
-      "description": "Helps community stewardship groups, organizations, businesses, and government connect with each other to share their experiences and lessons learned in stewardship and natural resource management.",
-      "url": "https://stewardshipdirectory.com/",
-      "scope": "national"
-    },
-    {
-      "name": "Sustainability Network",
-      "description": "Strengthens environmental non-profit leadership.",
-      "url": "https://www.sustainabilitynetwork.ca/",
-      "scope": "national"
-    },
-    {
-      "name": "Sustainable Eastern Ontario",
-      "description": "Fosters partnerships and collaborations on sustainability activities throughout Eastern Ontario. Connects sustainability groups together, develops strategic collaborations across the sector, builds capacity of administration and operations, and celebrates successes across the region. Raises the profile and capability of sustainability initiatives and tells the story of transition and resilience in our community.",
-      "url": "https://www.sustainableeasternontario.ca/",
-      "scope": "provincial"
-    },
-    {
-      "name": "Sustainable Enterprise Alliance",
-      "description": "Helps clients assess their environmental footprint, identify risks and opportunities, and work with their organizations to set a pathway to become leaders in their sector.",
-      "url": "https://www.sustainableinsights.ca/ottawa/",
-      "scope": "local"
-    }
-  ],
-  "food_orgs": [
-    {
-      "name": "The Baby Cupboard Program",
-      "description": "Distributes items such as diapers, wipes, cereals, and other baby items to families with children ages 0 to 3 years old with postal codes K1K, K1M, and, in some cases, K1G.",
-      "url": "https://www.crcrr.org/_files/ugd/5732b4_50e0c3811be34c27bdd5603afb102ca3.pdf"
-    },
-    {
-      "name": "Blair Court Community House",
-      "description": "Offers food by appointment.",
-      "url": "https://blaircourt.ca/programs-and-services/"
-    },
-    {
-      "name": "Bountiful Beaver",
-      "description": "A queer communal gardening project.",
-      "url": "https://linktr.ee/BountifulBeaver"
-    },
-    {
-      "name": "Community Compassion Centre Food Bank",
-      "description": "Provides food and assistance to our K1C neighbours.",
-      "url": "https://cpcorleans.ca/foodbank/"
-    },
-    {
-      "name": "Confederation Court Community House Food Bank",
-      "description": "Provides essential support to individuals and families facing food insecurity.",
-      "url": "https://confederationcourt.com/programs/"
-    },
-    {
-      "name": "Dalhousie Food Cupboard",
-      "description": "Meets the needs of our neighbours by providing emergency food support and offering innovative solutions to address food security, build community, and promote well-being.",
-      "url": "https://www.dalhousiefoodcupboard.ca/home.html"
-    },
-    {
-      "name": "Feed the City",
-      "description": "Delivers emergency food to community members in Ottawa, Ontario, who are unable to access their local food bank, due to a variety of barriers.",
-      "url": "https://feedthecity.ca/"
-    },
-    {
-      "name": "Food Secure Canada",
-      "description": "Encourages conversation on challenges around food issues, advocates for policy improvements, and strengthens the capacity of communities towards a future where everyone everywhere has access to good, healthful food, which honours both our relationships to the earth and to each other.",
-      "url": "https://foodsecurecanada.org/",
-      "scope": "national"
-    },
-    {
-      "name": "Foodeliver",
-      "description": "Shares kindness through making food accessible to newcomer families with dignity. Reduces food waste, improves access to nutritious meals, and builds a more caring community in Ottawa.",
-      "url": "https://www.foodeliver.ca/"
-    },
-    {
-      "name": "Foodsharing Ottawa",
-      "description": "Working together to reduce food waste in our community.",
-      "url": "https://foodsharingottawa.com/"
-    },
-    {
-      "name": "FoodWork",
-      "description": "Job board for all kinds of work in local and sustainable food: jobs, entrepreneurs, farmers, board positions, interns, managers, partners, and volunteers.",
-      "url": "https://www.foodwork.ca/",
-      "scope": "national"
-    },
-    {
-      "name": "Gloucester Emergency Food Cupboard",
-      "description": "Alleviates food insecurity in our community by working together to create opportunities to access and share good food through innovative food programming, partnerships, and civic engagement.",
-      "url": "https://gefc.ca/"
-    },
-    {
-      "name": "In From the Cold",
-      "description": "Cooks and serves a delicious 4-course meal, hosts live music from local bands, and gets the community together.",
-      "url": "https://parkdaleunitedchurch.ca/in-from-the-cold/"
-    },
-    {
-      "name": "Just Food",
-      "description": "Building a sustainable food system that ensures access to healthy, local food for all Ottawa residents.",
-      "url": "https://justfood.ca/"
-    },
-    {
-      "name": "Orléans-Cumberland Community Resource Centre Food Bank",
-      "description": "Offers emergency food to low-income individuals and families within the Orleans East, Cumberland, Sarsfield, Vars, Navan, and Carlsbad Spring communities.",
-      "url": "https://www.crcoc.ca/en/food-bank/"
-    },
-    {
-      "name": "Ottawa Community Food Partnership",
-      "description": "Shifting the way we think about the food charity model across Algonquin/Ottawa towards meaningful community engagement and food security.",
-      "url": "https://ottawacommunityfoodpartnership.ca/"
-    },
-    {
-      "name": "Ottawa Food Bank",
-      "description": "Creates a healthier city by empowering people, increasing access to healthy food, and advocating for systemic changes that reduce food insecurity.",
-      "url": "https://www.ottawafoodbank.ca/"
-    },
-    {
-      "name": "Ottawa Food Rescue",
-      "description": "Works with donors, volunteers, and charities to ensure those in our community that may need a helping hand have access to quality food.",
-      "url": "https://ottawafoodrescue.ca/"
-    },
-    {
-      "name": "Ottawa Mission Food Truck",
-      "description": "Travels to our city's most vulnerable communities to serve people in need.",
-      "url": "https://ottawamission.com/ottawa-mission-food-truck-weekly-schedule/"
-    },
-    {
-      "name": "Parkdale Food Centre",
-      "description": "Builds healthier, more connected neighbourhoods through good food, innovative community partnerships, and by challenging inequalities in order to create lasting impacts.",
-      "url": "https://parkdalefoodcentre.ca/"
-    },
-    {
-      "name": "Partage Vanier",
-      "description": "Offre du dépannage alimentaire d'urgence une fois par mois pour les résident.es de Vanier.",
-      "url": "https://cscvanier.com/services/partage-vanier/"
-    },
-    {
-      "name": "Pavilion Food Bank",
-      "description": "Provides food for three days, once a month.",
-      "url": "https://www.facebook.com/profile.php?id=100057498376199"
-    },
-    {
-      "name": "Pinecrest-Queensway Community Health Centre (PQCHC) Food Bank",
-      "description": "Provides access to nutritious and nourishing food, which positively impacts health and well-being.",
-      "url": "https://www.pqchc.com/services/food-bank"
-    },
-    {
-      "name": "Rideau-Rockcliffe Community Resource Centre Emergency Food Bank",
-      "description": "Aims to reduce food insecurity.",
-      "url": "https://www.crcrr.org/foodbank"
-    },
-    {
-      "name": "Russell Heights Community House Food Bank",
-      "description": "Improves the quality of life for our community members.",
-      "url": "https://www.russellheights.ca/Hours-and-Schedules.php"
-    },
-    {
-      "name": "St. Joe's Supper Table",
-      "description": "Feeds the hungry that come to their doors. Serves anyone who comes in need of food - for both the body and the soul.",
-      "url": "https://www.supper-table.ca/"
-    },
-    {
-      "name": "UOSU Food Bank",
-      "description": "Supports undergraduate students at the University of Ottawa who are experiencing food insecurity.",
-      "url": "https://www.seuo-uosu.com/services/food-bank",
-      "scope": "local"
-    },
-    {
-      "name": "Westboro Region Food Bank",
-      "description": "Provides fresh and non-perishable food and essential supplies to food bank neighbours.",
-      "url": "https://www.allsaintswestboro.com/westboro-region-food-bank/"
-    }
-  ],
+  {
+    "accessibility_orgs": [
+      {
+        "name": "Abilities Ottawa",
+        "description": "Programs and initiatives that support quality participation, community capacity building, and educational opportunities that break down barriers and increase inclusive recreational and sport opportunities for people of all abilities.",
+        "url": "https://abilitiescentreottawa.org"
+      },
+      {
+        "name": "Ability First Ottawa",
+        "description": "Comprehensive services and support for people with disabilities.",
+        "url": "https://abilityfirstottawa.org"
+      },
+      {
+        "name": "ABLE2",
+        "description": "Empowers individuals of all ages across the disability spectrum to lead fulfilling lives by supporting them with programs, services, and resources.",
+        "url": "https://www.able2.org"
+      },
+      {
+        "name": "Active Abilities Canada",
+        "description": "Bringing physical activity, recreation, and sport professionals together to ensure participation for people of all abilities.",
+        "url": "https://activeabilities.ca/"
+      },
+      {
+        "name": "Breaking925",
+        "description": "Dismantles systemic employment barriers faced by mid-senior career level professionals due to disabilities.",
+        "url": "https://www.breaking925.ca/"
+      },
+      {
+        "name": "Canadian Council of the Blind",
+        "description": "Vibrant network of active members across Canada. Each chapter is unique to its geographic area and engages in a variety of social and recreational activities based on the particular interests of their local members.",
+        "url": "https://ccbnational.net/shaggy"
+      },
+      {
+        "name": "Canadian Hard of Hearing Association",
+        "description": "Creating accessible, connected, and equitable communities for Canadians with hearing loss.",
+        "url": "https://chha.ca"
+      },
+      {
+        "name": "Disability Advocacy Network of Eastern Ontario",
+        "description": "Advocates for the rights of citizens labelled with an intellectual/developmental disability to have access to the same opportunities and choices as other Ontarians.",
+        "url": "https://daneo-raipheo.ca"
+      },
+      {
+        "name": "Kids on the Block Ottawa",
+        "description": "Disability awareness, bullying prevention, and educational puppet performance.",
+        "url": "https://www.kidsontheblockottawa.com"
+      },
+      {
+        "name": "Neil Squire Society",
+        "description": "Uses technology, knowledge, and passion to empower Canadians with disabilities.",
+        "url": "https://www.neilsquire.ca"
+      },
+      {
+        "name": "Ottawa Independent Living Resource Centre",
+        "description": "Promoting a new perspective on disability.",
+        "url": "https://oilrc.com"
+      },
+      {
+        "name": "Pinecrest-Queensway Community Health Centre (PQCHC) Blind-Low Vision Early Intervention Program",
+        "description": "Builds your knowledge about your child's learning style and builds your capacity to respond to their developmental needs.",
+        "url": "https://www.firstwords.ca/vision"
+      }
+    ],
+    "environment_orgs": [
+      {
+        "name": "Canada Green Building Council",
+        "description": "Changes industry standards, develops best practices, and provides the tools and training needed for sustainable green building everywhere.",
+        "url": "https://www.cagbc.org/",
+        "scope": "national"
+      },
+      {
+        "name": "Canadian Environmental Network",
+        "description": "Connects, supports, and mobilizes an informed and committed network to secure a healthy environment and stable climate for Canada.",
+        "url": "https://www.rcen.ca/en/home",
+        "scope": "national"
+      },
+      {
+        "name": "Canadian Network for Environmental Education and Communication (EECOM)",
+        "description": "Propels environmental learning among practitioners nationwide by offering professional development opportunities and establishing a centralized platform for networking and collaborative endeavours. Convenes the multifaceted environmental and sustainability education (ESE) community primarily through conferences, leadership training programs, webinars, and the esteemed national Awards of Excellence.",
+        "url": "https://www.eecom.org/",
+        "scope": "national"
+      },
+      {
+        "name": "Canadian Network for Human Health and the Environemnt (CNHHE)",
+        "description": "Engages members in the Chemicals Management Plan (CMP) run jointly by Health Canada (HC) and Environment and Climate Change Canada (ECCC).",
+        "url": "https://cnhhe.nb.lung.ca/",
+        "scope": "national"
+      },
+      {
+        "name": "Canadian Renewable Energy Association",
+        "description": "Advocates on behalf of the wind energy, solar energy, and energy storage industries to benefit Canada's economy and energy future. Increases stakeholder understanding that renewable electricity and energy storage are clean, low-cost, reliable, flexible, and scalable solutions for Canada's energy needs. Provides a forum devoted to dialogue, collaboration, stewardship, and growth of the industry.",
+        "url": "https://renewablesassociation.ca/",
+        "scope": "national"
+      },
+      {
+        "name": "CanadianSolar",
+        "description": "Provides a full suite of solar solutions, both as a module and solar services provider.",
+        "url": "https://www.csisolar.com/na/canada/",
+        "scope": "national"
+      },
+      {
+        "name": "Climate Action Network Canada",
+        "description": "Combats climate change, particularly by building social consensus for the implementation of comprehensive climate change action plans by all levels of government, based on the best available science, with specific policies, targets, timetables, and reporting, and to work with Canada's governments, First Nations, Inuit, and Métis, private sector, labour, and civil society for the effective implementation of these plans.",
+        "url": "https://climateactionnetwork.ca/",
+        "scope": "national"
+      },
+      {
+        "name": "Climate Action Partnership",
+        "description": "Enables communities to improve air quality, advance active transportation, and take bold climate action. Convenes networks, leads research and knowledge transfer, and catalyzes transformative action.",
+        "url": "https://climateactionpartnership.ca/",
+        "scope": "national"
+      },
+      {
+        "name": "Conservation Ontario",
+        "description": "Promotes and continually strengthens a watershed-based conservation coalition in Ontario.",
+        "url": "https://conservationontario.ca/",
+        "scope": "provincial"
+      },
+      {
+        "name": "Cooperation Canada",
+        "description": "Works alongside governments, communities, and change-makers - both in Canada and abroad - to advance practical solutions that create a fairer, safer, and more sustainable world.",
+        "url": "https://cooperation.ca/",
+        "scope": "national"
+      },
+      {
+        "name": "Ecology Ottawa",
+        "description": "Works to make Ottawa the green capital of Canada.",
+        "url": "https://www.ecologyottawa.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "Ecovillage Network of Canada",
+        "description": "Facilitates the exchanges of ideas and information on sustainable ways of living in communities and promotes the principles and practices developed in the ecovillages around the world.",
+        "url": "https://ecovillagenetworkcanada.wordpress.com/?fbclid=IwY2xjawONOGJleHRuA2FlbQIxMABicmlkETFnbU52T3dQcHVLbDl2UEREc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHs6DrDHMVweN9zuhmuADD70uS7Iq1Qsr_zu-aV7Eq50O0YqsXExwjZ8G-VdG_aem_j_xM3qociIdAAtbH9bMJWQ",
+        "scope": "national"
+      },
+      {
+        "name": "Envirocentre",
+        "description": "Scopes, designs, delivers, and scales practical solutions to dramatically reduce climate emissions in our communities.",
+        "url": "https://envirocentre.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "Fairtrade Canada",
+        "description": "Supports, promotes, and advocates for fairer terms of trade for farmers and workers disadvantaged by unfair global trade structures.",
+        "url": "https://fairtrade.net/ca-en.html",
+        "scope": "national"
+      },
+      {
+        "name": "Gardens Ottawa",
+        "description": "Promotes the development of marketing synergies, directly linked to local, regional, provincial, and national strategies. Provides unique and effective opportunities to develop the experience of the gardening sector, its markets, and the buy-in of all those involved.",
+        "url": "https://gardensottawa.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "GoodWork",
+        "description": "Connect motivated, passionate people with opportunities in environment and sustainability: meaningful work with environmental organizations, sustainable business, and municipal and federal government.",
+        "url": "https://www.goodwork.ca/",
+        "scope": "national"
+      },
+      {
+        "name": "Green Communities Canada",
+        "description": "Connects community-based climate action groups through a national network to share resources, co-create innovative programming, and elevate our collective impact.",
+        "url": "https://greencommunitiescanada.org/",
+        "scope": "national"
+      },
+      {
+        "name": "Green Ottawa",
+        "description": "Directory for green, sustainable, eco-friendly, renewable, natural, and organic resources",
+        "url": "https://greenottawa.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "Greening Sacred Spaces",
+        "description": "Harnesses the power of diverse faith and spiritual groups through education, capacity-building, and collective action to build more resilient and sustainable communities.",
+        "url": "https://www.greeningsacredspaces.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "LandOwner Resource Centre",
+        "description": "Provides integrated information and referrals for landowners through a one-window approach.",
+        "url": "http://www.lrconline.com/",
+        "scope": "local"
+      },
+      {
+        "name": "Master Gardeners of Ottawa-Carleton",
+        "description": "Offers free, authoritative, and unbiased gardening advice to the public.",
+        "url": "https://mgottawa.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "National Capital Commission",
+        "description": "Provides unique value in the Capital Region by fulfilling three specific roles: long-term planner of federal lands, principal steward of nationally significant public places, and creative partner committed to excellence in development and conservation.",
+        "url": "https://ncc-ccn.gc.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "Ontario Clean Air Alliance",
+        "description": "Works to move Ontario to a zero-carbon electricity grid by 2035 or sooner and lower electricity bills through an integrated combination of energy efficiency and demand management; cost-effective, made-in-Canada renewable energy; and energy storage.",
+        "url": "http://www.cleanairalliance.org",
+        "scope": "provincial"
+      },
+      {
+        "name": "Ontario Sustainable Energy Association",
+        "description": "Accelerates Ontario's transition to low-carbon technologies by supporting sustainable energy jobs and businesses.",
+        "url": "https://ontario-sea.org/",
+        "scope": "provincial"
+      },
+      {
+        "name": "Ottawa Green Drinks",
+        "description": "Informal meet-ups for people who work in the environmental field.",
+        "url": "https://www.greendrinks.org/ON/Ottawa",
+        "scope": "local"
+      },
+      {
+        "name": "Renewable Industries Canada",
+        "description": "Works with government stakeholders and policymakers to identify climate solutions with growth opportunities. Shares expertise in planning and building initiatives with economic and environmental sustainability. Advocates for increases in adoption, production, and innovation of biofuels, renewable products, and clean technologies.",
+        "url": "https://ricanada.org/",
+        "scope": "national"
+      },
+      {
+        "name": "Sierra Club Canada",
+        "description": "Empowers people to be leaders in protecting, restoring, and enjoying healthy and safe ecosystems.",
+        "url": "https://www.sierraclub.ca/",
+        "scope": "national"
+      },
+      {
+        "name": "Stewardship Directory",
+        "description": "Helps community stewardship groups, organizations, businesses, and government connect with each other to share their experiences and lessons learned in stewardship and natural resource management.",
+        "url": "https://stewardshipdirectory.com/",
+        "scope": "national"
+      },
+      {
+        "name": "Sustainability Network",
+        "description": "Strengthens environmental non-profit leadership.",
+        "url": "https://www.sustainabilitynetwork.ca/",
+        "scope": "national"
+      },
+      {
+        "name": "Sustainable Eastern Ontario",
+        "description": "Fosters partnerships and collaborations on sustainability activities throughout Eastern Ontario. Connects sustainability groups together, develops strategic collaborations across the sector, builds capacity of administration and operations, and celebrates successes across the region. Raises the profile and capability of sustainability initiatives and tells the story of transition and resilience in our community.",
+        "url": "https://www.sustainableeasternontario.ca/",
+        "scope": "provincial"
+      },
+      {
+        "name": "Sustainable Enterprise Alliance",
+        "description": "Helps clients assess their environmental footprint, identify risks and opportunities, and work with their organizations to set a pathway to become leaders in their sector.",
+        "url": "https://www.sustainableinsights.ca/ottawa/",
+        "scope": "local"
+      }
+    ],
+    "food_orgs": [
+      {
+        "name": "The Baby Cupboard Program",
+        "description": "Distributes items such as diapers, wipes, cereals, and other baby items to families with children ages 0 to 3 years old with postal codes K1K, K1M, and, in some cases, K1G.",
+        "url": "https://www.crcrr.org/_files/ugd/5732b4_50e0c3811be34c27bdd5603afb102ca3.pdf"
+      },
+      {
+        "name": "Blair Court Community House",
+        "description": "Offers food by appointment.",
+        "url": "https://blaircourt.ca/programs-and-services/"
+      },
+      {
+        "name": "Bountiful Beaver",
+        "description": "A queer communal gardening project.",
+        "url": "https://linktr.ee/BountifulBeaver"
+      },
+      {
+        "name": "Community Compassion Centre Food Bank",
+        "description": "Provides food and assistance to our K1C neighbours.",
+        "url": "https://cpcorleans.ca/foodbank/"
+      },
+      {
+        "name": "Confederation Court Community House Food Bank",
+        "description": "Provides essential support to individuals and families facing food insecurity.",
+        "url": "https://confederationcourt.com/programs/"
+      },
+      {
+        "name": "Dalhousie Food Cupboard",
+        "description": "Meets the needs of our neighbours by providing emergency food support and offering innovative solutions to address food security, build community, and promote well-being.",
+        "url": "https://www.dalhousiefoodcupboard.ca/home.html"
+      },
+      {
+        "name": "Feed the City",
+        "description": "Delivers emergency food to community members in Ottawa, Ontario, who are unable to access their local food bank, due to a variety of barriers.",
+        "url": "https://feedthecity.ca/"
+      },
+      {
+        "name": "Food Secure Canada",
+        "description": "Encourages conversation on challenges around food issues, advocates for policy improvements, and strengthens the capacity of communities towards a future where everyone everywhere has access to good, healthful food, which honours both our relationships to the earth and to each other.",
+        "url": "https://foodsecurecanada.org/",
+        "scope": "national"
+      },
+      {
+        "name": "Foodeliver",
+        "description": "Shares kindness through making food accessible to newcomer families with dignity. Reduces food waste, improves access to nutritious meals, and builds a more caring community in Ottawa.",
+        "url": "https://www.foodeliver.ca/"
+      },
+      {
+        "name": "Foodsharing Ottawa",
+        "description": "Working together to reduce food waste in our community.",
+        "url": "https://foodsharingottawa.com/"
+      },
+      {
+        "name": "FoodWork",
+        "description": "Job board for all kinds of work in local and sustainable food: jobs, entrepreneurs, farmers, board positions, interns, managers, partners, and volunteers.",
+        "url": "https://www.foodwork.ca/",
+        "scope": "national"
+      },
+      {
+        "name": "Gloucester Emergency Food Cupboard",
+        "description": "Alleviates food insecurity in our community by working together to create opportunities to access and share good food through innovative food programming, partnerships, and civic engagement.",
+        "url": "https://gefc.ca/"
+      },
+      {
+        "name": "In From the Cold",
+        "description": "Cooks and serves a delicious 4-course meal, hosts live music from local bands, and gets the community together.",
+        "url": "https://parkdaleunitedchurch.ca/in-from-the-cold/"
+      },
+      {
+        "name": "Just Food",
+        "description": "Building a sustainable food system that ensures access to healthy, local food for all Ottawa residents.",
+        "url": "https://justfood.ca/"
+      },
+      {
+        "name": "Orléans-Cumberland Community Resource Centre Food Bank",
+        "description": "Offers emergency food to low-income individuals and families within the Orleans East, Cumberland, Sarsfield, Vars, Navan, and Carlsbad Spring communities.",
+        "url": "https://www.crcoc.ca/en/food-bank/"
+      },
+      {
+        "name": "Ottawa Community Food Partnership",
+        "description": "Shifting the way we think about the food charity model across Algonquin/Ottawa towards meaningful community engagement and food security.",
+        "url": "https://ottawacommunityfoodpartnership.ca/"
+      },
+      {
+        "name": "Ottawa Food Bank",
+        "description": "Creates a healthier city by empowering people, increasing access to healthy food, and advocating for systemic changes that reduce food insecurity.",
+        "url": "https://www.ottawafoodbank.ca/"
+      },
+      {
+        "name": "Ottawa Food Rescue",
+        "description": "Works with donors, volunteers, and charities to ensure those in our community that may need a helping hand have access to quality food.",
+        "url": "https://ottawafoodrescue.ca/"
+      },
+      {
+        "name": "Ottawa Mission Food Truck",
+        "description": "Travels to our city's most vulnerable communities to serve people in need.",
+        "url": "https://ottawamission.com/ottawa-mission-food-truck-weekly-schedule/"
+      },
+      {
+        "name": "Parkdale Food Centre",
+        "description": "Builds healthier, more connected neighbourhoods through good food, innovative community partnerships, and by challenging inequalities in order to create lasting impacts.",
+        "url": "https://parkdalefoodcentre.ca/"
+      },
+      {
+        "name": "Partage Vanier",
+        "description": "Offre du dépannage alimentaire d'urgence une fois par mois pour les résident.es de Vanier.",
+        "url": "https://cscvanier.com/services/partage-vanier/"
+      },
+      {
+        "name": "Pavilion Food Bank",
+        "description": "Provides food for three days, once a month.",
+        "url": "https://www.facebook.com/profile.php?id=100057498376199"
+      },
+      {
+        "name": "Pinecrest-Queensway Community Health Centre (PQCHC) Food Bank",
+        "description": "Provides access to nutritious and nourishing food, which positively impacts health and well-being.",
+        "url": "https://www.pqchc.com/services/food-bank"
+      },
+      {
+        "name": "Rideau-Rockcliffe Community Resource Centre Emergency Food Bank",
+        "description": "Aims to reduce food insecurity.",
+        "url": "https://www.crcrr.org/foodbank"
+      },
+      {
+        "name": "Russell Heights Community House Food Bank",
+        "description": "Improves the quality of life for our community members.",
+        "url": "https://www.russellheights.ca/Hours-and-Schedules.php"
+      },
+      {
+        "name": "St. Joe's Supper Table",
+        "description": "Feeds the hungry that come to their doors. Serves anyone who comes in need of food - for both the body and the soul.",
+        "url": "https://www.supper-table.ca/"
+      },
+      {
+        "name": "UOSU Food Bank",
+        "description": "Supports undergraduate students at the University of Ottawa who are experiencing food insecurity.",
+        "url": "https://www.seuo-uosu.com/services/food-bank",
+        "scope": "local"
+      },
+      {
+        "name": "Westboro Region Food Bank",
+        "description": "Provides fresh and non-perishable food and essential supplies to food bank neighbours.",
+        "url": "https://www.allsaintswestboro.com/westboro-region-food-bank/"
+      }
+    ],
     "homelessness_orgs": [
-    {
-      "name": "Action Housing",
-      "description": "Assists clients to find housing when they do not have computer access or the skills to look online for themselves.",
-      "url": "https://www.action-logement.ca/en/"
-    },
-    {
-      "name": "Alliance to End Homelessness Ottawa",
-      "description": "Member-driven coalition of people and organisations working together to end homelessness through systems planning and coordination, public education and advocacy, and community-wide mobilization.",
-      "url": "https://www.endhomelessnessottawa.ca/"
-    },
-    {
-      "name": "Ancoura",
-      "description": "Provides a nurturing and fulfilling environment for adults living with a mental illness in Ottawa through stable housing and a supportive community.",
-      "url": "https://ancoura.ca/"
-    },
-    {
-      "name": "Backpacks for the Homeless",
-      "description": "Gives backpacks to the homeless.",
-      "url": "https://www.backpacksforhomeless.ca/"
-    },
-    {
-      "name": "Centre 454",
-      "description": "Provides laundry, showers, hygiene supplies, telephone access, Wifi access, and community navigation support to people looking for community and connection. Hosts social activities, including bingo, karaoke, and arts and crafts.",
-      "url": "https://belongottawa.ca/programs/centre-454/"
-    },
-    {
-      "name": "Chrysalis House",
-      "description": "Provides shelter to cis and trans women, two-spirit, non-binary, and gender-diverse people of diverse ages, cultures, race, sexual orientaions, and abilities.",
-      "url": "https://wocrc.ca/program/chrysalis-house/"
-    },
-    {
-      "name": "Cornerstone",
-      "description": "Helps women transform their lives from crisis to hope, housing, and healing.",
-      "url": "https://cornerstonewomen.ca/"
-    },
-    {
-      "name": "GottaGo!",
-      "description": "Campaigns for a network of public toilets in Ottawa.",
-      "url": "https://www.gottago-ottawa.ca/"
-    },
-    {
-      "name": "Landseed",
-      "description": "Addresses the Canadian housing crisis by leveraging community market data and AI systems to solution the problems and support attainable housing opportunities for corhorts in need.",
-      "url": "https://landseed.ca/"
-    },
-    {
-      "name": "Naomi's House",
-      "description": "Protects women with or without children who have been physically, emotionally, sexually, or financially threatened or harassed.",
-      "url": "https://naomiscentre.ca/"
-    },
-    {
-      "name": "Operation Come Home",
-      "description": "A centre for homeless and at-risk youth aged 16-29, dedicated to providing employment, education, and support services.",
-      "url": "https://www.operationcomehome.ca/",
-      "scope": "local"
-    },
-    {
-      "name": "Ottawa Community Housing",
-      "description": "Delivers a great housing experience through exceptional service. Works closely with communities to foster tenants' sense of belonging and empowerment. Provides quality, safe, and affordable homes meeting the needs of individuals and families. Works with partners to support the tenants' needs and contribute to stronger, more inclusive communities.",
-      "url": "https://www.och-lco.ca/"
-    },
-    {
-      "name": "Ottawa Innercity Ministries",
-      "description": "Comes alongside and supports individuals experiencing poverty and homelessness, by demonstrating the message of Christ in action and word, showing compassion, and promoting self-esteem.",
-      "url": "https://www.ottawainnercityministries.ca/"
-    },
-    {
-      "name": "The Ottawa Mission",
-      "description": "Helps people experiencing poverty, addiction, and homelessness to change their lives.",
-      "url": "https://ottawamission.com/"
-    },
-    {
-      "name": "Pal Ottawa",
-      "description": "Works to meet the needs of senior artists and arts workers in the National Capital Region by providing access to affordable housing, personal support services, and community programming.",
-      "url": "https://www.palottawa.org/"
-    },
-    {
-      "name": "Salus Ottawa",
-      "description": "Creates opportunities for adults with mental health and substance use health challenges, as well as behavioural addictions, to live independently by improving access to housing and a community of integrated support services.",
-      "url": "https://www.salusottawa.org/"
-    },
-    {
-      "name": "Shepherds of Good Hope",
-      "description": "Shelter. Stability. Support. Dignity. Community. Employment. Helps people find their way to hope - in all its forms.",
-      "url": "https://www.sghottawa.com/"
-    },
-    {
-      "name": "St. Joe's Women's Centre",
-      "description": "Provides a safe, welcoming space with social and educational programs that empower, promote autonomy, and uphold dignity within a non-judgmental atmosphere for all women and their children.",
-      "url": "https://www.stjoeswomenscentre.org/"
-    },
-    {
-      "name": "St. Luke's Table",
-      "description": "Provides coffee, tea, breakfast, lunch, hygiene supplies, telephone access, Wifi and computer access, and community navigation support in the heart of the Chinatown neighbourhood of Ottawa. Also hosts karaoke, bingo, movies, and more.",
-      "url": "https://belongottawa.ca/programs/st-lukes-table/"
-    },
-    {
-      "name": "The Well",
-      "description": "Provides laundry, showers, meals (breakfast and lunch), hygiene supplies, telephone access, internet, and community navigation support to women, children, and gender-diverse people.",
-      "url": "https://belongottawa.ca/programs/the-well/"
-    },
-    {
-      "name": "Youth Services Bureau of Ottawa (YSB) Housing and Shelter",
-      "description": "Offers multiple services and housing programs to suit youth in a variety of life situations.",
-      "url": "https://www.ysb.ca/services/community-and-housing-services/housing-and-shelter/",
-      "scope": "local"
-    }
+      {
+        "name": "Action Housing",
+        "description": "Assists clients to find housing when they do not have computer access or the skills to look online for themselves.",
+        "url": "https://www.action-logement.ca/en/"
+      },
+      {
+        "name": "Alliance to End Homelessness Ottawa",
+        "description": "Member-driven coalition of people and organisations working together to end homelessness through systems planning and coordination, public education and advocacy, and community-wide mobilization.",
+        "url": "https://www.endhomelessnessottawa.ca/"
+      },
+      {
+        "name": "Ancoura",
+        "description": "Provides a nurturing and fulfilling environment for adults living with a mental illness in Ottawa through stable housing and a supportive community.",
+        "url": "https://ancoura.ca/"
+      },
+      {
+        "name": "Backpacks for the Homeless",
+        "description": "Gives backpacks to the homeless.",
+        "url": "https://www.backpacksforhomeless.ca/"
+      },
+      {
+        "name": "Centre 454",
+        "description": "Provides laundry, showers, hygiene supplies, telephone access, Wifi access, and community navigation support to people looking for community and connection. Hosts social activities, including bingo, karaoke, and arts and crafts.",
+        "url": "https://belongottawa.ca/programs/centre-454/"
+      },
+      {
+        "name": "Chrysalis House",
+        "description": "Provides shelter to cis and trans women, two-spirit, non-binary, and gender-diverse people of diverse ages, cultures, race, sexual orientaions, and abilities.",
+        "url": "https://wocrc.ca/program/chrysalis-house/"
+      },
+      {
+        "name": "Cornerstone",
+        "description": "Helps women transform their lives from crisis to hope, housing, and healing.",
+        "url": "https://cornerstonewomen.ca/"
+      },
+      {
+        "name": "GottaGo!",
+        "description": "Campaigns for a network of public toilets in Ottawa.",
+        "url": "https://www.gottago-ottawa.ca/"
+      },
+      {
+        "name": "Landseed",
+        "description": "Addresses the Canadian housing crisis by leveraging community market data and AI systems to solution the problems and support attainable housing opportunities for corhorts in need.",
+        "url": "https://landseed.ca/"
+      },
+      {
+        "name": "Naomi's House",
+        "description": "Protects women with or without children who have been physically, emotionally, sexually, or financially threatened or harassed.",
+        "url": "https://naomiscentre.ca/"
+      },
+      {
+        "name": "Operation Come Home",
+        "description": "A centre for homeless and at-risk youth aged 16-29, dedicated to providing employment, education, and support services.",
+        "url": "https://www.operationcomehome.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "Ottawa Community Housing",
+        "description": "Delivers a great housing experience through exceptional service. Works closely with communities to foster tenants' sense of belonging and empowerment. Provides quality, safe, and affordable homes meeting the needs of individuals and families. Works with partners to support the tenants' needs and contribute to stronger, more inclusive communities.",
+        "url": "https://www.och-lco.ca/"
+      },
+      {
+        "name": "Ottawa Innercity Ministries",
+        "description": "Comes alongside and supports individuals experiencing poverty and homelessness, by demonstrating the message of Christ in action and word, showing compassion, and promoting self-esteem.",
+        "url": "https://www.ottawainnercityministries.ca/"
+      },
+      {
+        "name": "The Ottawa Mission",
+        "description": "Helps people experiencing poverty, addiction, and homelessness to change their lives.",
+        "url": "https://ottawamission.com/"
+      },
+      {
+        "name": "Pal Ottawa",
+        "description": "Works to meet the needs of senior artists and arts workers in the National Capital Region by providing access to affordable housing, personal support services, and community programming.",
+        "url": "https://www.palottawa.org/"
+      },
+      {
+        "name": "Salus Ottawa",
+        "description": "Creates opportunities for adults with mental health and substance use health challenges, as well as behavioural addictions, to live independently by improving access to housing and a community of integrated support services.",
+        "url": "https://www.salusottawa.org/"
+      },
+      {
+        "name": "Shepherds of Good Hope",
+        "description": "Shelter. Stability. Support. Dignity. Community. Employment. Helps people find their way to hope - in all its forms.",
+        "url": "https://www.sghottawa.com/"
+      },
+      {
+        "name": "St. Joe's Women's Centre",
+        "description": "Provides a safe, welcoming space with social and educational programs that empower, promote autonomy, and uphold dignity within a non-judgmental atmosphere for all women and their children.",
+        "url": "https://www.stjoeswomenscentre.org/"
+      },
+      {
+        "name": "St. Luke's Table",
+        "description": "Provides coffee, tea, breakfast, lunch, hygiene supplies, telephone access, Wifi and computer access, and community navigation support in the heart of the Chinatown neighbourhood of Ottawa. Also hosts karaoke, bingo, movies, and more.",
+        "url": "https://belongottawa.ca/programs/st-lukes-table/"
+      },
+      {
+        "name": "The Well",
+        "description": "Provides laundry, showers, meals (breakfast and lunch), hygiene supplies, telephone access, internet, and community navigation support to women, children, and gender-diverse people.",
+        "url": "https://belongottawa.ca/programs/the-well/"
+      },
+      {
+        "name": "Youth Services Bureau of Ottawa (YSB) Housing and Shelter",
+        "description": "Offers multiple services and housing programs to suit youth in a variety of life situations.",
+        "url": "https://www.ysb.ca/services/community-and-housing-services/housing-and-shelter/",
+        "scope": "local"
+      }
     ],
     "indigenous_orgs": [
       {
@@ -530,424 +530,424 @@
       }
     ],
     "transit_orgs": [
-    {
-      "name": "Bike Ottawa",
-      "description": "Advocates for a vibrant and equitable Ottawa where active transportation plays an important role in year-round mobility.",
-      "url": "https://bikeottawa.ca/"
-    },
-    {
-      "name": "Envirocentre",
-      "description": "Hosts Let's Bike Month, an annual campaign that encourages people to try cycling as a fun and healthy transportation option.",
-      "url": "https://letsbike.ca/"
-    },
-    {
-      "name": "Free Transit Ottawa",
-      "description": "Shares a common goal of a more equitable and sustainable future for all. Sees public transit as having a crucial role in combating climate change and promoting social justice in Ottawa and around the world.",
-      "url": "https://freetransitottawa.ca/"
-    },
-    {
-      "name": "Helping with Bikes",
-      "description": "Provides adults and children in client families with functional bikes as an affordable means of transportation and a source of exercise and safe, wholesome fun.",
-      "url": "https://www.hwfottawa.org/eng/give-bikes"
-    },
-    {
-      "name": "Hop on Bikes",
-      "description": "Obtains, refurbishes, fits, and delivers bikes to children and youth living in Ottawa Community Housing communities.",
-      "url": "https://ochfoundation.ca/programs/hop-on-bikes/"
-    },
-    {
-      "name": "Ottawa Transit Riders",
-      "description": "Works to make Ottawa's transit system more affordable, reliable, accessible, and safe for users.",
-      "url": "https://www.ottawatransitriders.ca/"
-    },
-    {
-      "name": "re-Cycles",
-      "description": "Puts more bicycles on the road by providing affordable, recycled bikes to the community; provides low-cost access to a fully equipped bike repair shop; reduces materials going into landfills by recycling bikes and bike parts; promotes a healthier environment and lifestyle, and offers a place for like-minded bike enthusiasts to meet and exchange ideas.",
-      "url": "https://re-cycles.ca/"
-    },
-    {
-      "name": "Recyclore",
-      "description": "Keeps bicycles out of the landfill and puts them back on the street. Accepts donations of old bicycles, reconditions them, and then offers the used bicycles for sale.",
-      "url": "https://www.recyclore.org/"
-    },
-    {
-      "name": "Trips for Kids Ottawa",
-      "description": "Provides outdoor recreation to Ottawa's youth, who would not otherwise have the opportunity.",
-      "url": "https://www.tripsforkidsottawa.ca/"
-    },
-    {
-      "name": "UOSU Bike Co-op",
-      "description": "An inclusive DIY space for beginners as well as experts. Provides tools and expertise needed to repair or build a bicycle.",
-      "url": "https://www.seuo-uosu.com/services/bike-coop",
-      "scope": "local"
-    },
-    {
-      "name": "Vélo Vanier",
-      "description": "Offers Vanier residents the opportunity to borrow a bicycle for free during the summer months.",
-      "url": "https://cscvanier.com/en/our-services/velo-vanier/"
-    }
-  ],
-  "newcomer_orgs": [
-    {
-      "name": "Capital Rainbow Refuge",
-      "description": "Supports and sponsors LGBTQI+ refugees.",
-      "url": "https://capitalrainbow.ca/",
-      "scope": "local"
-    },
-    {
-      "name": "Catholic Centre for Immigrants Ottawa",
-      "description": "Promotes and facilitates the reception of newcomers to Canada, sensitizes the community to address newcomers' needs and invites it to respond, and assists newcomes to realize their full potential in Canadian Society.",
-      "url": "https://cciottawa.ca/"
-    },
-    {
-      "name": "Centretown Community Health Centre LGBTQIA+ Newcomer Program",
-      "description": "A social drop-in for LGBTQIA+ newcomers.",
-      "url": "https://www.centretownchc.org/programs/lgbtqia%2B-newcomer-program"
-    },
-    {
-      "name": "CÉSOC Refugee Resettlement Assistance Program (RAP)",
-      "description": "Welcomes, integrates, and resettles refugees sponsored by the federal government.",
-      "url": "https://www.cesoc.ca/nos-services/programme-daide-a-la-reinstallation-des-refugies-par/"
-    },
-    {
-      "name": "CÉSOC Support for Elderly Immigrants",
-      "description": "Helps immigrant seniors age safely and with dignity in their own homes by providing them with culturally and linguistically appropriate services offered by volunteers, community relations workers, and case managers.",
-      "url": "https://www.cesoc.ca/nos-services/appui-aux-aines-immigrants/"
-    },
-    {
-      "name": "Jewish Family Services (JFS) Settlement Services",
-      "description": "Offers newcomer services to all newcomers, no matter your cultural, ethnic, and linguistic backgrounds.",
-      "url": "https://www.jfsottawa.com/settlement-support-2/"
-    },
-    {
-      "name": "Ottawa Community Immigrant Services Organization (OCISO)",
-      "description": "Supports immigrants through the journey of making Canada their home by providing creative and responsive programs that are culturally and linguistically appropriate, by building community through mutual respect and partnerships, and by fostering healthy and inclusive spaces for open dialogue and healing.",
-      "url": "https://ociso.org/"
-    },
-    {
-      "name": "Ottawa Newcomers' Club",
-      "description": "Helps women new to Ottawa or those who have experienced a significant life change in the last two years meet new friends and become part of the community.",
-      "url": "https://ottawanewcomersclub.ca/"
-    },
-    {
-      "name": "Ottawa Public Library",
-      "description": "Provides blogs, events, and online resources for newcomers.",
-      "url": "https://collections.biblioottawalibrary.ca/en/newcomers-1"
-    },
-    {
-      "name": "Pinecrest-Queensway Community Health Centre (PQCHC) Community Connections for Newcomer Employment",
-      "description": "Provides employment preparation help to newcomers and connects them with community resources and employment supports to be able to find a job.",
-      "url": "https://www.pqchc.com/services/ccne"
-    },
-    {
-      "name": "Positive Spaces Initiative",
-      "description": "Shares resources and increases organizational capacity across the immigrant- and refugee-serving sector to more effectively serve LGBTQIA+ immigrants, refugees, and newcomers.",
-      "url": "https://positivespaces.ca/en",
-      "scope": "provincial"
-    },
-    {
-      "name": "YMCA Newcomer Information Centre",
-      "description": "Provides newcomers with all the necessary resources and support to help them successfully integrate into their new community.",
-      "url": "https://www.ymcaottawa-nic.ca/"
-    }
-  ],
-  "survivor_support_orgs": [
-    {
-      "name": "Algonquin College Student Distress Line",
-      "description": "Connects survivors of a sexual assault to relevant support, resources, and options on campus.",
-      "url": "https://www.algonquincollege.com/projectlighthouse/survivor-information/"
-    },
-    {
-      "name": "Carlington Community Health Centre Health Services for Violence Against Women",
-      "description": "Provides individual counselling, transitional support, and support groups for women that have experienced abuse.",
-      "url": "https://carlingtonchc.com/programs-and-services/health-services/violence-against-women/"
-    },
-    {
-      "name": "Centre for Treatment of Sexual Abuse and Childhood Trauma",
-      "description": "Offers individual, couples, and group therapy.",
-      "url": "https://www.centrefortreatment.com/"
-    }
-  ],
-  "twoSLGBTQIAplus_orgs": [
-    {
-      "name": "Big Brothers and Big Sisters of Ottawa (BBBSO) Prism",
-      "description": "Community and school-based program that connects children and youth who identify as 2SLGBTQIA+ with an adult mentor who also identifies as 2SLGBTQIA+ for a one-on-one mentoring relationship.",
-      "url": "https://www.bbbso.ca/get-involved/prism/",
-      "scope": "local"
-    },
-    {
-      "name": "Capital Pride",
-      "description": "Creates opportunities to celebrate, advocate, educate, and connect people, respecting the full diversity of the 2SLGBTQ+ community.",
-      "url": "https://capitalpride.ca/"
-    },
-    {
-      "name": "Capital Rainbow Refuge",
-      "description": "Supports and sponsors LGBTQI+ refugees.",
-      "url": "https://capitalrainbow.ca/",
-      "scope": "local"
-    },
-    {
-      "name": "Centretown Community Health Centre 2SLGBTQIA+ Programs and Services",
-      "description": "Provides free programs for counselling, HIV point-of-care testing, hormone therapy starts and surgery referral, LGBTQIA+ newcomers, and trans health.",
-      "url": "https://www.centretownchc.org/lgbtq2s"
-    },
-    {
-      "name": "Champlain Regional Planning Table (RPT) for Trans, Non-binary, Two-Spirit, Intersex, and Gender-Diverse Health",
-      "description": "Works to improve trans, two-spirit, intersex, and gender-diverse health in Ottawa and the surrounding areas.",
-      "url": "https://transhealthottawa.org/",
-      "scope": "local"
-    },
-    {
-      "name": "CHEO Gender Diversity Clinic",
-      "description": "Works with families to create individualized care plans that support each youth's gender affirmation goals.",
-      "url": "https://www.cheo.on.ca/en/clinics-services-programs/gender-diversity-clinic.aspx",
-      "scope": "local"
-    },
-    {
-      "name": "Les Chouettes",
-      "description": "Organises social, cultural, and outdoor activities for women who love women.",
-      "url": "https://www.meetup.com/les-chouettes-ottawa-gatineau/"
-    },
-    {
-      "name": "CUSA Gender & Sexuality Resource Centre (GSRC)",
-      "description": "Creates a safe(r) environment for the 2SLGBTQIA+ community through education, advocacy, and unwavering support.",
-      "url": "https://www.cusaonline.ca/service-centres/gsrc/",
-      "scope": "local"
-    },
-    {
-      "name": "Family Services Ottawa (FSO) 2SLGBTQI+ Around the Rainbow",
-      "description": "Provides education, counselling, and support services to 2SLGBTQI+ families and individuals.",
-      "url": "https://familyservicesottawa.org/services-and-programs/around-the-rainbow/",
-      "scope": "local"
-    },
-    {
-      "name": "FrancoQueer",
-      "description": "Mobilise, soutient et célèbre les francophones 2SLGBTQIA+ en Ontario, tout en sensibilisant et en outillant les communautés et les organisations pour favoriser la création d'espaces sécuritaires, affirmatifs et respectueux de la diversité affective, sexuelle et de genre.",
-      "url": "https://www.francoqueer.ca/accueil"
-    },
-    {
-      "name": "Gay Lesbian Tennis Ottawa",
-      "description": "A social group in Ottawa and surrounding areas that values equality, respect, and having fun while playing tennis.",
-      "url": "https://www.facebook.com/groups/2192400794342865/",
-      "scope": "local"
-    },
-    {
-      "name": "Gegi",
-      "description": "Helps you or someone you love advocate for your gender expression and gender identity human rights at school.",
-      "url": "https://www.gegi.ca/",
-      "scope": "provincial"
-    },
-    {
-      "name": "Gender Marker Change Guide",
-      "description": "Document check-lists, important tips, and additional information about the process of changing your gender marker on a variety of different documents.",
-      "url": "https://www.gwlegalclinic.ca/wp-content/uploads/2025/04/Updated-Gender-Marker-ID-Guide-1.pdf",
-      "scope": "national"
-    },
-    {
-      "name": "Gender Mosaic",
-      "description": "Trans social and support group.",
-      "url": "https://www.facebook.com/gendermosaic/",
-      "scope": "national"
-    },
-    {
-      "name": "Goodhead",
-      "description": "Website for guys into guys (G2G) to learn and get curious about the mental health issues affecting them and their communities and to help them locate mental health services in Ontario.",
-      "url": "https://goodhead.ca/en/",
-      "scope": "provincial"
-    },
-    {
-      "name": "The Good Companions 2SLGBTQIA+ Programs and Services",
-      "description": "Offers programs for the senior Rainbow Community.",
-      "url": "https://thegoodcompanions.ca/community-support-services/2slgbtqia-programs-and-services/",
-      "scope": "local"
-    },
-    {
-      "name": "Government of Canada Gender-inclusive writing",
-      "description": "Vocabularies, glossaries, and collections of terms related to gender and sexual diversity.",
-      "url": "https://www.noslangues-ourlanguages.gc.ca/en/ressources-resources/ecriture-inclusive-writing/glossaires-glossaries-eng",
-      "scope": "national"
-    },
-    {
-      "name": "Government of Canada Gender and Sexual Diversity Glossary",
-      "description": "English and French equivalents to 155 concepts on gender and sexual diversity.",
-      "url": "https://www.btb.termiumplus.gc.ca/publications/diversite-diversity-eng.html",
-      "scope": "national"
-    },
-    {
-      "name": "Government of Canada 2SLGBTQI+ terminology",
-      "description": "Glossary and common acronyms related to 2SLGBTQI+ identities and issues.",
-      "url": "https://www.canada.ca/en/women-gender-equality/free-to-be-me/2slgbtqi-plus-glossary.html",
-      "scope": "national"
-    },
-    {
-      "name": "Jeunesse Idem",
-      "description": "Improves the lives of 2LGBTQIA+ people aged 7 to 35. Raises awareness of the diversity of sexual orientations and gender identities among the population of the Outaouais region.",
-      "url": "https://www.jeunesseidem.org/?lang=en",
-      "scope": "local"
-    },
-    {
-      "name": "Kind Space",
-      "description": "Community centre that offers resources, events, social, and educational programming. Celebrates, supports, and prioritises oppressed sexual orientations, gender identities, and expressions.",
-      "url": "https://www.kindspace.ca/"
-    },
-    {
-      "name": "Lesbian Outdoor Group",
-      "description": "Provides opportunities for lesbians, bisexual, trans, and LGBT-friendly women in the Ottawa-Gatineau region to enjoy the great outdoors and to socialise indoors, too!",
-      "url": "https://www.meetup.com/lesbian-outdoor-group/"
-    },
-    {
-      "name": "MAX Ottawa",
-      "description": "Health and wellness services and programs for queer, trans, and non-binary people.",
-      "url": "https://maxottawa.ca/"
-    },
-    {
-      "name": "Ottawa-Carleton District School Board (OCDSB) 2SLGBTQ+ Supports",
-      "description": "Resources for students, families, and staff of all gender identities, gender expressions, and sexual orientations to feel physically and emotionally safe, welcomed, and accepted at school.",
-      "url": "https://www.ocdsb.ca/family-community-support/2slgbtq-supports",
-      "scope": "local"
-    },
-    {
-      "name": "Ottawa Frontrunners (OFR)",
-      "description": "A running and walking club for members of the Two-Spirit, Lesbian, Gay, Bisexual, Transgender, and Queer (2SLGBTQ) community and friends.",
-      "url": "https://www.ottawafrontrunners.org/en/home/"
-    },
-    {
-      "name": "Ottawa Gay Men's Chorus",
-      "description": "Promotes the study and practice of choral music and affirms 2SLGBTQ+ community identity and culture by establishing and operating a bilingual gay men's chorus and performing choral concerts for the benefit of the public-at-large.",
-      "url": "https://cgogmc.com/",
-      "scope": "local"
-    },
-    {
-      "name": "Ottawa Pride Hockey",
-      "description": "Ottawa's inclusive hockey team, founded and run by queer and trans individuals.",
-      "url": "https://www.ottawapridehockey.org/",
-      "scope": "local"
-    },
-    {
-      "name": "Ottawa Senior Pride Network",
-      "description": "Works to advance change for lesbian, gay, bisexual, transgender, two-spirited, and queer-identified senior adults over 50 years of age in the National Capital Region.",
-      "url": "https://ospn-rfao.ca/"
-    },
-    {
-      "name": "Ottawa Time Out Hiking Club",
-      "description": "A hiking club for members of the gay, lesbian, bisexual, trans, and queer (LGBTQ+) communities.",
-      "url": "https://www.facebook.com/groups/timeouthiking/discussion/preview",
-      "scope": "local"
-    },
-    {
-      "name": "Ottawa Trans Library",
-      "description": "Houses a collection of books by trans authors, as well as historical, important, and interesting works on trans issues and people.",
-      "url": "https://ottawatranslibrary.ca/",
-      "scope": "local"
-    },
-    {
-      "name": "Ottawa Wolves Rugby Football Club",
-      "description": "A Rugby Football Club for men and women. Team members are predominantly part of the LGBTQA community, but diverse in its make-up, and inclusive of everyone.",
-      "url": "https://ottawawolves.ca/",
-      "scope": "local"
-    },
-    {
-      "name": "Out and About Ottawa-Gatineau",
-      "description": "A free, all-encompassing Meetup group for people that identify as LGBTQ2S+ and their allies who like to go out, be entertained and socialise.",
-      "url": "https://www.meetup.com/out-and-about-ottawa-gatineau/"
-    },
-    {
-      "name": "pflag Canada",
-      "description": "Help 2SLGBTQIA+ individuals and their loved ones connect with resources and find a supportive community.",
-      "url": "https://pflagcanada.ca/",
-      "scope": "national"
-    },
-    {
-      "name": "Positive Spaces Initiative",
-      "description": "Shares resources and increases organizational capacity across the immigrant- and refugee-serving sector to more effectively serve LGBTQIA+ immigrants, refugees, and newcomers.",
-      "url": "https://positivespaces.ca/en",
-      "scope": "provincial"
-    },
-    {
-      "name": "Pride Capital Volleyball",
-      "description": "Promotes volleyball and the well-being of the 2SLGBTQ+ community of the National Capital Region by offering fun, inclusive, and positive spaces for 2SLGBTQ+ people and allies of all skill levels.",
-      "url": "https://pcv-fvc.ca/",
-      "scope": "local"
-    },
-    {
-      "name": "Psychiatric Survivors of Ottawa Rainbow Peers Support Group",
-      "description": "Creates a safe space to share about sexual orientation, gender identity, mental health, and experiences accessing services.",
-      "url": "https://www.pso-ottawa.ca/rainbow-peers",
-      "scope": "local"
-    },
-    {
-      "name": "Public Service Pride",
-      "description": "Builds a workplace where every employee feels valued, respected, and empowered to contribute fully, ensuring that the federal public service is a model of inclusion and equity.",
-      "url": "https://publicservicepride.ca/"
-    },
-    {
-      "name": "qtpoc++ socialbees ottawa-gatineau",
-      "description": "Social networking forum for use by qtpoc++ for building solidarity in the Ottawa-Gatineau area.",
-      "url": "https://www.facebook.com/groups/1429671590689706"
-    },
-    {
-      "name": "Rainbow Health Ontario",
-      "description": "Advances 2SLGBTQ+ health equity in Ontario through provider training, resources, and advocacy.",
-      "url": "https://www.rainbowhealthontario.ca/",
-      "scope": "provincial"
-    },
-    {
-      "name": "Rideau Speedeaus",
-      "description": "An inclusive masters swim club which values swimming in a diverse, fun, open, safe, and supportive environment. Helps members reach their swimming goals, whether they be for recreation, fitness, or competition. Fosters connection and friendship through social and swimming activities.",
-      "url": "https://www.rideauspeedeaus.com/",
-      "scope": "local"
-    },
-    {
-      "name": "SAEFTY Ottawa",
-      "description": "Fosters spaces for trans and gender-diverse children, youth, and adults, along with their families, to connect with each other through youth-centred events outside of mainstream health and social services in the Ottawa region.",
-      "url": "https://www.saeftyottawa.ca/",
-      "scope": "local"
-    },
-    {
-      "name": "Trans Outaouais",
-      "description": "Promotes the development of harmonious relations within the LGBTQIA2S+ community and the inclusion of gender-diverse people and all other intersections.",
-      "url": "https://www.transoutaouais.com/en/",
-      "scope": "local"
-    },
-    {
-      "name": "Tone Cluster",
-      "description": "Creates a queer-positive environment where singers can be themselves and work towards choral excellence, all while supporting those of varied sexual or ientation, gender identity, and relationship orientation, as well as highlighting intersections between the 2SLGBTQIA+ community and other equity-seeking groups.",
-      "url": "https://www.tonecluster.ca/?home"
-    },
-    {
-      "name": "UOSU Pride Centre",
-      "description": "An independent, student-run service that strives to promote and represent a culture of affirmation through the celebration of individual diversity and choice in all areas of life.",
-      "url": "https://www.seuo-uosu.com/services/pride",
-      "scope": "local"
-    },
-    {
-      "name": "Western Ottawa Community Resource Centre Queerios LGBTQ+",
-      "description": "Offers a safe space for connection, growth, and community engagement to LGBTQ+ youth aged 12-17.",
-      "url": "https://wocrc.ca/program/queerios-lgbtq-youth-drop-in/",
-      "scope": "local"
-    },
-    {
-      "name": "We Are Allies",
-      "description": "Helps adults learn how to support and care for the trans, Two-Spirit, and non-binary youth in their lives.",
-      "url": "https://www.weareallies.ca/",
-      "scope": "national"
-    },
-    {
-      "name": "Wisdom2Action",
-      "description": "Social enterprise and consulting firm specializing in community engagement; creative facilitation; research and evaluation; knowledge mobilization; and equity, diversity, and inclusion.",
-      "url": "https://www.wisdom2action.org/",
-      "scope": "national"
-    },
-    {
-      "name": "YouthLine",
-      "description": "Offers free support through its Ontario-wide 2SLGBTQ+ peer-support HelpLine.",
-      "url": "https://www.youthline.ca/",
-      "scope": "provincial"
-    },
-    {
-      "name": "Youth Services Bureau of Ottawa (YSB) Spectrum 2SLGBTQ Community Youth Group",
-      "description": "Provides workshops, discussion groups, art collaborations, counselling services, peer mentoring, and primary care resources.",
-      "url": "https://www.ysb.ca/for-youth/youth-engagement/spectrum-lgbtq-community-youth-group/"
-    }
-  ]
-}
+      {
+        "name": "Bike Ottawa",
+        "description": "Advocates for a vibrant and equitable Ottawa where active transportation plays an important role in year-round mobility.",
+        "url": "https://bikeottawa.ca/"
+      },
+      {
+        "name": "Envirocentre",
+        "description": "Hosts Let's Bike Month, an annual campaign that encourages people to try cycling as a fun and healthy transportation option.",
+        "url": "https://letsbike.ca/"
+      },
+      {
+        "name": "Free Transit Ottawa",
+        "description": "Shares a common goal of a more equitable and sustainable future for all. Sees public transit as having a crucial role in combating climate change and promoting social justice in Ottawa and around the world.",
+        "url": "https://freetransitottawa.ca/"
+      },
+      {
+        "name": "Helping with Bikes",
+        "description": "Provides adults and children in client families with functional bikes as an affordable means of transportation and a source of exercise and safe, wholesome fun.",
+        "url": "https://www.hwfottawa.org/eng/give-bikes"
+      },
+      {
+        "name": "Hop on Bikes",
+        "description": "Obtains, refurbishes, fits, and delivers bikes to children and youth living in Ottawa Community Housing communities.",
+        "url": "https://ochfoundation.ca/programs/hop-on-bikes/"
+      },
+      {
+        "name": "Ottawa Transit Riders",
+        "description": "Works to make Ottawa's transit system more affordable, reliable, accessible, and safe for users.",
+        "url": "https://www.ottawatransitriders.ca/"
+      },
+      {
+        "name": "re-Cycles",
+        "description": "Puts more bicycles on the road by providing affordable, recycled bikes to the community; provides low-cost access to a fully equipped bike repair shop; reduces materials going into landfills by recycling bikes and bike parts; promotes a healthier environment and lifestyle, and offers a place for like-minded bike enthusiasts to meet and exchange ideas.",
+        "url": "https://re-cycles.ca/"
+      },
+      {
+        "name": "Recyclore",
+        "description": "Keeps bicycles out of the landfill and puts them back on the street. Accepts donations of old bicycles, reconditions them, and then offers the used bicycles for sale.",
+        "url": "https://www.recyclore.org/"
+      },
+      {
+        "name": "Trips for Kids Ottawa",
+        "description": "Provides outdoor recreation to Ottawa's youth, who would not otherwise have the opportunity.",
+        "url": "https://www.tripsforkidsottawa.ca/"
+      },
+      {
+        "name": "UOSU Bike Co-op",
+        "description": "An inclusive DIY space for beginners as well as experts. Provides tools and expertise needed to repair or build a bicycle.",
+        "url": "https://www.seuo-uosu.com/services/bike-coop",
+        "scope": "local"
+      },
+      {
+        "name": "Vélo Vanier",
+        "description": "Offers Vanier residents the opportunity to borrow a bicycle for free during the summer months.",
+        "url": "https://cscvanier.com/en/our-services/velo-vanier/"
+      }
+    ],
+    "newcomer_orgs": [
+      {
+        "name": "Capital Rainbow Refuge",
+        "description": "Supports and sponsors LGBTQI+ refugees.",
+        "url": "https://capitalrainbow.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "Catholic Centre for Immigrants Ottawa",
+        "description": "Promotes and facilitates the reception of newcomers to Canada, sensitizes the community to address newcomers' needs and invites it to respond, and assists newcomes to realize their full potential in Canadian Society.",
+        "url": "https://cciottawa.ca/"
+      },
+      {
+        "name": "Centretown Community Health Centre LGBTQIA+ Newcomer Program",
+        "description": "A social drop-in for LGBTQIA+ newcomers.",
+        "url": "https://www.centretownchc.org/programs/lgbtqia%2B-newcomer-program"
+      },
+      {
+        "name": "CÉSOC Refugee Resettlement Assistance Program (RAP)",
+        "description": "Welcomes, integrates, and resettles refugees sponsored by the federal government.",
+        "url": "https://www.cesoc.ca/nos-services/programme-daide-a-la-reinstallation-des-refugies-par/"
+      },
+      {
+        "name": "CÉSOC Support for Elderly Immigrants",
+        "description": "Helps immigrant seniors age safely and with dignity in their own homes by providing them with culturally and linguistically appropriate services offered by volunteers, community relations workers, and case managers.",
+        "url": "https://www.cesoc.ca/nos-services/appui-aux-aines-immigrants/"
+      },
+      {
+        "name": "Jewish Family Services (JFS) Settlement Services",
+        "description": "Offers newcomer services to all newcomers, no matter your cultural, ethnic, and linguistic backgrounds.",
+        "url": "https://www.jfsottawa.com/settlement-support-2/"
+      },
+      {
+        "name": "Ottawa Community Immigrant Services Organization (OCISO)",
+        "description": "Supports immigrants through the journey of making Canada their home by providing creative and responsive programs that are culturally and linguistically appropriate, by building community through mutual respect and partnerships, and by fostering healthy and inclusive spaces for open dialogue and healing.",
+        "url": "https://ociso.org/"
+      },
+      {
+        "name": "Ottawa Newcomers' Club",
+        "description": "Helps women new to Ottawa or those who have experienced a significant life change in the last two years meet new friends and become part of the community.",
+        "url": "https://ottawanewcomersclub.ca/"
+      },
+      {
+        "name": "Ottawa Public Library",
+        "description": "Provides blogs, events, and online resources for newcomers.",
+        "url": "https://collections.biblioottawalibrary.ca/en/newcomers-1"
+      },
+      {
+        "name": "Pinecrest-Queensway Community Health Centre (PQCHC) Community Connections for Newcomer Employment",
+        "description": "Provides employment preparation help to newcomers and connects them with community resources and employment supports to be able to find a job.",
+        "url": "https://www.pqchc.com/services/ccne"
+      },
+      {
+        "name": "Positive Spaces Initiative",
+        "description": "Shares resources and increases organizational capacity across the immigrant- and refugee-serving sector to more effectively serve LGBTQIA+ immigrants, refugees, and newcomers.",
+        "url": "https://positivespaces.ca/en",
+        "scope": "provincial"
+      },
+      {
+        "name": "YMCA Newcomer Information Centre",
+        "description": "Provides newcomers with all the necessary resources and support to help them successfully integrate into their new community.",
+        "url": "https://www.ymcaottawa-nic.ca/"
+      }
+    ],
+    "survivor_support_orgs": [
+      {
+        "name": "Algonquin College Student Distress Line",
+        "description": "Connects survivors of a sexual assault to relevant support, resources, and options on campus.",
+        "url": "https://www.algonquincollege.com/projectlighthouse/survivor-information/"
+      },
+      {
+        "name": "Carlington Community Health Centre Health Services for Violence Against Women",
+        "description": "Provides individual counselling, transitional support, and support groups for women that have experienced abuse.",
+        "url": "https://carlingtonchc.com/programs-and-services/health-services/violence-against-women/"
+      },
+      {
+        "name": "Centre for Treatment of Sexual Abuse and Childhood Trauma",
+        "description": "Offers individual, couples, and group therapy.",
+        "url": "https://www.centrefortreatment.com/"
+      }
+    ],
+    "twoSLGBTQIAplus_orgs": [
+      {
+        "name": "Big Brothers and Big Sisters of Ottawa (BBBSO) Prism",
+        "description": "Community and school-based program that connects children and youth who identify as 2SLGBTQIA+ with an adult mentor who also identifies as 2SLGBTQIA+ for a one-on-one mentoring relationship.",
+        "url": "https://www.bbbso.ca/get-involved/prism/",
+        "scope": "local"
+      },
+      {
+        "name": "Capital Pride",
+        "description": "Creates opportunities to celebrate, advocate, educate, and connect people, respecting the full diversity of the 2SLGBTQ+ community.",
+        "url": "https://capitalpride.ca/"
+      },
+      {
+        "name": "Capital Rainbow Refuge",
+        "description": "Supports and sponsors LGBTQI+ refugees.",
+        "url": "https://capitalrainbow.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "Centretown Community Health Centre 2SLGBTQIA+ Programs and Services",
+        "description": "Provides free programs for counselling, HIV point-of-care testing, hormone therapy starts and surgery referral, LGBTQIA+ newcomers, and trans health.",
+        "url": "https://www.centretownchc.org/lgbtq2s"
+      },
+      {
+        "name": "Champlain Regional Planning Table (RPT) for Trans, Non-binary, Two-Spirit, Intersex, and Gender-Diverse Health",
+        "description": "Works to improve trans, two-spirit, intersex, and gender-diverse health in Ottawa and the surrounding areas.",
+        "url": "https://transhealthottawa.org/",
+        "scope": "local"
+      },
+      {
+        "name": "CHEO Gender Diversity Clinic",
+        "description": "Works with families to create individualized care plans that support each youth's gender affirmation goals.",
+        "url": "https://www.cheo.on.ca/en/clinics-services-programs/gender-diversity-clinic.aspx",
+        "scope": "local"
+      },
+      {
+        "name": "Les Chouettes",
+        "description": "Organises social, cultural, and outdoor activities for women who love women.",
+        "url": "https://www.meetup.com/les-chouettes-ottawa-gatineau/"
+      },
+      {
+        "name": "CUSA Gender & Sexuality Resource Centre (GSRC)",
+        "description": "Creates a safe(r) environment for the 2SLGBTQIA+ community through education, advocacy, and unwavering support.",
+        "url": "https://www.cusaonline.ca/service-centres/gsrc/",
+        "scope": "local"
+      },
+      {
+        "name": "Family Services Ottawa (FSO) 2SLGBTQI+ Around the Rainbow",
+        "description": "Provides education, counselling, and support services to 2SLGBTQI+ families and individuals.",
+        "url": "https://familyservicesottawa.org/services-and-programs/around-the-rainbow/",
+        "scope": "local"
+      },
+      {
+        "name": "FrancoQueer",
+        "description": "Mobilise, soutient et célèbre les francophones 2SLGBTQIA+ en Ontario, tout en sensibilisant et en outillant les communautés et les organisations pour favoriser la création d'espaces sécuritaires, affirmatifs et respectueux de la diversité affective, sexuelle et de genre.",
+        "url": "https://www.francoqueer.ca/accueil"
+      },
+      {
+        "name": "Gay Lesbian Tennis Ottawa",
+        "description": "A social group in Ottawa and surrounding areas that values equality, respect, and having fun while playing tennis.",
+        "url": "https://www.facebook.com/groups/2192400794342865/",
+        "scope": "local"
+      },
+      {
+        "name": "Gegi",
+        "description": "Helps you or someone you love advocate for your gender expression and gender identity human rights at school.",
+        "url": "https://www.gegi.ca/",
+        "scope": "provincial"
+      },
+      {
+        "name": "Gender Marker Change Guide",
+        "description": "Document check-lists, important tips, and additional information about the process of changing your gender marker on a variety of different documents.",
+        "url": "https://www.gwlegalclinic.ca/wp-content/uploads/2025/04/Updated-Gender-Marker-ID-Guide-1.pdf",
+        "scope": "national"
+      },
+      {
+        "name": "Gender Mosaic",
+        "description": "Trans social and support group.",
+        "url": "https://www.facebook.com/gendermosaic/",
+        "scope": "national"
+      },
+      {
+        "name": "Goodhead",
+        "description": "Website for guys into guys (G2G) to learn and get curious about the mental health issues affecting them and their communities and to help them locate mental health services in Ontario.",
+        "url": "https://goodhead.ca/en/",
+        "scope": "provincial"
+      },
+      {
+        "name": "The Good Companions 2SLGBTQIA+ Programs and Services",
+        "description": "Offers programs for the senior Rainbow Community.",
+        "url": "https://thegoodcompanions.ca/community-support-services/2slgbtqia-programs-and-services/",
+        "scope": "local"
+      },
+      {
+        "name": "Government of Canada Gender-inclusive writing",
+        "description": "Vocabularies, glossaries, and collections of terms related to gender and sexual diversity.",
+        "url": "https://www.noslangues-ourlanguages.gc.ca/en/ressources-resources/ecriture-inclusive-writing/glossaires-glossaries-eng",
+        "scope": "national"
+      },
+      {
+        "name": "Government of Canada Gender and Sexual Diversity Glossary",
+        "description": "English and French equivalents to 155 concepts on gender and sexual diversity.",
+        "url": "https://www.btb.termiumplus.gc.ca/publications/diversite-diversity-eng.html",
+        "scope": "national"
+      },
+      {
+        "name": "Government of Canada 2SLGBTQI+ terminology",
+        "description": "Glossary and common acronyms related to 2SLGBTQI+ identities and issues.",
+        "url": "https://www.canada.ca/en/women-gender-equality/free-to-be-me/2slgbtqi-plus-glossary.html",
+        "scope": "national"
+      },
+      {
+        "name": "Jeunesse Idem",
+        "description": "Improves the lives of 2LGBTQIA+ people aged 7 to 35. Raises awareness of the diversity of sexual orientations and gender identities among the population of the Outaouais region.",
+        "url": "https://www.jeunesseidem.org/?lang=en",
+        "scope": "local"
+      },
+      {
+        "name": "Kind Space",
+        "description": "Community centre that offers resources, events, social, and educational programming. Celebrates, supports, and prioritises oppressed sexual orientations, gender identities, and expressions.",
+        "url": "https://www.kindspace.ca/"
+      },
+      {
+        "name": "Lesbian Outdoor Group",
+        "description": "Provides opportunities for lesbians, bisexual, trans, and LGBT-friendly women in the Ottawa-Gatineau region to enjoy the great outdoors and to socialise indoors, too!",
+        "url": "https://www.meetup.com/lesbian-outdoor-group/"
+      },
+      {
+        "name": "MAX Ottawa",
+        "description": "Health and wellness services and programs for queer, trans, and non-binary people.",
+        "url": "https://maxottawa.ca/"
+      },
+      {
+        "name": "Ottawa-Carleton District School Board (OCDSB) 2SLGBTQ+ Supports",
+        "description": "Resources for students, families, and staff of all gender identities, gender expressions, and sexual orientations to feel physically and emotionally safe, welcomed, and accepted at school.",
+        "url": "https://www.ocdsb.ca/family-community-support/2slgbtq-supports",
+        "scope": "local"
+      },
+      {
+        "name": "Ottawa Frontrunners (OFR)",
+        "description": "A running and walking club for members of the Two-Spirit, Lesbian, Gay, Bisexual, Transgender, and Queer (2SLGBTQ) community and friends.",
+        "url": "https://www.ottawafrontrunners.org/en/home/"
+      },
+      {
+        "name": "Ottawa Gay Men's Chorus",
+        "description": "Promotes the study and practice of choral music and affirms 2SLGBTQ+ community identity and culture by establishing and operating a bilingual gay men's chorus and performing choral concerts for the benefit of the public-at-large.",
+        "url": "https://cgogmc.com/",
+        "scope": "local"
+      },
+      {
+        "name": "Ottawa Pride Hockey",
+        "description": "Ottawa's inclusive hockey team, founded and run by queer and trans individuals.",
+        "url": "https://www.ottawapridehockey.org/",
+        "scope": "local"
+      },
+      {
+        "name": "Ottawa Senior Pride Network",
+        "description": "Works to advance change for lesbian, gay, bisexual, transgender, two-spirited, and queer-identified senior adults over 50 years of age in the National Capital Region.",
+        "url": "https://ospn-rfao.ca/"
+      },
+      {
+        "name": "Ottawa Time Out Hiking Club",
+        "description": "A hiking club for members of the gay, lesbian, bisexual, trans, and queer (LGBTQ+) communities.",
+        "url": "https://www.facebook.com/groups/timeouthiking/discussion/preview",
+        "scope": "local"
+      },
+      {
+        "name": "Ottawa Trans Library",
+        "description": "Houses a collection of books by trans authors, as well as historical, important, and interesting works on trans issues and people.",
+        "url": "https://ottawatranslibrary.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "Ottawa Wolves Rugby Football Club",
+        "description": "A Rugby Football Club for men and women. Team members are predominantly part of the LGBTQA community, but diverse in its make-up, and inclusive of everyone.",
+        "url": "https://ottawawolves.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "Out and About Ottawa-Gatineau",
+        "description": "A free, all-encompassing Meetup group for people that identify as LGBTQ2S+ and their allies who like to go out, be entertained and socialise.",
+        "url": "https://www.meetup.com/out-and-about-ottawa-gatineau/"
+      },
+      {
+        "name": "pflag Canada",
+        "description": "Help 2SLGBTQIA+ individuals and their loved ones connect with resources and find a supportive community.",
+        "url": "https://pflagcanada.ca/",
+        "scope": "national"
+      },
+      {
+        "name": "Positive Spaces Initiative",
+        "description": "Shares resources and increases organizational capacity across the immigrant- and refugee-serving sector to more effectively serve LGBTQIA+ immigrants, refugees, and newcomers.",
+        "url": "https://positivespaces.ca/en",
+        "scope": "provincial"
+      },
+      {
+        "name": "Pride Capital Volleyball",
+        "description": "Promotes volleyball and the well-being of the 2SLGBTQ+ community of the National Capital Region by offering fun, inclusive, and positive spaces for 2SLGBTQ+ people and allies of all skill levels.",
+        "url": "https://pcv-fvc.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "Psychiatric Survivors of Ottawa Rainbow Peers Support Group",
+        "description": "Creates a safe space to share about sexual orientation, gender identity, mental health, and experiences accessing services.",
+        "url": "https://www.pso-ottawa.ca/rainbow-peers",
+        "scope": "local"
+      },
+      {
+        "name": "Public Service Pride",
+        "description": "Builds a workplace where every employee feels valued, respected, and empowered to contribute fully, ensuring that the federal public service is a model of inclusion and equity.",
+        "url": "https://publicservicepride.ca/"
+      },
+      {
+        "name": "qtpoc++ socialbees ottawa-gatineau",
+        "description": "Social networking forum for use by qtpoc++ for building solidarity in the Ottawa-Gatineau area.",
+        "url": "https://www.facebook.com/groups/1429671590689706"
+      },
+      {
+        "name": "Rainbow Health Ontario",
+        "description": "Advances 2SLGBTQ+ health equity in Ontario through provider training, resources, and advocacy.",
+        "url": "https://www.rainbowhealthontario.ca/",
+        "scope": "provincial"
+      },
+      {
+        "name": "Rideau Speedeaus",
+        "description": "An inclusive masters swim club which values swimming in a diverse, fun, open, safe, and supportive environment. Helps members reach their swimming goals, whether they be for recreation, fitness, or competition. Fosters connection and friendship through social and swimming activities.",
+        "url": "https://www.rideauspeedeaus.com/",
+        "scope": "local"
+      },
+      {
+        "name": "SAEFTY Ottawa",
+        "description": "Fosters spaces for trans and gender-diverse children, youth, and adults, along with their families, to connect with each other through youth-centred events outside of mainstream health and social services in the Ottawa region.",
+        "url": "https://www.saeftyottawa.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "Trans Outaouais",
+        "description": "Promotes the development of harmonious relations within the LGBTQIA2S+ community and the inclusion of gender-diverse people and all other intersections.",
+        "url": "https://www.transoutaouais.com/en/",
+        "scope": "local"
+      },
+      {
+        "name": "Tone Cluster",
+        "description": "Creates a queer-positive environment where singers can be themselves and work towards choral excellence, all while supporting those of varied sexual or ientation, gender identity, and relationship orientation, as well as highlighting intersections between the 2SLGBTQIA+ community and other equity-seeking groups.",
+        "url": "https://www.tonecluster.ca/?home"
+      },
+      {
+        "name": "UOSU Pride Centre",
+        "description": "An independent, student-run service that strives to promote and represent a culture of affirmation through the celebration of individual diversity and choice in all areas of life.",
+        "url": "https://www.seuo-uosu.com/services/pride",
+        "scope": "local"
+      },
+      {
+        "name": "Western Ottawa Community Resource Centre Queerios LGBTQ+",
+        "description": "Offers a safe space for connection, growth, and community engagement to LGBTQ+ youth aged 12-17.",
+        "url": "https://wocrc.ca/program/queerios-lgbtq-youth-drop-in/",
+        "scope": "local"
+      },
+      {
+        "name": "We Are Allies",
+        "description": "Helps adults learn how to support and care for the trans, Two-Spirit, and non-binary youth in their lives.",
+        "url": "https://www.weareallies.ca/",
+        "scope": "national"
+      },
+      {
+        "name": "Wisdom2Action",
+        "description": "Social enterprise and consulting firm specializing in community engagement; creative facilitation; research and evaluation; knowledge mobilization; and equity, diversity, and inclusion.",
+        "url": "https://www.wisdom2action.org/",
+        "scope": "national"
+      },
+      {
+        "name": "YouthLine",
+        "description": "Offers free support through its Ontario-wide 2SLGBTQ+ peer-support HelpLine.",
+        "url": "https://www.youthline.ca/",
+        "scope": "provincial"
+      },
+      {
+        "name": "Youth Services Bureau of Ottawa (YSB) Spectrum 2SLGBTQ Community Youth Group",
+        "description": "Provides workshops, discussion groups, art collaborations, counselling services, peer mentoring, and primary care resources.",
+        "url": "https://www.ysb.ca/for-youth/youth-engagement/spectrum-lgbtq-community-youth-group/"
+      }
+    ]
+  }
