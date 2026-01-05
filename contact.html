@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<div id="head">
+
+  <!-- // Friendly Captcha
+  <script type="module" src="https://cdn.jsdelivr.net/npm/@friendlycaptcha/sdk@0.1.36/site.min.js" async defer></script>
+  <script nomodule src="https://cdn.jsdelivr.net/npm/@friendlycaptcha/sdk@0.1.36/site.compat.min.js" async
+    defer></script> -->
+
+</div>
+<script>
+  function fetchAndInsert(id, url) {
+    fetch(url)
+      .then(r => r.text())
+      .then(html => {
+        const element = document.getElementById(id);
+        if (!element) return;
+        element.innerHTML = html;
+        const tmp = document.createElement('div');
+        tmp.innerHTML = html;
+        tmp.querySelectorAll('script').forEach(old => {
+          const s = document.createElement('script');
+          if (old.src) {
+            s.src = old.src;
+            s.async = false;
+          } else {
+            s.textContent = old.textContent;
+          }
+          document.body.appendChild(s);
+        });
+      })
+      .catch(err => console.error('fetchAndInsert error: ', err));
+  }
+
+  fetchAndInsert('head', 'head.html');
+</script>
+
+<body class="d-flex flex-column min-vh-100">
+  <div id="navbar"></div>
+  <script>
+    fetch('navbar.html').then(response => response.text()).then(data => document.getElementById('navbar').innerHTML = data);
+  </script>
+  <div class="container-fluid ps-4">
+    <h1 class="mt-3">Contact</h1>
+    <p>Ottawa Orgs was created as a personal project by Julia Douglas Freitas (<a class="link-light"
+        href="https://github.com/juliadouglasf">juliadouglasf</a> on GitHub).</p>
+    <p>If you have questions, suggestions, or want to contribute, please contact me by filling out this form:</p>
+
+    <form id="contact-form">
+      <div id="name" class="mb-4">
+        <label for="name-input" class="contact-form-title">Name<span class="text-danger">*</span></label>
+        <br />
+        <input id="name-input" type="text" aria-label="name" required aria-required="true">
+      </div>
+      <div id="email" class="mb-4">
+        <label for="email-input" class="contact-form-title">Email<span class="text-danger">*</span></label>
+        <br />
+        <input id="email-input" type="email" aria-label="email" required aria-required="true">
+      </div>
+      <div id="message" class="mb-4">
+        <label for="message-input" class="contact-form-title">Message<span class="text-danger">*</span></label>
+        <br />
+        <textarea id="message-input" style="width: 75vh;" aria-label="message" required aria-required="true"></textarea>
+      </div>
+      <button id="submit-btn" type="submit" class="btn btn-success btn-md">Send message</button>
+    </form>
+
+  </div>
+  <div id="footer">
+    <script>
+      fetch('footer.html').then(response => response.text()).then(data => document.getElementById('footer').innerHTML = data);
+    </script>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+    crossorigin="anonymous"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js">
+  </script>
+  <script src="contactForm.js"></script>
+
+</body>
+
+</html>
