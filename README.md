@@ -1,2 +1,2 @@
 # ottawaorgs
-Website to connect people in Ottawa with organizations doing good work
+Website to connect people in Ottawa with organisations doing good work
