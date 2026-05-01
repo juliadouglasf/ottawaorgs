@@ -15,6 +15,9 @@ function openMobileSearch() {
   // Show full-width search
   mobileBar.classList.remove('d-none');
   mobileBar.classList.add('slide-down');
+
+  // Put cursor in the search bar
+  document.getElementById('search-field').focus();
 }
 
 function closeMobileSearch() {
