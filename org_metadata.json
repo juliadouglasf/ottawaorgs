@@ -1,6 +1,12 @@
   {
     "accessibility_orgs": [
       {
+        "name": "1Call1Click.ca",
+        "description": "Helps children, youth, and families/caregivers connect with the right mental health, addictions, substance use health, and neurodevelopmental health services and care when they need it.",
+        "url": "https://www.kidscomefirst.ca/en/index.aspx",
+        "scope": "local"
+      },
+      {
         "name": "Abilities Ottawa",
         "description": "Programs and initiatives that support quality participation, community capacity building, and educational opportunities that break down barriers and increase inclusive recreational and sport opportunities for people of all abilities.",
         "url": "https://abilitiescentreottawa.org"
@@ -16,9 +22,51 @@
         "url": "https://www.able2.org"
       },
       {
+        "name": "AccessMHA",
+        "description": "Makes it easier to help find mental health, substance use, and addictions support, services, and care.",
+        "url": "https://www.accessmha.ca/",
+        "scope": "provincial"
+      },
+      {
+        "name": "ACT Learning Centre",
+        "description": "Provides evidence-based, innovative, and leading-edge assessment and intervention for children and youth. Offers speech language pathology, occupational therapy, applied behaviour analysis, and mental health services.",
+        "url": "https://actlearningcentre.ca/",
+        "scope": "local, provincial"
+      },
+      {
         "name": "Active Abilities Canada",
-        "description": "Bringing physical activity, recreation, and sport professionals together to ensure participation for people of all abilities.",
+        "description": "Brings physical activity, recreation, and sport professionals together to ensure participation for people of all abilities.",
         "url": "https://activeabilities.ca/"
+      },
+      {
+        "name": "AIDE Canada (Autism and/or Intellectual Disability Knowledge Exchange Network)",
+        "description": "Connects community members to the information and resources that they need. Delivers credible, reliable, and evidence-informed resources in an unbiased and accessible way.",
+        "url": "https://aidecanada.ca/",
+        "scope": "national"
+      },
+      {
+        "name": "Alternative Learning Styles and Outlooks (ALSO)",
+        "description": "Offers support to adults who feel they may not fit into more mainstream programs. Offers a flexible, person-centred approach to learning and skill development.",
+        "url": "https://www.also-ottawa.org/",
+        "scope": "local"
+      },
+      {
+        "name": "Autism Alliance of Canada",
+        "description": "Works together to champion a National Autism Strategy that ensures Autistic people have equal rights and opportunities for full participation and acceptance in Canadian society.",
+        "url": "https://autismalliance.ca/",
+        "scope": "national"
+      },
+      {
+        "name": "Autism Canada",
+        "description": "Advocates for, supports, and educates people on the Autism Spectrum, their families, and community members living in Canada, through the authentic lens of lived experience.",
+        "url": "https://www.autismcanada.org/",
+        "scope": "national"
+      },
+      {
+        "name": "Autism Ontario",
+        "description": "Provides information on autism, supports autism research, and implements programs and services for the autism community to address the issues that affect Ontarians with autism, their families, and their caregivers.",
+        "url": "https://www.autismontario.com/",
+        "scope": "provincial"
       },
       {
         "name": "Breaking925",
@@ -33,12 +81,110 @@
       {
         "name": "Canadian Hard of Hearing Association",
         "description": "Creating accessible, connected, and equitable communities for Canadians with hearing loss.",
-        "url": "https://chha.ca"
+        "url": "https://chha.ca",
+        "scope": "national"
+      },
+      {
+        "name": "Causeway",
+        "description": "Helps people facing barriers find meaningful employment as a pathway to dignity, purpose, and community.",
+        "url": "https://causewayworkcentre.org/",
+        "scope": "local"
+      },
+      {
+        "name": "CBI Home Health",
+        "description": "Delivers impactful care in homes and communities across the country. Supports Canadians and caregivers with flexible, accessible healthcare services and innovative clinical programs that maximise independence, function, and well-being.",
+        "url": "https://www.cbihomehealth.ca/",
+        "scope": "local, national"
+      },
+      {
+        "name": "CHEO: Autism Services",
+        "description": "Provides many resources and support services to help children, youth, and families navigate an autism spectrum disorder (ASD) diagnosis.",
+        "url": "https://www.cheo.on.ca/en/clinics-services-programs/autism-services.aspx",
+        "scope": "local"
+      },
+      {
+        "name": "Children at Risk",
+        "description": "Provides early, intensive, and skillfully implemented intervention for children diagnosed within the autism spectrum disorders.",
+        "url": "https://www.childrenatrisk.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "ConnexOntario",
+        "description": "Helps people find mental health, addiction, and problem gambling support services across Ontario, Canada. Provides real-time support and trusted information 24 hours a day, 7 days a week.",
+        "url": "https://connexontario.ca/",
+        "scope": "provincial"
+      },
+      {
+        "name": "Crisis Line",
+        "description": "Responds quickly to phone calls and within 24 hours to see someone face-to-face.",
+        "url": "https://crisisline.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "Crossroads Children's Mental Health Centre",
+        "description": "Develops and delivers a wide range of individualised mental health services to children and their families.",
+        "url": "https://crossroadschildren.ca/",
+        "scope": "local"
       },
       {
         "name": "Disability Advocacy Network of Eastern Ontario",
         "description": "Advocates for the rights of citizens labelled with an intellectual/developmental disability to have access to the same opportunities and choices as other Ontarians.",
-        "url": "https://daneo-raipheo.ca"
+        "url": "https://daneo-raipheo.ca",
+        "scope": "provincial"
+      },
+      {
+        "name": "Distress Centre of Ottawa and Region",
+        "description": "Contributes to a healthier and safer community by providing suicide prevention, crisis intervention, psychological stabilisation, emotional support, information, referral, and education services, without judgement, to individuals in need.",
+        "url": "https://www.dcottawa.on.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "EB Building Blocks",
+        "description": "Provides teen groups for teens diagnosed with autism spectrum disorder (ASD), Attention-Deficit Hyperactive Disorder (ADHD), learning and language disorders, and other related exceptionalities. Teens learn new skills and make friends in a structured, low-ratio learning environment.",
+        "url": "https://ebbuildingblocks.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "Écoles catholiques Centre-Est Special education",
+        "description": "Supports each student according to their specific educational needs.",
+        "url": "https://www.ecolecatholique.ca/education-specialisee",
+        "scope": "local"
+      },
+      {
+        "name": "Els for Autism",
+        "description": "Helps people diagnosed on the autism spectrum live healthy, productive lives.",
+        "url": "https://www.elsforautismcanada.com/",
+        "scope": "national"
+      },
+      {
+        "name": "Good2Talk",
+        "description": "Supports post-secondary students through a wide range of issues that may be impacting their mental health and well-being, including depression, anxiety, substance use, academic stress, personal or family relationships, loneliness, identity, financial concerns, and other challenges.",
+        "url": "https://good2talk.ca/ontario/",
+        "scope": "provincial"
+      },
+      {
+        "name": "Government of Ontario: Assistance for Children with Severe Disabilities Program (ACSD)",
+        "description": "Supports famiiies financially with the costs of caring for a child with severe disabilities.",
+        "url": "https://www.ontario.ca/page/assistance-children-severe-disabilities-program",
+        "scope": "provincial"
+      },
+      {
+        "name": "Kerry's Place",
+        "description": "Helps Autistic people participate fully in their community.",
+        "url": "https://kerrysplace.org/",
+        "scope": "provincial"
+      },
+      {
+        "name": "Kids and Parents Well-Being (KAPWB)",
+        "description": "Promotes mental health, individual & relationship development, and healthy families.",
+        "url": "https://kapwb.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "Kids Help Phone",
+        "description": "Offers free, multilingual, and confidential 24/7 support to help all young people Feel Out Loud.",
+        "url": "https://kidshelpphone.ca/",
+        "scope": "national"
       },
       {
         "name": "Kids on the Block Ottawa",
@@ -46,9 +192,45 @@
         "url": "https://www.kidsontheblockottawa.com"
       },
       {
+        "name": "Le CAP (Centre d'appui et de prévention)",
+        "description": "Offers a continuum of inclusive services, in French, from early childhood to adulthood, that promotes optimal development and support for wellness when facing the challenges of mental health, addictions, and concurrent disorders.",
+        "url": "https://centrelecap.ca/en/lecap-home/",
+        "scope": "local"
+      },
+      {
+        "name": "Le Transit",
+        "description": "Des programmes destinés aux élèves en difficulté de comportement dans un milieu scolaire.",
+        "url": "https://letransit.cepeo.on.ca/services/programmes/programme-soutien-transit/",
+        "scope": "local"
+      },
+      {
+        "name": "National Autism Network",
+        "description": "Brings together Autistic people, families, subject matter experts, and community partners to inform the federal government on how to carry out Canada's Autism Strategy.",
+        "url": "https://nan-rna.ca/",
+        "scope": "national"
+      },
+      {
         "name": "Neil Squire Society",
         "description": "Uses technology, knowledge, and passion to empower Canadians with disabilities.",
         "url": "https://www.neilsquire.ca"
+      },
+      {
+        "name": "Ontario Autism Program (OAP)",
+        "description": "Offers support to families of children and youth on the autism spectrum.",
+        "url": "https://www.ontario.ca/page/ontario-autism-program",
+        "scope": "provincial"
+      },
+      {
+        "name": "OSEG Foundation: Autism Moves",
+        "description": "Promotes physical activity, fundamental movement skills, and peer connection for youth with autism through sport.",
+        "url": "https://osegfoundation.ca/our-impact/autism-moves/",
+        "scope": "local"
+      },
+      {
+        "name": "Ottawa ABA Academy",
+        "description": "Supports children with autism, learning disabilities, and intellectual disorders. The safe, structured, and nurturing environment allows children to receive the support they need to develop essential skills, gain independence, and thrive in their daily lives.",
+        "url": "https://www.ottawaabaacademy.com/",
+        "scope": "local"
       },
       {
         "name": "Ottawa Independent Living Resource Centre",
@@ -56,9 +238,99 @@
         "url": "https://oilrc.com"
       },
       {
+        "name": "People, Words, & Change",
+        "description": "Provides adults with individualised literacy tutoring essential for learning, working, and living.",
+        "url": "http://pwc-ottawa.ca/",
+        "scope": "local"
+      },
+      {
         "name": "Pinecrest-Queensway Community Health Centre (PQCHC) Blind-Low Vision Early Intervention Program",
         "description": "Builds your knowledge about your child's learning style and builds your capacity to respond to their developmental needs.",
         "url": "https://www.firstwords.ca/vision"
+      },
+      {
+        "name": "Portia Learning Centre",
+        "description": "Provides personalised ABA therapy and family support led by licensed psychologists and behaviour analysts.",
+        "url": "https://www.portialearning.com/",
+        "scope": "local"
+      },
+      {
+        "name": "Ready, Willing, and Able (RWA)",
+        "description": "Increases the labour force participation of people with an intellectual disability or on the autism spectrum.",
+        "url": "https://readywillingable.ca/",
+        "scope": "national"
+      },
+      {
+        "name": "Rideau-Ottawa Valley Learning Network",
+        "description": "Promotes and strengthens literacy services to build engaged & empowered communities in Rideau, Ottawa, & the Valley.",
+        "url": "https://rovln.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "The Royal",
+        "description": "Provides treatment and support that lets patients remove the labels and barriers that mental illness forces upon them.",
+        "url": "https://www.theroyal.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "The Royal: Rapid Access Addiction Medicine (RAAM) Services",
+        "description": "Offers services for people who need help with alcohol and/or opioid use.",
+        "url": "https://theroyal.accessraam.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "Serenity Renewal for Families",
+        "description": "Provides hope and support to individuals and families affected by addiction and related issues.",
+        "url": "https://www.serenityrenewal.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "Service Coordination Support (SCS)",
+        "description": "Helps people with a developmental disability or autism find available resources in the community to assist them in their daily lives.",
+        "url": "https://scsonline.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "Société franco-ontarienne de l'autisme (SFOA)",
+        "description": "Fournit plusieurs programmes pour soutenir les personnes autistes et leurs familles.",
+        "url": "https://www.parlonsautisme.ca/",
+        "scope": "local, provincial"
+      },
+      {
+        "name": "Suicide Crisis Helpline",
+        "description": "Provides moments of connection that create hope, support recovery, and save lives. Helps people connect to their strengths and find new ways to cope, live, and thrive.",
+        "url": "https://988.ca/",
+        "scope": "national"
+      },
+      {
+        "name": "TAO Tel-Aide",
+        "description": "Offre un service d'écoute et de référence en français, 24/7, gratuit, anonyme, confidentiel, empathique et sans jugement par une équipe de bénévoles formés pour contribuer au bien-être mental des francophones adultes.",
+        "url": "http://telaideoutaouais.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "Unity for Autism",
+        "description": "Provides financial assistance to excellent organisations across Canada to address the crisis of demand that exists, enable parents to tap into their child's potential, and provide meaningful opportunities for adults with Autism.",
+        "url": "https://www.unityforautism.ca/",
+        "scope": "national"
+      },
+      {
+        "name": "Victoria's Quilts Canada (VQC)",
+        "description": "Provides handmade quilts to people living with cancer in Canada to bring physical and spiritual comfort.",
+        "url": "https://victoriasquiltscanada.com/",
+        "scope": "local, national"
+      },
+      {
+        "name": "The Walk-In Counselling Clinic & Counselling Connect",
+        "description": "Offers multilingual support; accessible spaces; and safe, respectful care for all.",
+        "url": "https://walkincounselling.com/",
+        "scope": "provincial"
+      },
+      {
+        "name": "Youth Services Bureau (YSB): 24/7 Crisis Line and Crisis Chat",
+        "description": "Provides supportive listening, immediate crisis counselling on the phone or by chat, information on resources and service providers in the community, referrals to child and youth service providers in the community, a home-based intervention, and short-term follow-up service to children and youth ages 17 and under and for parents, guardians, caregivers, friends, or service providers who are concerned about a young person in crisis.",
+        "url": "https://www.ysb.ca/services/ysb-mental-health/24-7-crisis-line/",
+        "scope": "local"
       }
     ],
     "environment_orgs": [
@@ -394,7 +666,13 @@
         "url": "https://www.allsaintswestboro.com/westboro-region-food-bank/"
       }
     ],
-    "homelessness_orgs": [
+    "housing_orgs": [
+      {
+        "name": "ACORN (Association of Community Organisations for Reform Now) Canada",
+        "description": "Fights landlords and corporations through direct action. Fights for new and improved laws to protect their rights.",
+        "url": "https://acorncanada.org/",
+        "scope": "national"
+      },
       {
         "name": "Action Housing",
         "description": "Assists clients to find housing when they do not have computer access or the skills to look online for themselves.",
@@ -433,12 +711,19 @@
       {
         "name": "GottaGo!",
         "description": "Campaigns for a network of public toilets in Ottawa.",
-        "url": "https://www.gottago-ottawa.ca/"
+        "url": "https://www.gottago-ottawa.ca/",
+        "scope": "local"
       },
       {
         "name": "Landseed",
         "description": "Addresses the Canadian housing crisis by leveraging community market data and AI systems to solution the problems and support attainable housing opportunities for corhorts in need.",
         "url": "https://landseed.ca/"
+      },
+      {
+        "name": "Multifaith Housing Initiative (MHI)",
+        "description": "Provides and promotes safe, affordable, and well-maintained housing in inclusive communities, and mobilises resources for these purposes.",
+        "url": "https://www.multifaithhousing.ca/",
+        "scope": "local"
       },
       {
         "name": "Naomi's House",
@@ -449,6 +734,18 @@
         "name": "Operation Come Home",
         "description": "A centre for homeless and at-risk youth aged 16-29, dedicated to providing employment, education, and support services.",
         "url": "https://www.operationcomehome.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "Options Housing",
+        "description": "Provides permanent, deeply affordable housing to 128 tenants in four residential communities in Ottawa. Supports 1000+ Ottawa Community Housing tenants with crisis intervention, counselling, and community development. Provides tailored and intensive support to over 175 people who have experienced chronic homelessness. Provides peer-led support and group activities in seven Ottawa Community Housing buildings to promote well-being and reduce isolation. Provides intensive support for people in Supportive and Community Housing at risk of losing their home due to hoarding behaviours.",
+        "url": "https://optionshousing.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "Ottawa and Gatineau ACORN",
+        "description": "Fights landlords and corporations through direct action. Fights for new and improved laws to protect their rights.",
+        "url": "https://acorncanada.org/locations/ottawa-acorn/",
         "scope": "local"
       },
       {
@@ -492,6 +789,12 @@
         "url": "https://belongottawa.ca/programs/st-lukes-table/"
       },
       {
+        "name": "Veterans' House Canada",
+        "description": "Helps homeless veterans build a better future by providing permanent, affordable, and supportive housing.",
+        "url": "https://www.veteranshousecanada.ca/",
+        "scope": "local, national"
+      },
+      {
         "name": "The Well",
         "description": "Provides laundry, showers, meals (breakfast and lunch), hygiene supplies, telephone access, internet, and community navigation support to women, children, and gender-diverse people.",
         "url": "https://belongottawa.ca/programs/the-well/"
@@ -527,6 +830,12 @@
         "description": "Provices programs and services for Indigenous women.",
         "url": "https://www.onwa.ca/ottawa-services",
         "scope": "local"
+      },
+      {
+        "name": "Talk4Healing Helpline",
+        "description": "Offers help, support, and resources to Indigenous women and their families 24/7 through talk, text, and chat.",
+        "url": "https://www.beendigen.com/programs/talk4healing/",
+        "scope": "national"
       }
     ],
     "transit_orgs": [
@@ -615,6 +924,24 @@
         "url": "https://www.cesoc.ca/nos-services/appui-aux-aines-immigrants/"
       },
       {
+        "name": "Cooperation Integration Canada (CICAN)",
+        "description": "Promotes the integration and inclusion of the French-speaking and Francophile immigrant community. Provides a range of services and programs inspired by the real needs of newcomers.",
+        "url": "https://cican.ca/en/",
+        "scope": "local"
+      },
+      {
+        "name": "EcoEquitable",
+        "description": "Empowers newcomer women and women experiencing barriers while reducing textile waste by stitching together community, sustainability, and creativity. Provides inclusive sewing-based programs to create pathways to connection, self-expression, and economic opportunity - while promoting environmental stewardship.",
+        "url": "https://ecoequitable.ca/",
+        "scope": "local"
+      },
+      {
+        "name": "ELTOC",
+        "description": "Provides newcomers access to English lessons through the Small Group Program and the Language Link 613 Project.",
+        "url": "https://eltoc.ca/",
+        "scope": "local"
+      },
+      {
         "name": "Jewish Family Services (JFS) Settlement Services",
         "description": "Offers newcomer services to all newcomers, no matter your cultural, ethnic, and linguistic backgrounds.",
         "url": "https://www.jfsottawa.com/settlement-support-2/"
@@ -651,11 +978,17 @@
         "url": "https://www.ymcaottawa-nic.ca/"
       }
     ],
-    "survivor_support_orgs": [
+    "violence_support_orgs": [
       {
         "name": "Algonquin College Student Distress Line",
         "description": "Connects survivors of a sexual assault to relevant support, resources, and options on campus.",
         "url": "https://www.algonquincollege.com/projectlighthouse/survivor-information/"
+      },
+      {
+        "name": "The Assaulted Women's Helpline",
+        "description": "Provides a safe space, free of judgement anytime, day or night, to support, listen, and guide women who have experienced any type of abuse anywhere in Ontario.",
+        "url": "https://www.awhl.org/",
+        "scope": "provincial"
       },
       {
         "name": "Carlington Community Health Centre Health Services for Violence Against Women",
@@ -666,6 +999,18 @@
         "name": "Centre for Treatment of Sexual Abuse and Childhood Trauma",
         "description": "Offers individual, couples, and group therapy.",
         "url": "https://www.centrefortreatment.com/"
+      },
+      {
+        "name": "Ottawa Rape Crisis Centre (ORCC)",
+        "description": "Supports people with lived experience of sexual and gender-based violence through counselling and crisis services while advocating for systemic change through education, policy, and research.",
+        "url": "https://orcc.net/",
+        "scope": "local"
+      },
+      {
+        "name": "Unsafe at Home Ottawa",
+        "description": "Provides emotional support, safety plans, resources, and referrals using a secure text and online chat service for women and members of 2SLGBTQ+ communities in Ottawa and Lanark County.",
+        "url": "https://unsafeathomeottawa.ca/",
+        "scope": "local"
       }
     ],
     "twoSLGBTQIAplus_orgs": [
