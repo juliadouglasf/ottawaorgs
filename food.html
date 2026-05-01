@@ -34,11 +34,13 @@
     </script>
     <div class="container-fluid">
         <h1 class="mt-3 ms-2">Food</h1>
+        <div id="food-map" style="width: 100%; height: 450px;"></div>
         <div class="grid-container">
           <div id="orgCards" class="row g-3"></div>
         </div>
         <div>
           <script>
+            var org_map_info = [];
             document.addEventListener('DOMContentLoaded', () => {
             fetch('org_metadata.json')
               .then(response => response.json())
@@ -56,6 +58,7 @@
                     </a>
                   `;
                   container.appendChild(card);
+                  
                 });
               })
               .catch(error => console.error('Error loading org metadata:', error));
@@ -69,5 +72,45 @@
       </script>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""></script>
+    <script>
+  function showMap(id, lat, long, label) {
+    const mapLayer = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    });
+    const satLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+      maxZoom: 19,
+      attribution: '&copy; <a href="https://esri.com">ESRI</a>'
+    });
+    const map = L.map(id, {
+      layers: [mapLayer],
+      center: [lat, long],
+      zoom: 10,
+      scrollWheelZoom: false,
+    });
+    var marker_icon = L.icon({
+      iconUrl: 'marker-icon.png',
+      iconSize: [50, 50],
+      iconAnchor: [22, 94],
+      popupAnchor: [-3, -76],
+      // shadowUrl: 'my-icon-shadow.png',
+      // shadowSize: [68, 95],
+      // shadowAnchor: [22, 94]
+    });
+    // const markerLayer = L.marker([lat, long], {icon: marker_icon}).addTo(map).bindPopup(label);
+    for (var i=0; i<orgs.length; i++) {
+      marker = new L.marker([orgs[i][1], orgs[i][2]])
+        .bindPopup(orgs[i][0])
+        .addTo(map);
+    }
+    L.control.layers({Map: mapLayer, Satellite: satLayer}, {Markers: markerLayer}).addTo(map);
+  }
+  document.addEventListener("DOMContentLoaded", (event) => {
+    showMap('food-map', 45.249776, -75.800824, 'Ottawa');
+  });
+  </script>
   </body> 
 </html>
