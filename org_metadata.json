@@ -255,6 +255,12 @@
         "scope": "local"
       },
       {
+        "name": "Youth Services Bureau (YSB): Purple Sisters Youth Advisory",
+        "description": "Educates, supports, and empowers young people. Creates positive spaces that give a voice to marginalised genders. Advocates for the community and strives for equality for all of us.",
+        "url": "https://www.ysb.ca/for-youth/youth-engagement/purple-sisters-youth-advisory/",
+        "scope": "local"
+      },
+      {
         "name": "Ready, Willing, and Able (RWA)",
         "description": "Increases the labour force participation of people with an intellectual disability or on the autism spectrum.",
         "url": "https://readywillingable.ca/",
@@ -330,6 +336,30 @@
         "name": "Youth Services Bureau (YSB): 24/7 Crisis Line and Crisis Chat",
         "description": "Provides supportive listening, immediate crisis counselling on the phone or by chat, information on resources and service providers in the community, referrals to child and youth service providers in the community, a home-based intervention, and short-term follow-up service to children and youth ages 17 and under and for parents, guardians, caregivers, friends, or service providers who are concerned about a young person in crisis.",
         "url": "https://www.ysb.ca/services/ysb-mental-health/24-7-crisis-line/",
+        "scope": "local"
+      },
+      {
+        "name": "Youth Services Bureau (YSB): Intensive Family Support",
+        "description": "Supports families with youth (aged 12 to 17) who are at risk of out-of-home placement to foster care, a group home, or a correctional facility in response to a range of significant behavioural problems, including oppositional, aggressive, violent, or criminal behaviour; failing classes, not going to school, or experiencing other school problems; serious disrespect in the home and in the community; running away from home; using drugs and/or alcohol; or taking part in any other risky activities that could result in self-harm. Therapists engage key people in the youth's environment (family, school faculty, community members, etc.) and collaborate with family members to design the treatment plan.",
+        "url": "https://www.ysb.ca/services/ysb-mental-health/intensive-family-support/",
+        "scope": "local"
+      },
+      {
+        "name": "Youth Services Bureau (YSB): Wraparound Ottawa",
+        "description": "Works with existing supports and services to help families, children, and youth with complex needs find solutions and work towards a better life. Creates and implements an action plan that builds on the family's strengths, provides services to meet their needs, and guides them towards achieving their goals. Offered in partnership with Crossroads Children's Centre and Coordinated Access",
+        "url": "https://www.ysb.ca/services/ysb-mental-health/wraparound-ottawa/",
+        "scope": "local"
+      },
+      {
+        "name": "Youth Services Bureau (YSB): Youth and Family Counselling",
+        "description": "Provides counselling services to young people (aged 12 up to 17 years old) and their families. Offers individual counselling to the youth on their own or to one or both parents on their own. Cooperates with youth and families to identify specific goals and work towards their achievement.",
+        "url": "https://www.ysb.ca/services/ysb-mental-health/youth-family-counselling/",
+        "scope": "local"
+      },
+      {
+        "name": "Youth Services Bureau (YSB): Youth Mental Health Walk-In Clinic",
+        "description": "Offers single counselling sessions for youth whose needs are more immediate.",
+        "url": "https://www.ysb.ca/services/ysb-mental-health/youth-mental-health-walk-in-clinic/",
         "scope": "local"
       }
     ],
@@ -924,6 +954,12 @@
         "url": "https://www.cesoc.ca/nos-services/appui-aux-aines-immigrants/"
       },
       {
+        "name": "Circles of Support for Our Children's Success",
+        "description": "Empowers families and youth in Ottawa with the resources, mentorship, and care they need to thrive.",
+        "url": "https://thecirclesofsuccess.com/",
+        "scope": "local"
+      },
+      {
         "name": "Cooperation Integration Canada (CICAN)",
         "description": "Promotes the integration and inclusion of the French-speaking and Francophile immigrant community. Provides a range of services and programs inspired by the real needs of newcomers.",
         "url": "https://cican.ca/en/",
@@ -976,6 +1012,12 @@
         "name": "YMCA Newcomer Information Centre",
         "description": "Provides newcomers with all the necessary resources and support to help them successfully integrate into their new community.",
         "url": "https://www.ymcaottawa-nic.ca/"
+      },
+      {
+        "name": "Youth Services Bureau (YSB): Ethno-cultural Youth Advisory Committee (EYAC)",
+        "description": "Raises awareness of immigrant and ethno-cultural issues in Ottawa. Researches the challenges facing newcomers to Canada and shares their findings through workshops and information sessions for community service providers and decision makers.",
+        "url": "https://www.ysb.ca/for-youth/youth-engagement/ethno-cultural-youth-advisory/",
+        "scope": "local"
       }
     ],
     "violence_support_orgs": [
@@ -1290,9 +1332,16 @@
         "scope": "provincial"
       },
       {
-        "name": "Youth Services Bureau of Ottawa (YSB) Spectrum 2SLGBTQ Community Youth Group",
+        "name": "Youth Services Bureau (YSB): Queer Youth Action Committee (OYAC)",
+        "description": "Creates and delivers activities, events, workshops, and resources that educate and provide a safe(r) space to come together, share, learn, connect, and experience a sense of pride within the community. Raises awareness of the issues and needs of 2SLGBTQIA+ youth through advocacy, youth-led education sessions, and peer-to-peer outreach.",
+        "url": "https://www.ysb.ca/for-youth/youth-engagement/queer-youth-action-committee-qyac/",
+        "scope": "local"
+      },
+      {
+        "name": "Youth Services Bureau (YSB): Spectrum 2SLGBTQ Community Youth Group",
         "description": "Provides workshops, discussion groups, art collaborations, counselling services, peer mentoring, and primary care resources.",
-        "url": "https://www.ysb.ca/for-youth/youth-engagement/spectrum-lgbtq-community-youth-group/"
+        "url": "https://www.ysb.ca/for-youth/youth-engagement/spectrum-lgbtq-community-youth-group/",
+        "scope": "local"
       }
     ]
   }
