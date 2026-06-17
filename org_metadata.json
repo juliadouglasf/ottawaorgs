@@ -1043,6 +1043,12 @@
         "url": "https://www.centrefortreatment.com/"
       },
       {
+        "name": "Ottawa Police",
+        "description": "Committed to protect the safety and security of our communities.",
+        "url": "https://www.ottawapolice.ca/en/index.aspx",
+        "scope": "local"
+      },
+      {
         "name": "Ottawa Rape Crisis Centre (ORCC)",
         "description": "Supports people with lived experience of sexual and gender-based violence through counselling and crisis services while advocating for systemic change through education, policy, and research.",
         "url": "https://orcc.net/",
