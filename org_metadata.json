@@ -218,6 +218,15 @@
         "tags": "transit"
     },
 
+    "BikeMaps": {
+        "description": "Maps cycling experience to make biking safer. Analyzes public knowledge of cycling safety, hazards, and bike thefts using GIS and statistics to identify hot spots of cycling safety, risk, and crime.",
+        "url": "https://bikemaps.org/",
+        "scope": "national",
+        "tags": [
+            "transit"
+        ]
+    },
+
     "Blair Court Community House": {
         "description": "Offers food by appointment.",
         "url": "https://blaircourt.ca/programs-and-services/",
