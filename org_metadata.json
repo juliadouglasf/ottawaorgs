@@ -6,6 +6,20 @@
       "tags": "accessibility"
     },
 
+    "A Friendly Voice": {
+        "description": "A free, confidental 'warm line' for older adults aged 55 and above. A welcoming space where seniors can freely connect with a caring individual without expectations or judgment.",
+        "url": "https://afriendlyvoice.ca/",
+        "scope": "provincial",
+        "tags": "seniors"
+    },
+
+    "Abbotsford Senior Centre (Glebe Centre Community Programs at Abbotsford)": {
+        "description": "Offers a wide variety of programs to help you stay active, creative, and connected.",
+        "url": "https://glebecentre.ca/programs/member-recreation-programs/",
+        "scope": "local",
+        "tags": "seniors"
+    },
+
     "Abilities Ottawa": {
       "description": "Programs and initiatives that support quality participation, community capacity building, and educational opportunities that break down barriers and increase inclusive recreational and sport opportunities for people of all abilities.",
       "url": "https://abilitiescentreottawa.org",
@@ -57,6 +71,22 @@
       "tags": "accessibility"
     },
 
+    "Active Living Club 50+": {
+        "description": "Promotes outdoor activities in a group setting for adults aged 50+ and seniors.",
+        "url": "https://ottawa.ca/en/recreation-and-parks/drop-activities/senior-centre-drop-ins-membership-and-active-living-club-50/active-living-club-50",
+        "scope": "local",
+        "tags": "seniors"
+    },
+
+    "African Canadian Association of Ottawa (ACAO)": {
+        "description": "Supports African Canadians and Black communities through settlement support, youth programs, housing, health initiatives, financial education, advocacy, culture, and community connection.",
+        "url": "https://acaottawa.org/",
+        "scope": "local",
+        "tags": [
+            "newcomers"
+        ]
+    },
+
     "AIDE Canada (Autism and/or Intellectual Disability Knowledge Exchange Network)": {
       "description": "Connects community members to the information and resources that they need. Delivers credible, reliable, and evidence-informed resources in an unbiased and accessible way.",
       "url": "https://aidecanada.ca/",
@@ -83,6 +113,23 @@
       "tags": "accessibility"
     },
 
+    "Alzheimer Society": {
+        "description": "Delivers programs and services to individuals impacted by dementia.",
+        "url": "https://alzheimer.ca/ottawa/en",
+        "scope": "local, national",
+        "tags": "accessibility"
+    },
+
+    "Amethyst Centre Ottawa": {
+        "description": "Supports women and gender-diverse individuals by offering a range of alternative addiction services. Supports the community to take control of factors that impact health and well-being in healing and recovery.",
+        "url": "https://amethyst-ottawa.org/",
+        "scope": "local",
+        "tags": [
+            "2SLGBTQIA+",
+            "accessibility"
+        ]
+    },
+
     "Ancoura": {
         "description": "Provides a nurturing and fulfilling environment for adults living with a mental illness in Ottawa through stable housing and a supportive community.",
         "url": "https://ancoura.ca/",
@@ -92,7 +139,14 @@
         ]
     },
 
-    "The Assaulted Women's Helpline": {
+    "Arts Ottawa": {
+        "description": "Drives collective action to address the needs and priorities of Ottawa's arts sector.",
+        "url": "https://www.artsottawa.ca/",
+        "scope": "local",
+        "tags": ""
+    },
+
+    "The Assaulted Women's Helpline (AWHL)": {
         "description": "Provides a safe space, free of judgement anytime, day or night, to support, listen, and guide women who have experienced any type of abuse anywhere in Ontario.",
         "url": "https://www.awhl.org/",
         "scope": "provincial",
@@ -132,6 +186,25 @@
         "tags": "housing"
     },
 
+    "Behavioural Supports Ontario": {
+        "description": "Provides behavioural healthcare services for older adults in Ontario with, or at risk of, responsive behaviours/personal expressions associated with dementia, complex mental health, substance use, and/or other neurological conditions. Also provides support to family care partners and healthcare providers across sectors.",
+        "url": "https://www.behaviouralsupportsontario.ca/",
+        "scope": "provincial",
+        "tags": [
+            "accessibility",
+            "seniors"
+        ]
+    },
+
+    "Bereaved Families of Ontario (bfo Ottawa)": {
+        "description": "Inspires hope and healing for people in the Ottawa Region grieving the death of someone significant in their life.",
+        "url": "https://bfo-ottawa.org/",
+        "scope": [
+            "local",
+            "provincial"
+        ]
+    },
+
     "Big Brothers and Big Sisters of Ottawa (BBBSO) Prism": {
         "description": "Community and school-based program that connects children and youth who identify as 2SLGBTQIA+ with an adult mentor who also identifies as 2SLGBTQIA+ for a one-on-one mentoring relationship.",
         "url": "https://www.bbbso.ca/get-involved/prism/",
@@ -163,6 +236,35 @@
       "tags": "accessibility"
     },
 
+    "Britannia Woods Community Services": {
+        "description": "Provides innovative, accessible, and culturally responsive support to individuals, families, and communities through an equity-focused approach.",
+        "url": "https://britanniawoods.com/",
+        "scope": "local",
+        "tags": [
+            "food",
+            "low-income"
+        ]
+    },
+
+    "Bruyère Health: Bruyère Health Memory Clinic": {
+        "description": "Specializes in the assessment, diagnosis, and treatment of cognitive impairment, dementia, and Alzheimer's disease.",
+        "url": "https://www.bruyere.org/en/memory-program",
+        "scope": "local",
+        "tags": [
+            "accessibility"
+        ]
+    },
+
+    "Caldwell Family Centre": {
+        "description": "Reduces the impact of poverty in Ottawa.",
+        "url": "https://caldwellfamilycentre.ca/",
+        "scope": "local",
+        "tags": [
+            "food",
+            "low-income"
+        ]
+    },
+
     "Canada Green Building Council": {
         "description": "Changes industry standards, develops best practices, and provides the tools and training needed for sustainable green building everywhere.",
         "url": "https://www.cagbc.org/",
@@ -189,6 +291,13 @@
       "url": "https://chha.ca",
       "scope": "national",
       "tags": "accessibility"
+    },
+
+    "Canadian Mental Health Association (CAMH)": {
+        "description": "Aims to ensure that all people in Canada experience good mental health and well-being.",
+        "url": "https://cmha.ca/",
+        "scope": "national",
+        "tags": "accessibility"
     },
 
     "Canadian Network for Environmental Education and Communication (EECOM)": {
@@ -219,6 +328,13 @@
         "tags": "environment"
     },
 
+    "Cancer Care Ontario: ColonCancerCheck": {
+        "description": "Ontario's population-based, province-wide, organized screening program designed to increase screening participation and reduce deaths from colorectal cancer.",
+        "url": "https://www.cancercareontario.ca/en/cancer-care-ontario/programs/screening-programs/colon-cancer-check-colorectal-screening?afd_azwaf_tok=eyJraWQiOiJBQTFBOUFGMTM1QUU0NDI0RDgyN0I1M0MwOUYyRDA4N0JCRTQxMjRENDE4MDNFMzY5NkYwMUYwQjk2NUU4RTUzIiwiYWxnIjoiUlMyNTYifQ.eyJhdWQiOiJ3d3cuY2FuY2VyY2FyZW9udGFyaW8uY2EiLCJleHAiOjE3ODk0ODgxNjksImlhdCI6MTc4OTQ4ODE1OSwiaXNzIjoidGllcjEtNTZkOTU0YzY2Yi03OHE1eiIsInN1YiI6IjY5LjE5Ni4xNjMuNDIiLCJkYXRhIjp7InR5cGUiOiJpc3N1ZWQiLCJyZWYiOiIyMDI2MDkxNVQxNjAyMzlaLTE1NmQ5NTRjNjZiNzhxNXpoQzFURUJuY2tzMDAwMDAwMDVmZzAwMDAwMDAwNGV5MCIsImIiOiJzcDYzTThEZ1F4R0FLaE1OM3Y1ZHJnaWxHQTdfbm1NNElTZGM2WU92N2hnIiwiaCI6Im9WUVoyZzRMSnpuMHZfNGRpbGFVTWZOZDBTWWplaDFhZ1YwSi1rV2Ziak0ifX0.DLyxt2JNQfXdg0wDrQW1jqEvdAwByRWqVxeloQKr3mND2HvTK1afSVWs6ZTq-AYPdk8bYTUxEZVOROcKp5GsLqeAUTpuHVfNikjFp64Le_ggvjEApVajaTTG3KMHqzK91StXW6h-8Ty3tf0m-LdM7zngzxh2VcSYvE7dnubYxHSkLxXm-3iiYfboAOmiqBeoukbZ7QtFUu3uuyi7vMEVBPHb6oUCrkU5VhSm3vP_AvxVVViNhB1QY4_j3NMV2zEpmNWQjjoKYyYV2uknUfkm-DiTEyXquGWZBgKUxK-iqDEPSuxKgR47u65y0ylFAq_A0Suh0HDSUZ-YiBc99PQeaA.WF3obl2IDtqgvMFRqVdYkD5s",
+        "scope": "provincial",
+        "tags": "accessibility"
+    },
+
     "Capital Pride": {
         "description": "Creates opportunities to celebrate, advocate, educate, and connect people, respecting the full diversity of the 2SLGBTQ+ community.",
         "url": "https://capitalpride.ca/",
@@ -232,6 +348,45 @@
         "tags": [
           "newcomers",
           "2SLGBTQIA+"
+        ]
+    },
+
+    "Care Centre Ottawa": {
+        "description": "Provides dignified support to those in need throughout the Ottawa region.",
+        "url": "https://www.carecentreottawa.ca/",
+        "scope": "local",
+        "tags": [
+            "food",
+            "low-income"
+        ]
+    },
+
+    "Carefor": {
+        "description": "Meets clients' health needs for high-quality home care and community support services.",
+        "url": "https://carefor.ca/",
+        "scope": "local",
+        "tags": [
+            "accessibility",
+            "seniors"
+        ]
+    },
+
+    "Carefor: Let's Get Together Club": {
+        "description": "Provides opportunities to socialize; develop friendships; and engage in leisure, education, and wellness activities in a safe, structured, and supportive setting.",
+        "url": "https://carefor.ca/programs/adult-day-programs/lets-get-together-club/",
+        "scope": "local",
+        "tags": [
+            "seniors"
+        ]
+    },
+
+    "Carleton Lodge": {
+        "description": "City-operated home with an adult day program.",
+        "url": "https://ottawa.ca/en/family-and-social-services/housing-and-homelessness/long-term-care/city-operated-homes/carleton-lodge",
+        "scope": "local",
+        "tags": [
+            "housing",
+            "seniors"
         ]
     },
 
@@ -267,19 +422,69 @@
         "tags": "housing"
     },
 
+    "Centre d'accueil Champlain": {
+        "description": "Foyer de soins de longue durée géré par la Ville qui offre aussi des programmes de jour aux adultes.",
+        "url": "https://ottawa.ca/fr/famille-et-services-sociaux/logements-et-lutte-contre-litinerance/soins-de-longue-duree/les-foyers-de-soins-de-longue-duree-geres-par-la-ville/centre-daccueil-champlain",
+        "scope": "local",
+        "tags": [
+            "housing",
+            "seniors"
+        ]
+    },
+
+    "Centre de services Guigues": {
+        "description": "Offre aux aînés francophones une vaste gamme de services de soutien communautaires et d'activités socio-récréatives destinés à les divertir, les outiller et les soutenir.",
+        "url": "https://montfortrenaissance.ca/programmes-et-services/services-aux-aines/centre-de-services-guigues/",
+        "scope": "local",
+        "tags": "seniors"
+    },
+
     "Centre for Treatment of Sexual Abuse and Childhood Trauma": {
         "description": "Offers individual, couples, and group therapy.",
         "url": "https://www.centrefortreatment.com/",
         "tags": "violence_support"
     },
 
-    "Centretown Community Health Centre 2SLGBTQIA+ Programs and Services": {
+    "Centre Pauline-Charron (CPC)": {
+        "description": "Aide les personnes aînées à améliorer leur bien-être et leur santé mentale et physique sans égard à leur race, leurs croyances et leurs moyens; d'aider et d'appuyer toute initiative permettant de tisser des liens de rapprochement et de compréhension entre les générations, les cultures et les personnes aînées francophones de sa communauté.",
+        "url": "https://www.lecpc.ca/",
+        "scope": "local",
+        "tags": "seniors"
+    },
+
+    "Centre Séraphin-Marion d'Orléans": {
+        "description": "Offre aux retraités et semi-retraités des activités leur permettant de se rencontrer, de s'épanouir et de vieillir en santé dans un milieu francophone.",
+        "url": "https://mifo.ca/centre-de-vie-active/",
+        "scope": "local",
+        "tags": "seniors"
+    },
+
+    "Le Centre Soleil d'Ottawa Ouest (Centre Soleil)": {
+        "description": "Rejoint les personnes de 50 ans et plus, francophones et francophiles, de l'ouest d'Ottawa, de leur offrir des occasions de contact, de stimulation et de développement social et culturel.",
+        "url": "https://cmfo.ca/services/services-aux-personnes-ainees/",
+        "scope": "local",
+        "tags": [
+            "seniors"
+        ]
+    },
+
+    "Centretown Community Health Centre: 2SLGBTQIA+ Programs and Services": {
         "description": "Provides free programs for counselling, HIV point-of-care testing, hormone therapy starts and surgery referral, LGBTQIA+ newcomers, and trans health.",
         "url": "https://www.centretownchc.org/lgbtq2s",
         "tags": "2SLGBTQIA+"
     },
 
-    "Centretown Community Health Centre LGBTQIA+ Newcomer Program": {
+    "Centretown Community Health Centre: The LESA Program (Lifestyle Enrichment for Senior Adults): Substance Use & Problem Gambling Supports for People 55+": {
+        "description": "Helps individuals and family members to address problem gambling and substance abuse.",
+        "url": "https://www.centretownchc.org/programs/the-lesa-program%3A-substance-use-%26-problem-gambling-supports-for-people-55%2B",
+        "scope": "local",
+        "tags": [
+            "accessibility",
+            "seniors"
+        ]
+    },
+
+    "Centretown Community Health Centre: LGBTQIA+ Newcomer Program": {
         "description": "A social drop-in for LGBTQIA+ newcomers.",
         "url": "https://www.centretownchc.org/programs/lgbtqia%2B-newcomer-program",
         "tags": [
@@ -335,9 +540,16 @@
     },
 
     "Chrysalis House": {
-        "description": "Provides shelter to cis and trans women, two-spirit, non-binary, and gender-diverse people of diverse ages, cultures, race, sexual orientaions, and abilities.",
+        "description": "Provides shelter to cis and trans women, two-spirit, non-binary, and gender-diverse people of diverse ages, cultures, race, sexual orientations, and abilities.",
         "url": "https://wocrc.ca/program/chrysalis-house/",
         "tags": "housing"
+    },
+
+    "Churchill Seniors Centre": {
+        "description": "Offers a wide range of recreation programs for adults aged 50 and over.",
+        "url": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/churchill-seniors-centre",
+        "scope": "local",
+        "tags": "seniors"
     },
 
     "Circles of Support for Our Children's Success": {
@@ -345,6 +557,44 @@
         "url": "https://thecirclesofsuccess.com/",
         "scope": "local",
         "tags": "newcomers"
+    },
+
+    "City of Ottawa: Funerals": {
+        "description": "Helps pay for the direct disposition, burial, or cremation of a deceased resident who does not have enough funds in their estate to cover the costs.",
+        "url": "https://ottawa.ca/en/family-and-social-services/financial-and-social-assistance/apply-financial-assistance/funerals",
+        "scope": "local", 
+        "tags": [
+            "low-income",
+            "seniors"
+        ]
+    },
+
+    "City of Ottawa: Ontario Renovates homeowner program": {
+        "description": "Provides financial assistance to low-income seniors and to persons with disabilities for essential repairs and accessibility modifications to support independent living.",
+        "url": "https://ottawa.ca/en/family-and-social-services/housing-and-homelessness/ontario-renovates-program/homeowner",
+        "scope": [
+            "local",
+            "provincial"
+        ],
+        "tags": [
+            "accessibility",
+            "low-income",
+            "seniors"
+        ]
+    },
+
+    "City of Ottawa: Portable Housing Benefit": {
+        "description": "Provides low- to moderate-income households with a monthly payment to help with rental costs in the private housing market.",
+        "url": "https://ottawa.ca/en/family-and-social-services/housing-and-homelessness/subsidized-housing/portable-housing-benefit",
+        "scope": "local",
+        "tags": [
+            "accessibility",
+            "housing",
+            "indigenous",
+            "low-income",
+            "seniors",
+            "survivor_support"
+        ]
     },
 
     "Climate Action Network Canada": {
@@ -365,6 +615,13 @@
         "description": "Provides food and assistance to our K1C neighbours.",
         "url": "https://cpcorleans.ca/foodbank/",
         "tags": "food"
+    },
+
+    "Community Legal Services of Ottawa": {
+        "description": "Provides free legal services for certain problems to people living on a low income.",
+        "url": "https://www.clsottawa.ca/",
+        "scope": "local",
+        "tags": "low-income"
     },
 
     "Confederation Court Community House Food Bank": {
@@ -401,10 +658,30 @@
         "tags": "newcomers"
     },
 
+    "Coopérative Ami Jeunesse": {
+        "description": "Lutte contre l'insécurité alimentaire afin d'améliorer la qualité de vie des jeunes qui fréquentent une école francophone de la ville d'Ottawa.",
+        "url": "https://amijeunesse.ca/",
+        "scope": "local", 
+        "tags": [
+            "food",
+            "low-income"
+        ]
+    },
+
     "Cornerstone": {
         "description": "Helps women transform their lives from crisis to hope, housing, and healing.",
         "url": "https://cornerstonewomen.ca/",
         "tags": "housing"
+    },
+
+    "The Council on Aging of Ottawa": {
+        "description": "Works to advance the wellbeing of Ottawa's older adults as a bilingual and inclusive Council.",
+        "url": "https://coaottawa.ca/",
+        "scope": "local",
+        "tags": [
+            "housing",
+            "seniors"
+        ]
     },
 
     "Crisis Line": {
@@ -434,6 +711,25 @@
         "tags": "food"
     },
 
+    "Dave Smith Youth Treatment Centre": {
+        "description": "Provides youth and families in need with integrated, evidence-based addiction and mental health treatment, delivered by competent professionals within a caring and compassionate environment.",
+        "url": "http://www.davesmithcentre.org/",
+        "scope": "local",
+        "tags": [
+            "accessibility"
+        ]
+    },
+
+    "Dementia Society of Ottawa and Renfrew County": {
+        "description": "Provides compassionate support, tailored coaching, and practical education for everyone impacted by dementia while building a dementia-inclusive community.",
+        "url": "https://dementiahelp.ca/",
+        "scope": "local", 
+        "tags": [
+            "accessibility",
+            "seniors"
+        ]
+    },
+
     "Disability Advocacy Network of Eastern Ontario": {
       "description": "Advocates for the rights of citizens labelled with an intellectual/developmental disability to have access to the same opportunities and choices as other Ontarians.",
       "url": "https://daneo-raipheo.ca",
@@ -446,6 +742,19 @@
       "url": "https://www.dcottawa.on.ca/",
       "scope": "local",
       "tags": "accessibility"
+    },
+
+    "Dynacare": {
+        "description": "Supports healthy lives with commitment and care.",
+        "url": "https://www.dynacare.ca/",
+        "scope": [
+            "local",
+            "provincial"
+            ],
+        "tags": [
+            "accessibility",
+            "seniors"
+        ]
     },
 
     "EB Building Blocks": {
@@ -484,6 +793,16 @@
         "tags": "environment"
     },
 
+    "Elder Abuse Prevention Ontario": {
+        "description": "Strives to create an Ontario that is free from abuse for all seniors.",
+        "url": "Elder Abuse Prevention Ontario",
+        "scope": "provincial",
+        "tags": [
+            "seniors",
+            "survivor_support"
+        ]
+    },
+
     "Els for Autism": {
       "description": "Helps people diagnosed on the autism spectrum live healthy, productive lives.",
       "url": "https://www.elsforautismcanada.com/",
@@ -512,12 +831,22 @@
         "tags": "environment"
     },
 
-"Family Services Ottawa (FSO) 2SLGBTQI+ Around the Rainbow": {
+    "Family Services Ottawa (FSO) 2SLGBTQI+ Around the Rainbow": {
         "description": "Provides education, counselling, and support services to 2SLGBTQI+ families and individuals.",
         "url": "https://familyservicesottawa.org/services-and-programs/around-the-rainbow/",
         "scope": "local",
         "tags": "2SLGBTQIA+"
-},
+    },
+
+    "FAMSAC": {
+        "description": "Provides emergency food assistance to people living in Bayshore, Bells Corners, Crystal Beach, Craig Henry, Manordale, and Trend Arlington.",
+        "url": "https://famsac.ca/",
+        "scope": "local",
+        "tags": [
+            "food",
+            "low-income"
+        ]
+    },
 
     "Feed the City": {
         "description": "Delivers emergency food to community members in Ottawa, Ontario, who are unable to access their local food bank, due to a variety of barriers.",
@@ -563,6 +892,16 @@
         "tags": "transit"
     },
 
+    "Freiheit Care": {
+        "description": "Brings freedom through premium quality care.",
+        "url": "https://freiheit.ca/",
+        "scope": "local",
+        "tags": [
+            "accessibility",
+            "seniors"
+        ]
+    },
+
     "Gardens Ottawa": {
         "description": "Promotes the development of marketing synergies, directly linked to local, regional, provincial, and national strategies. Provides unique and effective opportunities to develop the experience of the gardening sector, its markets, and the buy-in of all those involved.",
         "url": "https://gardensottawa.ca/",
@@ -598,10 +937,56 @@
         "tags": "2SLGBTQIA+"
     },
 
+    "Geriatric Psychiatry Community Services of Ottawa (GPCSO)": {
+        "description": "Works with older adults living in our community to optimize their mental health and/or dementias with challenging behaviours.",
+        "url": "https://www.gpcso.org/",
+        "scope": "local",
+        "tags": [
+            "accessibility",
+            "seniors"
+        ]
+    },
+
+    "Gignul Non-Profit Housing Corporation": {
+        "description": "Works in partnership with other Aboriginal organizations, focussing on short- and long-term housing solutions for Aboriginal people at risk of losing their housing or who are currently homeless.",
+        "url": "http://www.gignulhousing.org/",
+        "scope": "local",
+        "tags": [
+            "housing",
+            "indigenous",
+            "low-income"
+        ]
+    },
+
+    "Gloucester 50+ Centre": {
+        "description": "Fun, food, and fellowship for seniors in Ottawa!",
+        "url": "https://www.gloucester50pluscentre.ca/",
+        "scope": "local",
+        "tags": "seniors"
+    },
+
     "Gloucester Emergency Food Cupboard": {
         "description": "Alleviates food insecurity in our community by working together to create opportunities to access and share good food through innovative food programming, partnerships, and civic engagement.",
         "url": "https://gefc.ca/",
         "tags": "food"
+    },
+
+    "The Good Companions": {
+        "description": "Provides opportunities for older adults to participate in social, recreational, educational, and volunteer activities and benefit from social and health services.",
+        "url": "https://thegoodcompanions.ca/",
+        "scope": "local",
+        "tags": "seniors"
+    },
+
+    "The Good Companions: Grocery Shopping Program": {
+        "description": "Offers free door-to-door transportation service to local grocery stores for seniors and adults with physical disabilities. Provides an opportunity to socialize with others while getting out and choosing your own groceries.",
+        "url": "https://thegoodcompanions.ca/community-support-services/grocery-shopping-program/",
+        "scope": "local",
+        "tags": [
+            "accessibility",
+            "seniors",
+            "transit"
+        ]
     },
 
     "Good2Talk": {
@@ -639,25 +1024,53 @@
         "tags": "housing"
     },
 
-    "Government of Canada 2SLGBTQI+ terminology": {
+    "Government of Canada: 2SLGBTQI+ terminology": {
         "description": "Glossary and common acronyms related to 2SLGBTQI+ identities and issues.",
         "url": "https://www.canada.ca/en/women-gender-equality/free-to-be-me/2slgbtqi-plus-glossary.html",
         "scope": "national",
         "tags": "2SLGBTQIA+"
     },
 
-    "Government of Canada Gender and Sexual Diversity Glossary": {
+    "Government of Canada: Canada Pension Plan retirement pension": {
+        "description": "A monthly, taxable benefit that replaces part of your income when you retire.",
+        "url": "https://www.canada.ca/en/services/benefits/publicpensions/cpp.html",
+        "scope": "national",
+        "tags": "seniors"
+    },
+
+    "Government of Canada: Canadian Dental Care Plan": {
+        "description": "Helps make the cost of dental care more affordable for eligible Canadian residents.",
+        "url": "https://www.canada.ca/en/services/benefits/dental/dental-care-plan.html",
+        "scope": "national",
+        "tags": "low-income"
+    },
+
+    "Government of Canada: Gender and Sexual Diversity Glossary": {
         "description": "English and French equivalents to 155 concepts on gender and sexual diversity.",
         "url": "https://www.btb.termiumplus.gc.ca/publications/diversite-diversity-eng.html",
         "scope": "national",
         "tags": "2SLGBTQIA+"
     },
 
-    "Government of Canada Gender-inclusive writing": {
+    "Government of Canada: Gender-inclusive writing": {
         "description": "Vocabularies, glossaries, and collections of terms related to gender and sexual diversity.",
         "url": "https://www.noslangues-ourlanguages.gc.ca/en/ressources-resources/ecriture-inclusive-writing/glossaires-glossaries-eng",
         "scope": "national",
         "tags": "2SLGBTQIA+"
+    },
+
+    "Government of Canada: Guaranteed Income Supplement": {
+        "description": "A monthly, tax-free payment for people age 65 or older.",
+        "url": "https://www.canada.ca/en/services/benefits/publicpensions/old-age-security/guaranteed-income-supplement.html",
+        "scope": "national",
+        "tags": "seniors"
+    },
+
+    "Government of Canada: Old Age Security": {
+        "description": "Distributes pension to eligible Canadian citizens and legal residents.",
+        "url": "https://www.canada.ca/en/services/benefits/publicpensions/old-age-security.html",
+        "scope": "national",
+        "tags": "seniors"
     },
 
     "Government of Ontario: Assistance for Children with Severe Disabilities Program (ACSD)": {
@@ -665,6 +1078,168 @@
       "url": "https://www.ontario.ca/page/assistance-children-severe-disabilities-program",
       "scope": "provincial",
       "tags": "accessibility"
+    },
+
+    "Government of Ontario: Assistive Devices Program": {
+        "description": "Helps people with long-term physical disabilities pay for customized equipment, like wheelchairs and hearing aids.",
+        "url": "https://www.ontario.ca/page/assistive-devices-program",
+        "scope": "provincial",
+        "tags": "accessibility"
+    },
+
+    "Government of Ontario: Guaranteed Annual Income System (GAINS)": {
+        "description": "Provides a monthly, non-taxable payment to Ontario seniors with low income.",
+        "url": "https://www.ontario.ca/page/guaranteed-annual-income-system-payments-seniors",
+        "scope": "provincial",
+        "tags": [
+            "low-income",
+            "seniors"
+        ]
+    },
+
+    "Government of Ontario: Health811": {
+        "description": "Provides safe, high-quality care to avoid unnecessary visits to the emergency room.",
+        "url": "https://health811.ontario.ca/static/guest/home",
+        "scope": "provincial",
+        "tags": "accessibility"
+    },
+
+    "Government of Ontario: Long-Term Care Rate Reduction Program": {
+        "description": "Helps low-income residents pay for basic accommodation.",
+        "url": "https://www.ontario.ca/page/paying-long-term-care",
+        "scope": "provincial",
+        "tags": [
+            "housing",
+            "seniors"
+        ]
+    },
+
+    "Government of Ontario: MedsCheck": {
+        "description": "Helps patients comply with their prescription medications and better understand how the medications with each other and other over-the-counter medications they may be taking.",
+        "url": "https://www.ontario.ca/page/professional-pharmacy-services#section-0",
+        "scope": [
+            "local",
+            "provincial"
+        ],
+        "tags": "accessibility"
+    },
+
+    "Government of Ontario: Ministry of Long-Term Care": {
+        "description": "Oversees long-term care in Ontario to ensure that residents get the quality of care and quality of life they need and deserve both now and in the future.",
+        "url": "https://www.ontario.ca/page/ministry-long-term-care",
+        "scope": "provincial",
+        "tags": [
+            "housing",
+            "seniors"
+        ]
+    },
+
+    "Government of Ontario: Ministry of Long-Term Care Family Support and Action Line": {
+        "description": "Oversees long-term care homes' compliance with the Fixing Long-Term Care Act, 2021.",
+        "url": "https://www.ontario.ca/page/long-term-care-home-complaint-process#section-2",
+        "scope": "provincial",
+        "tags": [
+            "housing",
+            "seniors"
+        ]
+    },
+
+    "Government of Ontario: Ontario Drug Benefit (ODB) Program": {
+        "description": "Reduces drug costs for seniors turning 65 years of age or older, or turning 65 within 3 months.",
+        "url": "https://forms.ontariodrugbenefit.ca/portal/EFormUpdate.aspx?usid=2fb77548-6c60-4619-9971-8542cd6df2a6&eFormId=600a8fe9-059f-4688-a358-3e9af217b5bc&DomainID=e98ae7fc-3a6c-42aa-8845-b6b165a4dd9c",
+        "scope": "provincial",
+        "tags": "accessibility"
+    },
+
+    "Government of Ontario: Ontario Electricity Support Program": {
+        "description": "Monthly credit applied directly to the electricity bill of electricity utility customers that meet a certain level of household size and income.",
+        "url": "https://ontarioelectricitysupport.ca/",
+        "scope": "provincial",
+        "tags": "low-income"
+    },
+
+    "Government of Ontario: Ontario Health Insurance Plan (OHIP)": {
+        "description": "Pay for many health services.",
+        "url": "https://www.ontario.ca/page/apply-ohip-and-get-health-card",
+        "scope": "provincial",
+        "tags": "accessibility"
+    },
+
+    "Government of Ontario: Ontario Senior Homeowners' Property Tax Grant (OSHPTG)": {
+        "description": "Annual payment available to Ontario senior homeowners and seniors who have a life lease or a lease of 10 or more years that is paid in full, who pay property tax or property tax is paid on their behalf, and who have low or moderate incomes.",
+        "url": "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/provincial-territorial-programs/ontario-senior-homeowners-property-tax-grant-oshptg-questions-answers.html",
+        "scope": "provincial",
+        "tags": [
+            "low-income",
+            "seniors"
+        ]
+    },
+
+    "Government of Ontario: Ontario Seniors Care at Home Tax Credit": {
+        "description": "Tax credit to help low-to-moderate-income seniors with eligible medical expenses, including expenses that support aging at home, such as hearing aids, hospital beds, and attendant care.",
+        "url": "https://www.ontario.ca/page/ontario-seniors-care-home-tax-credit",
+        "scope": "provincial",
+        "tags": [
+            "low-income",
+            "seniors"
+        ]
+    },
+
+    "Government of Ontario: Ontario Seniors Dental Care Program": {
+        "description": "Provides free, routine dental services for low-income seniors who are 65 years of age or older.",
+        "url": "https://www.ontario.ca/page/dental-care-seniors",
+        "scope": "provincial",
+        "tags": [
+            "low-income",
+            "seniors"
+        ]
+    },
+
+    "Government of Ontario: Ontario Seniors' Public Transit Tax Credit": {
+        "description": "Tax credit for people 65 years or older to help with public transit costs.",
+        "url": "https://www.ontario.ca/page/ontario-seniors-public-transit-tax-credit",
+        "scope": "provincial",
+        "tags": [
+            "low-income",
+            "seniors"
+        ]
+    },
+
+    "Government of Ontario: Ontario Trillium Benefit (OTB)": {
+        "description": "Helps low-to-moderate-income Ontario residents pay for energy costs, sales, and property taxes.",
+        "url": "https://www.ontario.ca/page/ontario-trillium-benefit",
+        "scope": "provincial",
+        "tags": "low-income"
+    },
+
+    "Government of Ontario: Seniors Co-Payment Program": {
+        "description": "Helps cover most of the cost of more than 5,900 medications listed on the Ontario Drug Benefit (ODB) Formulary and almost 1,500 additional drug products that meet specific criteria through the Exceptional Access Program (EAP) for low-income seniors with income below certain thresholds.",
+        "url": "https://www.ontario.ca/page/seniors-ontario-drug-benefit-deductible-and-prescription-co-payment",
+        "scope": "provincial",
+        "tags": [
+            "low-income",
+            "seniors"
+        ]
+    },
+
+    "Government of Ontario: Soldiers' Aid Commission financial assistance": {
+        "description": "Helps eligible Ontario veterans and their families in financial need pay for eligible expenses.",
+        "url": "https://www.ontario.ca/page/soldiers-aid-commission",
+        "scope": "provincial",
+        "tags": [
+            "low-income",
+            "seniors"
+        ]
+    },
+
+    "Government of Ontario: Trillium Drug Program": {
+        "description": "Helps Ontarians pay for their high prescription-drug costs.",
+        "url": "https://www.ontario.ca/page/get-help-high-prescription-drug-costs",
+        "scope": "provincial",
+        "tags": [
+            "accessibility",
+            "low-income"
+        ]
     },
 
     "Green Communities Canada": {
@@ -688,10 +1263,49 @@
         "tags": "environment"
     },
 
+    "Harmer House: Outreach Adult Day Program": {
+        "description": "Optimizes an individual's functional abilities and level of independence, thereby enabling them to remain in their home/community as long as possible.",
+        "url": "https://harmerhouse.ca/outreach_program.html",
+        "scope": "local",
+        "tags": [
+            "accessibility",
+            "food",
+            "seniors"
+        ]
+    },
+
+    "Heart to Home Meals": {
+        "description": "Delivers meals straight to the door of seniors.",
+        "url": "https://www.hearttohomemeals.ca/",
+        "scope": [
+            "local",
+            "national"
+        ],
+        "tags": [
+            "accessibility",
+            "food",
+            "seniors"
+        ]
+    },
+
     "Helping with Bikes": {
         "description": "Provides adults and children in client families with functional bikes as an affordable means of transportation and a source of exercise and safe, wholesome fun.",
         "url": "https://www.hwfottawa.org/eng/give-bikes",
         "tags": "transit"
+    },
+
+    "Heron Seniors Centre": {
+        "description": "Offers a variety of recreational programs designed to suit an active adult lifestyle.",
+        "url": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/heron-seniors-centre",
+        "scope": "local",
+        "tags": "seniors"
+    },
+
+    "Hobbs Seniors' Club": {
+        "description": "Relieves loneliness and isolation of older adults and seniors and provides opportunities for physical, social, and mental well-being by providing a welcoming space for members to socialize through recreational, educational and cultural activities, and other programs.",
+        "url": "https://sites.google.com/view/hobbsseniorsclub/home",
+        "scope": "local",
+        "tags": "seniors"
     },
 
     "Hop on Bikes": {
@@ -707,6 +1321,27 @@
         "tags": "indigenous"
     },
 
+    "Hospice Care Ottawa": {
+        "description": "Provides compassionate, high-quality care to people and their caregivers from the time of diagnosis with a progressive, life-limiting illness through their palliative and end-of-life journey.",
+        "url": "https://www.hospicecareottawa.ca/",
+        "scope": "local",
+        "tags": [
+            "accessibility",
+            "housing",
+            "seniors"
+        ]
+    },
+
+    "Hospice Palliative Care Ontario": {
+        "description": "Provides leadership on behalf of their members by informing policy and promoting awareness, education, knowledge transfer, and best practices in the pursuit of quality hospice palliative care in Ontario.",
+        "url": "https://www.hpco.ca/",
+        "scope": "provincial",
+        "tags": [
+            "accessibility",
+            "seniors"
+        ]
+    },
+
     "In From the Cold": {
         "description": "Cooks and serves a delicious 4-course meal, hosts live music from local bands, and gets the community together.",
         "url": "https://parkdaleunitedchurch.ca/in-from-the-cold/",
@@ -720,7 +1355,24 @@
         "tags": "2SLGBTQIA+"
     },
 
-    "Jewish Family Services (JFS) Settlement Services": {
+    "Jewish Family Services (JFS): Diverse Seniors Support": {
+        "description": "Provides culturally and linguistically appropriate supports for vulnerable immigrant seniors in racialized communities throughout the Ottawa region.",
+        "url": "https://www.jfsottawa.com/diverse-seniors-support/",
+        "scope": "local",
+        "tags": [
+            "newcomers",
+            "seniors"
+        ]
+    },
+
+    "Jewish Family Services (JFS): Kosher Meals on Wheels": {
+        "description": "Offers a wide variety of fresh and frozen Kosher food options.",
+        "url": "https://www.jfsottawa.com/community-support-services-2/",
+        "scope": "local",
+        "tags": "food" 
+    },
+
+    "Jewish Family Services (JFS): Settlement Services": {
         "description": "Offers newcomer services to all newcomers, no matter your cultural, ethnic, and linguistic backgrounds.",
         "url": "https://www.jfsottawa.com/settlement-support-2/",
         "tags": "newcomers"
@@ -730,6 +1382,27 @@
         "description": "Building a sustainable food system that ensures access to healthy, local food for all Ottawa residents.",
         "url": "https://justfood.ca/",
         "tags": "food"
+    },
+
+    "JusticeNet": {
+        "description": "Improves access to justice in Canada by developing and promoting opportunities for legal professionals to better serve, and be more accessible to, persons of limited means, in distress, or with special needs, as well as the communities and organizations that serve them.",
+        "url": "https://www.justicenet.ca/",
+        "scope": "national",
+        "tags": "low-income"
+    },
+
+    "Kanata Seniors Centre": {
+        "description": "Offers a wide range of recreation programs for adults aged 50 and over.",
+        "url": "https://ottawa.ca/en/recreation-and-parks/facilities/place-listing/kanata-seniors-centre",
+        "scope": "local",
+        "tags": "seniors"
+    },
+
+    "Kanata Seniors Council": {
+        "description": "Provides an advisory function to the City, collaborating closely with the Kanata Seniors' Centre.",
+        "url": "https://kanataseniors.ca/",
+        "scope": "local",
+        "tags": "seniors"
     },
 
     "Kerry's Place": {
@@ -804,6 +1477,26 @@
       "tags": "transit"
     },
 
+    "LifeLabs": {
+        "description": "Works to provide value to the healthcare system while remaining responsible to changing environments and needs.",
+        "url": "https://www.lifelabs.com/",
+        "scope": [
+            "local",
+            "provincial"
+        ],
+        "tags": [
+            "accessibility",
+            "seniors"
+        ]
+    },
+
+    "March of Dimes Canada": {
+        "description": "Aims to be Canada's leading service provider, resource, and advocate empowering people with disabilities to live and thrive in communities nationwide.",
+        "url": "https://www.marchofdimes.ca/en-ca",
+        "scope": "national",
+        "tags": "accessibility"
+    },
+
     "Master Gardeners of Ottawa-Carleton": {
         "description": "Offers free, authoritative, and unbiased gardening advice to the public.",
         "url": "https://mgottawa.ca/",
@@ -815,6 +1508,49 @@
         "description": "Health and wellness services and programs for queer, trans, and non-binary people.",
         "url": "https://maxottawa.ca/",
         "tags": "2SLGBTQIA+"
+    },
+
+    "Meals on Wheels (MOW) Ontario": {
+        "description": "Delivers nutritious, delicious, and affordable meals to a variety of groups, including seniors, people with physical disabilities and cognitive impairments, individuals suffering from illnesses and recovering from surgeries, and those who need special dietary planning and assistance.",
+        "url": "https://www.mealsonwheels.ca/",
+        "scope": [
+            "local",
+            "provincial"
+        ],
+        "tags": [
+            "accessibility",
+            "food",
+            "low-income",
+            "seniors"
+        ]
+    },
+
+    "Med-Health Laboratories": {
+        "description": "Provides clinical laboratory and related services. Committed to improving the health and wellness of people through their expertise in Laboratory Medicine and Strong Client Relationships.",
+        "url": "https://www.mhlab.ca/",
+        "scope": [
+            "local",
+            "provincial"
+        ],
+        "tags": [
+            "accessibility",
+            "seniors"
+        ]
+    },
+
+    "The Métis Nation of Ontario (MNO): Community Support Services Program": {
+        "description": "Provides information, advocacy, and practical support that allows individuals to remain in their homes for as long as possible. Helps to ease the weight of care provided by informal caregivers such as extended family. Helps people who are elderly and/or chronically ill and who may be experiencing isolation or are having difficulty managing their disease or dealing with a terminal illness.",
+        "url": "https://www.metisnation.org/programs-and-services/healing-wellness/community-support-services-program/",
+        "scope": [
+            "local",
+            "provincial"
+        ],
+        "tags": [
+            "accessibility",
+            "indigenous",
+            "seniors",
+            "transit"
+        ]
     },
 
     "Minwaashin Lodge": {
@@ -829,6 +1565,30 @@
         "url": "https://www.multifaithhousing.ca/",
         "scope": "local",
         "tags": "housing"
+    },
+
+    "Municipal Property Assessment Corporation": {
+        "description": "Delivers benefits to Ontarians through data-driven products and services. Sets the standard for accuracy, transparency, and innovation in property valuation, strengthening public trust and driving efficiencies that benefit communities, businesses, and government partners.",
+        "url": "https://www.mpac.ca/en",
+        "scope": "provincial",
+        "tags": [
+            "accessibility",
+            "housing",
+            "low-income",
+            "seniors"
+        ]
+    },
+
+    "Muslim Family Services of Ottawa": {
+        "description": "Provides accessible, compassionate, and culturally responsive support to individuals and families facing emotional, relational, and practical challenges. Works to promote well-being, strengthen relationships, and help people navigate life with dignity and resilience through counselling, community-based services, and faith-sensitive care.",
+        "url": "https://mfso.ca/",
+        "scope": "local",
+        "tags": [
+            "accessibility",
+            "low-income",
+            "mental_health",
+            "newcomers"
+        ]
     },
 
     "Naomi's House": {
@@ -857,11 +1617,60 @@
       "tags": "accessibility"
     },
 
-    "Odawa Native Friendship Centre": {
+    "Nelson House of Ottawa Carleton": {
+        "description": "Dedicated to providing all persons who identify as women and their children shelter, support, and information so they can take steps towards ending violence in their lives.",
+        "url": "https://www.nelsonhouse.on.ca/?utm_campaign=button_list_Visitourwebsite&utm_medium=referral&utm_source=later-linkinbio",
+        "scope": "local",
+        "tags": [
+            "housing",
+            "survivor_support"
+        ]
+    },
+
+    "The Nepean, Rideau, and Osgoode Community Resource Centre (NROCRC)": {
+        "description": "Fosters well-being through social connection, mental health support, and systems navigation. Responds to emerging needs through community development, partnership, and advocacy, advancing equity by removing barriers.",
+        "url": "https://nrocrc.org/",
+        "scope": "local",
+        "tags": [
+            "accessibility"
+        ]
+    },
+
+    "Nepean Seniors Centre": {
+        "description": "Health and Fitness Programs, Social Companionship, Enjoying Life, and more programs.",
+        "url": "https://nepeanseniorscentre.ca/",
+        "scope": "local",
+        "tags": "seniors"
+    },
+
+    "OC Transpo": {
+        "description": "Strives to connect and build Ottawa's communities; deliver safe, clean, dependable, and accessible public transit; and put their people and customers first.",
+        "url": "https://www.octranspo.com/en/",
+        "scope": "local",
+        "tags": "transit"
+    },
+
+    "Odawa Native Friendship Centre (ONFC)": {
         "description": "Enhances the quality of life for Indigenous people in the Capital Region.",
         "url": "https://odawa.ca/",
         "scope": "local",
-        "tags": "indigenous"
+        "tags": [
+            "indigenous",
+            "seniors",
+            "transit"
+        ]
+    },
+
+    "Olde Forge Community Resource Centre": {
+        "description": "Provides an information and referral service to the community at large, community support programs to seniors and adults with physical disabilities living in the west end of Ottawa, and other services.",
+        "url": "https://www.oldeforge.ca/",
+        "scope": "local",
+        "tags": [
+            "accessibility",
+            "food",
+            "seniors",
+            "transit"
+        ]
     },
 
     "Ontario Autism Program (OAP)": {
@@ -871,11 +1680,35 @@
       "tags": "accessibility"
     },
 
+    "The Ontario Caregiver Organization": {
+        "description": "Supports caregivers by being their one point of access to information, so they have what they need to be successful in their role.",
+        "url": "https://ontariocaregiver.ca/",
+        "scope": "provincial",
+        "tags": "accessibility"
+    },
+
     "Ontario Clean Air Alliance": {
         "description": "Works to move Ontario to a zero-carbon electricity grid by 2035 or sooner and lower electricity bills through an integrated combination of energy efficiency and demand management; cost-effective, made-in-Canada renewable energy; and energy storage.",
         "url": "http://www.cleanairalliance.org",
         "scope": "provincial",
         "tags": "environment"
+    },
+
+    "Ontario Disability Support Program (ODSP)": {
+        "description": "Offers money to help eligible people and their family members with living expenses, including food and rent, and health benefits, including prescription drugs and vision care.",
+        "url": "https://www.ontario.ca/page/ontario-disability-support-program",
+        "scope": "provincial",
+        "tags": [
+            "accessibility",
+            "low-income"
+        ]
+    },
+
+    "Ontario Health atHome": {
+        "description": "Helps everyone to be healthier at home through integrated and equitable care in partnership with the communities it serves.",
+        "url": "https://ontariohealthathome.ca/",
+        "scope": "provincial",
+        "tags": "accessibility"
     },
 
     "Ontario Native Women's Association: Services for Indigenous Women in Ottawa": {
@@ -890,6 +1723,13 @@
         "url": "https://ontario-sea.org/",
         "scope": "provincial",
         "tags": "environment"
+    },
+
+    "Ontario Works": {
+        "description": "Offers money to help eligible people and their family members with living expenses, including food and rent, and health benefits.",
+        "url": "https://www.ontario.ca/page/ontario-works",
+        "scope": "provincial",
+        "tags": "low-income"
     },
 
     "Operation Come Home": {
@@ -933,10 +1773,44 @@
         "tags": "housing"
     },
 
+    "Ottawa Area Intergroup of Alcoholics Anonymous": {
+        "description": "Helps groups carry the A.A. message to the alcoholic who still suffers by running the services that are best handled centrally rather than group by group.",
+        "url": "https://ottawaaa.org/",
+        "scope": "local",
+        "tags": [
+            "accessibility"
+        ]
+    },
+
+    "The Ottawa Area of Narcotics Anonymous": {
+        "description": "Members learn from one another how to live drug-free and recover from the effects of addiction in their lives.",
+        "url": "https://ottawana.org/",
+        "scope": "local",
+        "tags": [
+            "accessibility"
+        ]
+    },
+
+    "Ottawa Chinese Community Service Centre (OCCSC)": {
+        "description": "Provides programs and services to advance the social, cultural, and economic integration and participation of all newcomers, immigrants, refugees, as well as people of Chinese heritage.",
+        "url": "https://occsc.org/",
+        "scope": "local",
+        "tags": [
+            "newcomers"
+        ]
+    },
+
     "Ottawa Community Food Partnership": {
         "description": "Shifting the way we think about the food charity model across Algonquin/Ottawa towards meaningful community engagement and food security.",
         "url": "https://ottawacommunityfoodpartnership.ca/",
         "tags": "food"
+    },
+
+    "Ottawa Community Foundation": {
+        "description": "Works with stakeholders as a trusted partner to bring about positive, systemic, and sustainable change in our community and beyond.",
+        "url": "https://www.ocf-fco.ca/",
+        "scope": "local",
+        "tags": "charity"
     },
 
     "Ottawa Community Housing": {
@@ -951,10 +1825,22 @@
         "tags": "newcomers"
     },
 
+    "Ottawa Ethno-Cultural Seniors Network": {
+        "description": "Provides residents of Ottawa with the means to exercise informed leadership on issues affecting their social and economic well-being.",
+        "url": "https://spcottawa.on.ca/mecs/",
+        "scope": "local",
+        "tags": [
+            "seniors"
+        ]
+    },
+
     "Ottawa Food Bank": {
         "description": "Creates a healthier city by empowering people, increasing access to healthy food, and advocating for systemic changes that reduce food insecurity.",
         "url": "https://www.ottawafoodbank.ca/",
-        "tags": "food"
+        "tags": [
+            "food",
+            "low-income"
+        ]
     },
 
     "Ottawa Food Rescue": {
@@ -983,10 +1869,29 @@
         "tags": "environment"
     },
 
+    "Ottawa Heart Institute: Quit Smoking Program": {
+        "description": "A nurse-led clinic that provides one-on-one support during an attempt to quit smoking. Provides a non-judgmental and supportive environment where they tailor a 'quit plan' to meet individual needs.",
+        "url": "https://www.ottawaheart.ca/clinic/quit-smoking-program",
+        "scope": "local",
+        "tags": "accessibility"
+    },
+
+    "The Ottawa Hospital": {
+        "description": "Provides patient-centered care with an emphasis on tertiary-level and specialty care, primarily for residents of Eastern Ontario. Educates future health-care professionals in partnership with the University of Ottawa and other affiliated universities, community colleges, and training organizations. Develops, shares, and applies new knowledge and technology in the delivery of patient care through world-leading research programs in partnership with the Ottawa Hospital Research Institute.",
+        "url": "https://www.ottawahospital.on.ca/en",
+        "scope": [
+            "local",
+            "provincial"
+        ],
+        "tags": [
+            "accessibility"
+        ]
+    },
+
     "Ottawa Independent Living Resource Centre": {
-      "name": "Ottawa Independent Living Resource Centre",
       "description": "Promoting a new perspective on disability.",
       "url": "https://oilrc.com",
+      "scope": "local",
       "tags": "accessibility"
     },
 
@@ -1067,6 +1972,18 @@
         "tags": "transit"
     },
 
+    "Ottawa West Community Support": {
+        "description": "Provides services that enable seniors and adults with physical disabilities to live with dignity and age in place, supported by caring staff and volunteers.",
+        "url": "https://owcs.ca/",
+        "scope": "local",
+        "tags": [
+            "accessibility",
+            "food",
+            "seniors",
+            "transit"
+        ]
+    },
+
     "Ottawa Wolves Rugby Football Club": {
         "description": "A Rugby Football Club for men and women. Team members are predominantly part of the LGBTQA community, but diverse in its make-up, and inclusive of everyone.",
         "url": "https://ottawawolves.ca/",
@@ -1081,16 +1998,48 @@
         "tags": "2SLGBTQIA+"
     },
 
+    "Ottawa-Vanier Lions": {
+        "description": "Identifies the world's most crucial needs and is supported by LCIF in their efforts to provide humanitarian aid where it's needed most. Improves food security and access to nutritious food to help alleviate hunger. Provides support for the needs of children and families affected by childhood cancer through impactful service activities. Works to protect the environment to create healthier communities and a more sustainable world. Serves youth as beneficiaries, youth as partners, and empowers youth as service leaders. Works to reduce the prevalence of diabetes and improve the lives of those living with diabetes. Offers aid whenever and wherever disaster strikes. Dedicated to improving the lives of the visually impaired and preventing avoidable blindness.",
+        "url": "https://www.ovlions.ca/",
+        "scope": [
+            "local",
+            "international"
+        ],
+        "tags": [
+            "accessibility",
+            "seniors"
+        ]
+    },
+
     "Out and About Ottawa-Gatineau": {
         "description": "A free, all-encompassing Meetup group for people that identify as LGBTQ2S+ and their allies who like to go out, be entertained and socialise.",
         "url": "https://www.meetup.com/out-and-about-ottawa-gatineau/",
         "tags": "2SLGBTQIA+"
     },
 
+    "Overeaters Anonymous: Ottawa District Intergroup": {
+        "description": "Supports the local groups it serves in their mission to help the compulsive eater who still suffers.",
+        "url": "https://oa-ottawa.ca/",
+        "scope": "local",
+        "tags": [
+            "accessibility"
+        ]
+    },
+
     "Pal Ottawa": {
         "description": "Works to meet the needs of senior artists and arts workers in the National Capital Region by providing access to affordable housing, personal support services, and community programming.",
         "url": "https://www.palottawa.org/",
         "tags": "housing"
+    },
+
+    "Para Transpo": {
+        "description": "Provides minibus and contracted taxi services in Ottawa's urban communities for eligible customers who are unable to take conventional transit some or all of the time due to a disability.",
+        "url": "https://www.octranspo.com/en/para-transpo/",
+        "scope": "local",
+        "tags": [
+            "accessibility",
+            "transit"
+        ]
     },
 
     "Parkdale Food Centre": {
@@ -1125,22 +2074,52 @@
         "tags": "2SLGBTQIA+"
     },
 
-    "Pinecrest-Queensway Community Health Centre (PQCHC) Blind-Low Vision Early Intervention Program": {
+    "Pinecrest Terrace Community House": {
+        "description": "Works with community members to identify their overall needs, supports families, and builds community capacity. Offers a variety of evening programs for children and youth, offering a space outside of school hours that provides mentorship, support, and social recreation fostered by dedicated staff and volunteers. Offers a variety of programs dedicated to adults and families, including community events and celebrations, support and services, a food bank, and excursions.",
+        "url": "https://pinecrestterrace.ca/",
+        "scope": "local",
+        "tags": [
+            "food",
+            "low-income"
+        ]
+    },
+
+    "Pinecrest-Queensway Community Health Centre (PQCHC): Blind-Low Vision Early Intervention Program": {
       "description": "Builds your knowledge about your child's learning style and builds your capacity to respond to their developmental needs.",
       "url": "https://www.firstwords.ca/vision",
       "tags": "accessibility"
     },
 
-    "Pinecrest-Queensway Community Health Centre (PQCHC) Community Connections for Newcomer Employment": {
+    "Pinecrest-Queensway Community Health Centre (PQCHC): Community Connections for Newcomer Employment": {
         "description": "Provides employment preparation help to newcomers and connects them with community resources and employment supports to be able to find a job.",
         "url": "https://www.pqchc.com/services/ccne",
         "tags": "newcomers"
     },
 
-    "Pinecrest-Queensway Community Health Centre (PQCHC) Food Bank": {
+    "Pinecrest-Queensway Community Health Centre (PQCHC): Food Bank": {
         "description": "Provides access to nutritious and nourishing food, which positively impacts health and well-being.",
         "url": "https://www.pqchc.com/services/food-bank",
         "tags": "food"
+    },
+
+    "Pinecrest-Queensway Community Health Centre (PQCHC): Morrison Gardens Community House (MGCH)": {
+        "description": "Provides place-based service in a community hub setting. Offers programs for children/youth and adults, and also runs a food centre affiliated with the Ottawa Food Bank.",
+        "url": "https://www.pqchc.com/services/morrison-gardens",
+        "scope": "local",
+        "tags": [
+            "food",
+            "low-income"
+        ]
+    },
+
+    "Pinecrest-Queensway Community Health Centre (PQCHC): Multicultural Seniors Program": {
+        "description": "Servies immigrant older adults and seniors who may be at risk of social isolation due to barriers such as race, language, culture, limited mobility, and financial challenges. Promotes health, well-being, and social connection through culturally inclusive activities offered both virtually and in-person on the first and third Wednesday of the month.",
+        "url": "https://www.pqchc.com/services/multicultural-seniors",
+        "scope": "local",
+        "tags": [
+            "newcomers",
+            "seniors"
+        ]
     },
 
     "Portia Learning Centre": {
@@ -1167,6 +2146,13 @@
         "tags": "2SLGBTQIA+"
     },
 
+    "Pro Bono Ontario": {
+        "description": "Bridges the gap between lawyers who want to donate their services and low-income Ontarians whose legal problems aren't covered by government agencies (e.g., Legal Aid, Children's Lawyer, PGT) by developing and directly managing pro bono programs that address unmet legal needs, providing strategic consulting services and tailored technical assistance to third parties engaged in the provision of organized pro bono projects, and promoting the private bar's role in the overall delivery of legal services in Ontario.",
+        "url": "https://www.probonoontario.org/",
+        "scope": "provincial",
+        "tags": "low-income"
+    },
+
     "Psychiatric Survivors of Ottawa Rainbow Peers Support Group": {
         "description": "Creates a safe space to share about sexual orientation, gender identity, mental health, and experiences accessing services.",
         "url": "https://www.pso-ottawa.ca/rainbow-peers",
@@ -1184,6 +2170,16 @@
         "description": "Social networking forum for use by qtpoc++ for building solidarity in the Ottawa-Gatineau area.",
         "url": "https://www.facebook.com/groups/1429671590689706",
         "tags": "2SLGBTQIA+"
+    },
+
+    "Queensway Carleton Hospital: Geriatric Assessment Outreach Team (GAOT)": {
+        "description": "Offers specialized (out-patient) geriatric services. Provides in-home assessments to at-risk older adults who are 65 years or older, for whom leaving home is physically, mentally, or logistically difficult.",
+        "url": "https://qch.on.ca/GAOT",
+        "scope": "local",
+        "tags": [
+            "accessibility",
+            "seniors"
+        ]
     },
 
     "Rainbow Health Ontario": {
@@ -1212,11 +2208,37 @@
         "tags": "transit"
     },
 
+    "Rendez-vous des aînés francophones d'Ottawa (RAFO)": {
+        "description": "Promouvoit la vie active, l'épanouissement et le mieux-être des francophones et des francophiles de 50 ans et plus.",
+        "url": "https://www.rafo.ca/",
+        "scope": "local",
+        "tags": "seniors"
+    },
+
     "Renewable Industries Canada": {
         "description": "Works with government stakeholders and policymakers to identify climate solutions with growth opportunities. Shares expertise in planning and building initiatives with economic and environmental sustainability. Advocates for increases in adoption, production, and innovation of biofuels, renewable products, and clean technologies.",
         "url": "https://ricanada.org/",
         "scope": "national",
         "tags": "environment"
+    },
+
+    "Retirement Homes Regulatory Authority": {
+        "description": "Works collaboratively to protect Ontario retirement home residents through effective right-touch regulation.",
+        "url": "https://www.rhra.ca/en/",
+        "scope": "provincial",
+        "tags": [
+            "housing",
+            "seniors"
+        ]
+    },
+
+    "Retraite en action": {
+        "description": "Offre un programme d'activités en français aux retraités de la région de la capitale nationale et d'ailleurs, afin de favoriser leur mieux-être.",
+        "url": "https://www.retraiteenaction.ca/",
+        "scope": "local", 
+        "tags": [
+            "seniors"
+        ]
     },
 
     "Rideau Speedeaus": {
@@ -1239,6 +2261,24 @@
         "tags": "food"
     },
 
+    "Rideauwood": {
+        "description": "Specializes in substance use, behavioural addictions, and mental health issues.",
+        "url": "https://www.rideauwood.org/",
+        "scope": "local",
+        "tags": [
+            "accessibility"
+        ]
+    },
+
+    "Rotary Ottawa": {
+        "description": "Provides service to others; promotes integrity; and advances world understanding, goodwill, and peace through their fellowship of business, professional, and community leaders.",
+        "url": "https://www.rotaryottawa.com/",
+        "scope": "local",
+        "tags": [
+            "seniors"
+        ]
+    },
+
     "The Royal": {
       "description": "Provides treatment and support that lets patients remove the labels and barriers that mental illness forces upon them.",
       "url": "https://www.theroyal.ca/",
@@ -1251,6 +2291,34 @@
       "url": "https://theroyal.accessraam.ca/",
       "scope": "local",
       "tags": "accessibility"
+    },
+
+    "The Royal Canadian Legion: Kanata Legion Branch 638": {
+        "description": "",
+        "url": "https://kanatalegion.ca/",
+        "scope": "local",
+        "tags": [
+            "seniors"
+        ]
+    },
+
+    "The Royal Canadian Legion: Ontario Command": {
+        "description": "Looks after the needs of veterans, their dependants, and those still in the Canadian Forces.",
+        "url": "https://on.legion.ca/",
+        "scope": "provincial",
+        "tags": [
+            "accessibility",
+            "seniors"
+        ]
+    },
+
+    "The Royal Canadian Legion: Westboro Legion": {
+        "description": "Offers Legion members and members of the community a variety of activities, such as dances, sports and games leagues, fundraisers for worthy causes, and parties to celebrate annual observances such as St. Patrick's Day, Canada Day, and New Year's Eve.",
+        "url": "https://www.rcl480.com/",
+        "scope": "local",
+        "tags": [
+            "seniors"
+        ]
     },
 
     "Russell Heights Community House Food Bank": {
@@ -1270,6 +2338,16 @@
         "url": "https://www.saeftyottawa.ca/",
         "scope": "local",
         "tags": "2SLGBTQIA+"
+    },
+
+    "Seniors Safety Line": {
+        "description": "Aims to provide a direct and immediate response to the safety of seniors across Ontario.",
+        "url": "https://seniorssafetyline.ca/",
+        "scope": "provincial",
+        "tags": [
+            "seniors",
+            "survivor_support"
+        ]
     },
 
     "Serenity Renewal for Families": {
@@ -1299,11 +2377,38 @@
         "tags": "environment"
     },
 
+    "Smokers' Helpline": {
+        "description": "Offers personalized tools, evidence-based information, and support about quitting smoking, vaping, and tobacco use.",
+        "url": "https://www.smokershelpline.ca/s/?language=en_US",
+        "scope": "national",
+        "tags": "accessibility"
+    },
+
+    "Social Housing Registry of Ottawa (The Registry)": {
+        "description": "Helps people submit and update their applications for subsidized housing in Ottawa.",
+        "url": "https://housingregistry.ca/",
+        "scope": "local",
+        "tags": [
+            "housing",
+            "low-income"
+        ]
+    },
+
     "Société franco-ontarienne de l'autisme (SFOA)": {
         "description": "Fournit plusieurs programmes pour soutenir les personnes autistes et leurs familles.",
         "url": "https://www.parlonsautisme.ca/",
         "scope": "local, provincial",
         "tags": "accessibility"
+    },
+
+    "Solva Senior Housing Consultants": {
+        "description": "Provides education, navigation, and referrals within the senior living sector. Offers time-saving services that are entirely free, without obligation, contracts, or 'pay-us-back' fees.",
+        "url": "https://solvaseniorliving.ca/",
+        "scope": "local",
+        "tags": [
+            "housing",
+            "seniors"
+        ]
     },
 
     "St. Joe's Supper Table": {
@@ -1338,6 +2443,16 @@
         "tags": "accessibility"
     },
 
+    "Support for male survivors of sexual abuse": {
+        "description": "Provides 24/7 multilingual crisis and referral services for male survivors of sexual abuse, both recent and historical. Includes counselling, peer support, and referrals to community support services to meet long-term needs.",
+        "url": "https://www.ontario.ca/page/connect-supports-survivors-violence?redirect_id=page%2Fget-help-if-you-are-experiencing-violence&redirect_year=2025",
+        "scope": "provincial",
+        "tags": [
+            "accessibility",
+            "survivor_support"
+        ]
+    },
+
     "Sustainability Network": {
         "description": "Strengthens environmental non-profit leadership.",
         "url": "https://www.sustainabilitynetwork.ca/",
@@ -1366,7 +2481,7 @@
         "tags": "indigenous"
     },
 
-    "TAO Tel-Aide": {
+    "Tel-Aide Outaouais (TAO)": {
         "description": "Offre un service d'écoute et de référence en français, 24/7, gratuit, anonyme, confidentiel, empathique et sans jugement par une équipe de bénévoles formés pour contribuer au bien-être mental des francophones adultes.",
         "url": "http://telaideoutaouais.ca/",
         "scope": "local",
@@ -1379,11 +2494,25 @@
         "tags": "2SLGBTQIA+"
     },
 
+    "Trans Lifeline": {
+        "description": "Provides trans peer support for our community that's been divested from police since day one. Run by and for trans people.",
+        "url": "https://translifeline.org/",
+        "scope": "national",
+        "tags": "2SLGBTQIA+"
+    },
+
     "Trans Outaouais": {
         "description": "Promotes the development of harmonious relations within the LGBTQIA2S+ community and the inclusion of gender-diverse people and all other intersections.",
         "url": "https://www.transoutaouais.com/en/",
         "scope": "local",
         "tags": "2SLGBTQIA+"
+    },
+
+    "Tribunals Ontario: Landlord and Tenant Board": {
+        "description": "Strives to deliver effective administrative justice through by being independent, innovative, user-friendly, and accessible.",
+        "url": "https://tribunalsontario.ca/ltb/",
+        "scope": "provincial",
+        "tags": "housing"
     },
 
     "Trips for Kids Ottawa": {
@@ -1447,6 +2576,18 @@
         "tags": "accessibility"
     },
 
+    "Wabano": {
+        "description": "Provides quality, holistic, culturally-relevant health services to Ottawa's First Nation, Métis, and Inuit population; engages in clinical, social, economic, and cultural initiatives that promote the health/well-being of all Indigenous people; promotes community-building through education and advocacy; and serves as a Centre for Excellence for urban Indigenous health.",
+        "url": "https://wabano.com/",
+        "scope": "local",
+        "tags": [
+            "accessibility",
+            "indigenous",
+            "seniors",
+            "transit"
+        ]
+    },
+
     "The Walk-In Counselling Clinic & Counselling Connect": {
         "description": "Offers multilingual support; accessible spaces; and safe, respectful care for all.",
         "url": "https://walkincounselling.com/",
@@ -1473,7 +2614,17 @@
         "tags": "food"
     },
 
-    "Western Ottawa Community Resource Centre Queerios LGBTQ+": {
+    "Western Ottawa Community Resource Centre: Adult Day Program": {
+        "description": "Offers much-needed respite for caregivers while providing engaging activities and socialization opportunities for adults living with dementia.",
+        "url": "https://wocrc.ca/program/adult-day-program/",
+        "scope": "local",
+        "tags": [
+            "accessibility",
+            "seniors"
+        ]
+    },
+
+    "Western Ottawa Community Resource Centre: Queerios LGBTQ+": {
         "description": "Offers a safe space for connection, growth, and community engagement to LGBTQ+ youth aged 12-17.",
         "url": "https://wocrc.ca/program/queerios-lgbtq-youth-drop-in/",
         "scope": "local",
