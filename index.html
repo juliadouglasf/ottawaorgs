@@ -101,42 +101,16 @@
   </div>
 
   <div id="footer"></div>
-
-  <!-- idk what's happening with the footer rn -->
-<!-- <script>
-  loadInclude('footer', 'footer.html');
-</script> -->
-  <!-- <script>
-  fetch('footer.html').then(response => response.text()).then(data => document.getElementById('footer').innerHTML = data);
-  </script>  -->
-
-  <!-- <script>
-    function fetchAndInsert(id, url) {
-      fetch(url)
-      .then(r => r.text())
-      .then(html => {
-        const element = document.getElementById(id);
-        if (!element) return;
-        element.innerHTML = html;
-        const tmp = document.createElement('div');
-        tmp.innerHTML = html;
-        tmp.querySelectorAll('script').forEach(old => {
-          const s = document.createElement('script');
-          if (old.src) {
-            s.src = old.src;
-            s.async = false;
-          } else {
-            s.textContent = old.textContent;
-          }
-          document.body.appendChild(s);
-        });
-      })
-      .catch(err => console.error('fetchAndInsert error: ', err));
-    }
-
-    fetchAndInsert('footer', 'footer.html');
-  </script> -->
-<script src="fetchAndInsert.js"></script>
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <strong>OnlyOttawa</strong>
+      <p class="operator-statement">
+        Created and maintained by <a href="https://github.com/juliadouglasf">juliadouglasf</a>
+        <br>
+        Marker icons created by FR Media: <a href="https://www.flaticon.com/free-icons/marker">Flaticon</a>
+      </p>
+    </div>
+  </footer>
 </body>
 
 </html>
