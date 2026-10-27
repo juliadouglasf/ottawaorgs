@@ -1,52 +1,111 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="ltr">
 
 <!-- head -->
-<div id="head"></div>
- <!-- <script>
-  fetch('head.html').then(response => response.text()).then(data => document.getElementById('head').innerHTML = data);
-  </script>  -->
-
-  <script>
-    function fetchAndInsert(id, url) {
-      fetch(url)
-      .then(r => r.text())
-      .then(html => {
-        const element = document.getElementById(id);
-        if (!element) return;
-        element.innerHTML = html;
-        const tmp = document.createElement('div');
-        tmp.innerHTML = html;
-        tmp.querySelectorAll('script').forEach(old => {
-          const s = document.createElement('script');
-          if (old.src) {
-            s.src = old.src;
-            s.async = false;
-          } else {
-            s.textContent = old.textContent;
-          }
-          document.body.appendChild(s);
-        });
-      })
-      .catch(err => console.error('fetchAndInsert error: ', err));
-    }
-
-    fetchAndInsert('head', 'head.html');
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>onlyOttawa.</title>
+  <meta name="description" content="Find organizations in Ottawa.">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://juliadouglasf.github.io/ottawaorgs/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="onlyOttawa.">
+  <meta property="og:description" content="Find organizations in Ottawa.">
+  <meta property="og:url" content="https://juliadouglasf.github.io/ottawaorgs/">
+  <meta property="og:image" content="/assets/ottawa_orgs_logo.png">
+  <meta name="theme-color" content="#12323d">
+  <link rel="icon" href="/assets/ottawa_orgs_logo.png">
+  <link rel="stylesheet" href="/assets/styles.css"> 
+  <link rel="manifest" href="/manifest.webmanifest"> 
+  <link rel="preload" href="/assets/Sentient/Fonts/WEB/fonts/Sentient-Extralight.woff2" as="font" type="font/woff2" crossorigin>
+  <script type="module" src="/assets/app-DcXNW5DX.js">    
   </script>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      "name": "onlyOttawa.",
+      "url": "https://juliadouglasf.github.io/ottawaorgs/",
+      "description": "Find organizations in Ottawa.",
+      "mainEntity": {
+        "@type": "ItemList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://www.kidscomefirst.ca/en/index.aspx"
+            "name": "1Call1Click.ca"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://abilitiescentreottawa.org",
+            "name": "Abilities Ottawa"
+          }
+        ]
+      }
+    }
+  </script>
+</head>
 
 <!-- body -->
 <body>
-
-  <!-- navbar -->
-  <div id="navbar"></div>
-  <script>
-    fetch('navbar.html').then(response => response.text()).then(data => document.getElementById('navbar').innerHTML = data);
-  </script>
-
-  <!-- main body -->
-  <main class="home-page" tabindex="1" id="index-body">
-    <h1 class="text-center mt-4">Welcome to Ottawa Orgs!</h1>
-    <section id="overview">
+  <a class="skip-link" href="#main" tabindex="0">Skip to directory</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="/">
+        <img src="/assets/ottawa_orgs_logo.png" width="40" height="40" alt>
+        <span>onlyOttawa.</span>
+      </a>
+    </div>
+  </header>
+  <main id="main" tabindex="1" class="home-page" >
+    <section class="hero" aria-labelledby="page-title">
+      <div class="hero-copy">
+        <h1 id="page-title">onlyOttawa.</h1>
+        <p class="hero-lead">Find organizations in Ottawa.</p>
+      </div>
+    </section>
+    <section class="directory-shell" data-browse-view="2SLGBTQIA+" aria-labelledby="directory-heading">
+      <div class="section-heading">
+        <h2 id="directory-heading">What are you looking for?</h2>
+        <p class="dataset-status" id="data-status">Information updated Oct 22, 2026</p>
+      </div>
+      <nav class="browse-view-control" aria-label="Choose the kind of organization you're looking for">
+        <a href="/" data-view="2SLGBTQIA+" aria-current="page">2SLGBTQIA+</a>
+        <a href="/accessibility/" data-view="accessibility">Accessibility</a>
+      </nav>
+      <div class="org-list" id="org-list">
+        <article class="org-card" data-resource-id="Amethyst Centre Ottawa" data-browse-views="2SLGBTQIA+" lang="en">
+          <div class="card-header">
+            <div>
+              <div class="tags">
+                <span class="tag browse-view-tag" data-view="2SLGBTQIA+">2SLGBTQIA+</span>
+                <span class="tag">addiction</span>
+                <span class="tag">mental health</span>
+              </div>
+              <h3>
+                <a href="https://amethyst-ottawa.org/">Amethyst Centre Ottawa</a>
+              </h3>
+            </div>
+          </div>
+          <p class="description">
+            "Supports women and gender-diverse individuals by offering a range of alternative addiction services. Supports the community to take control of factors that impact health and well-being in healing and recovery."
+          </p>
+          <d1 class="card-facts">
+            <div class="fact">
+              <dt>Location</dt>
+              <dd data-location>488 Wilbrod Street</dd>
+            </div>
+          </d1>
+          <p class="verified">
+            Updated <time datetime="2026-10-27">Oct 27, 2026</time>
+          </p>
+        </article>
+      </div>
+    </section>
+    <!-- <section id="overview">
       <div class="grid-container">
         <div class="grid-item card align-items-center">
           <div class="card-body">
@@ -97,15 +156,17 @@
             alt="like--v1" />
         </div>
       </div>
-    </section>
+    </section> -->
   </main>
 
   <div id="footer"></div>
   <footer class="site-footer">
     <div class="footer-inner">
-      <strong>OnlyOttawa</strong>
+      <strong>onlyOttawa.</strong>
       <p class="operator-statement">
         Created and maintained by <a href="https://github.com/juliadouglasf">juliadouglasf</a>
+        <br>
+        HTML and CSS structure informed heavily by <a href="https://kingston.food-help.ca/">Kingston Food Help</a>
         <br>
         Marker icons created by FR Media: <a href="https://www.flaticon.com/free-icons/marker">Flaticon</a>
       </p>
