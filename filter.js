@@ -27,3 +27,18 @@ fetch('org_metadata.json')
 document.getElementById('search-bar').addEventListener('input', function(e) {
   applyFilters(e.target.value);
 });
+
+// Accept a search term
+function applyFilters(searchTerm) {
+  const activeCategory = getActiveCategory();
+
+  const filtered = allOrgs.filter(org => {
+    const categoryMatch = (org.category === activeCategory);
+
+    const searchMatch = org.name.toLowerCase().includes(searchTerm.toLowerCase());
+
+    return categoryMatch && searchMatch;
+  });
+
+  renderOrgs(filtered);
+}
