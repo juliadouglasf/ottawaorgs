@@ -9,7 +9,7 @@ fetch('org_metadata.json')
     setupFilters(); // Prepare filter buttons
   });
 
-  // Handle filter clicks
+// Handle filter clicks
   function setupFilters() {
     const buttons = document.querySelectorAll('.filter-btn');
 
@@ -22,3 +22,8 @@ fetch('org_metadata.json')
       });
     });
   }
+
+// Search-bar listener
+document.getElementById('search-bar').addEventListener('input', function(e) {
+  applyFilters(e.target.value);
+});
