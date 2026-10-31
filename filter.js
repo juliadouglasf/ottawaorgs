@@ -42,3 +42,8 @@ function applyFilters(searchTerm) {
 
   renderOrgs(filtered);
 }
+
+function getActiveCategory(){
+  const activeBtn = document.querySelector('.filter-btn.selected');
+  return activeBtn ? activeBtn.getAttribute('data-filter') : 'all';
+}
