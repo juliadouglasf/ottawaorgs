@@ -17,9 +17,8 @@
   <meta name="theme-color" content="#12323d">
   <link rel="icon" href="/assets/ottawa_orgs_logo.png">
   <link rel="stylesheet" href="/assets/styles.css"> 
-  <link rel="manifest" href="/manifest.webmanifest"> 
   <link rel="preload" href="/assets/Sentient/Fonts/WEB/fonts/Sentient-Extralight.woff2" as="font" type="font/woff2" crossorigin>
-  <script type="module" src="/assets/app-DcXNW5DX.js">    
+  <script type="module" src="filter.js">    
   </script>
   <script type="application/ld+json">
     {
@@ -71,13 +70,24 @@
       <div class="section-heading">
         <h2 id="directory-heading">What are you looking for?</h2>
         <p class="dataset-status" id="data-status">Information updated Oct 22, 2026</p>
-      </div>
-      <nav class="browse-view-control" aria-label="Choose the kind of organization you're looking for">
-        <a href="/" data-view="2SLGBTQIA+" aria-current="page">2SLGBTQIA+</a>
-        <a href="/accessibility/" data-view="accessibility">Accessibility</a>
+      </div>      
+      <input type="text" id="search-bar" placeholder="Search by name">
+      <nav class="category-buttons" aria-label="Choose the organization category">
+        <a href="#" class="category-button" data-view="2SLGBTQIA+">2SLGBTQIA+</a>
+        <a href="#" class="category-button" data-view="accessibility">Accessibility</a>
       </nav>
+      <div id="filters" hidden>
+        <fieldset class="category-control">
+          <legend class="sr-only">Type of organization</legend>
+          <div class="segmented-control">
+            <button type="button" onClick={selectCategory} data-category="2SLGBTQIA+" aria-pressed="true">2SLGBTQIA+</button>
+            <button type="button" onClick={selectCategory} data-category="accessibility" aria-pressed="false">Accessibility</button>
+            <button type="button" onClick={selectCategory} data-category="environment" aria-pressed="false">Environment</button>
+          </div>
+        </fieldset>
+      </div>
       <div class="org-list" id="org-list">
-        <article class="org-card" data-resource-id="Amethyst Centre Ottawa" data-browse-views="2SLGBTQIA+" lang="en">
+        <!-- <article class="org-card" data-resource-id="Amethyst Centre Ottawa" data-browse-views="2SLGBTQIA+" lang="en">
           <div class="card-header">
             <div>
               <div class="tags">
@@ -102,7 +112,7 @@
           <p class="verified">
             Updated <time datetime="2026-10-27">Oct 27, 2026</time>
           </p>
-        </article>
+        </article> -->
       </div>
     </section>
     <!-- <section id="overview">
