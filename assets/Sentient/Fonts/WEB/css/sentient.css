@@ -1,0 +1,22 @@
+/**
+* @license
+*
+* Font Family: Sentient
+* Designed by: Noopur Choksi
+* URL: https://www.fontshare.com/fonts/sentient
+* © 2026 Indian Type Foundry
+*
+* Sentient Extralight 
+
+*
+*/
+@font-face {
+  font-family: 'Sentient-Extralight';
+  src: url('../fonts/Sentient-Extralight.woff2') format('woff2'),
+       url('../fonts/Sentient-Extralight.woff') format('woff'),
+       url('../fonts/Sentient-Extralight.ttf') format('truetype');
+  font-weight: 200;
+  font-display: swap;
+  font-style: normal;
+}
+
