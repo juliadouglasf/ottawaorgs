@@ -598,7 +598,7 @@ h1 em {
   color: var(--navy)
 }
 
-.directory-shell[data-browse-view=2SLGBTQ+] .browse-view-tag[data-view=2SLGBTQ+],.directory-shell[data-browse-view=accessibility] .browse-view-tag[data-view=accessibility] {
+.directory-shell[data-browse-view="2SLGBTQ+"] .browse-view-tag[data-view="2SLGBTQ+"],.directory-shell[data-browse-view=accessibility] .browse-view-tag[data-view=accessibility] {
   display: none
 }
 

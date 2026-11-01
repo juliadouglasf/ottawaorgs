@@ -1,13 +1,53 @@
 let allOrgs = [];
 
 // Fetch the org metadata
-fetch('org_metadata.json')
+try {
+  fetch('org_metadata.json')
   .then(response => response.json())
   .then(data => {
     allOrgs = data;
-    renderOrgs(allOrgs); // Show all orgs
-    setupFilters(); // Prepare filter buttons
+    renderOrgs(allOrgs); 
+    setupFilters(); 
+    setupSearch();
+  })}
+catch {
+  error => console.error('Error loading JSON:', error)}
+
+function setupSearch() {
+  const searchBar = document.getElementById('search-bar');
+
+  searchBar.addEventListener('input', (search) => {
+    const searchTerm = search.target.value.toLowerCase();
+
+    const filteredOrgs = allOrgs.filter(org => {
+      return org.name.toLowerCase().includes(searchTerm) ||
+             org.address.toLowerCase().includes(searchTerm);
+    });
+
+    renderOrgs(filteredOrgs);
+  })
+}
+
+function renderOrgs(orgs) {
+  const orgList = document.getElementById('org-list');
+  orgList.innerHTML = ''; // Clear the current list
+
+  if (orgs.length === 0) {
+    orgList.innerHTML = '<p>No organizations found matching your search.</p>';
+    return;
+  }
+
+  orgs.forEach(org => {
+    const div = document.createElement('div');
+    div.className = 'org-card';
+    div.innerHTML = `
+      <h3>${org.name}</h3>
+      <p>${org.address}</p>
+      <p>Category: ${org.category}</p>`;
+
+    orgList.appendChild(div);
   });
+}
 
 // Handle filter clicks
   function setupFilters() {
@@ -15,9 +55,12 @@ fetch('org_metadata.json')
 
     buttons.forEach(button => {
       button.addEventListener('click', () => {
-        const filterValue = button.getAttribute('data-filter');
+        const category = button.getAttribute('data-filter');
 
-        const filtered = allResources.filter(item => item.category === filterValue);
+        const filtered = category === 'all'
+          ? allOrgs
+          : allOrgs.filter(org => org.category === category);
+        // const filtered = allResources.filter(item => item.category === filterValue);
         renderOrgs(filtered);
       });
     });
