@@ -6,27 +6,13 @@ try {
   .then(response => response.json())
   .then(data => {
     allOrgs = data;
-    renderOrgs(allOrgs); 
-    setupFilters(); 
-    setupSearch();
+    renderOrgs(allOrgs);
+    // filterCategory(); 
+    prepCategories(); 
+    // setupSearch();
   })}
 catch {
   error => console.error('Error loading JSON:', error)}
-
-function setupSearch() {
-  const searchBar = document.getElementById('search-bar');
-
-  searchBar.addEventListener('input', (search) => {
-    const searchTerm = search.target.value.toLowerCase();
-
-    const filteredOrgs = allOrgs.filter(org => {
-      return org.name.toLowerCase().includes(searchTerm) ||
-             org.address.toLowerCase().includes(searchTerm);
-    });
-
-    renderOrgs(filteredOrgs);
-  })
-}
 
 function renderOrgs(orgs) {
   const orgList = document.getElementById('org-list');
@@ -42,51 +28,94 @@ function renderOrgs(orgs) {
     div.className = 'org-card';
     div.innerHTML = `
       <h3>${org.name}</h3>
-      <p>${org.address}</p>
-      <p>Category: ${org.category}</p>`;
+      <p>${org.description}</p>`;
 
     orgList.appendChild(div);
   });
 }
 
+// function getSelectedCategory(){
+//   const selectedCategory = document.querySelector('#data-view');
+//   return selectedCategory
+// }
+
+// const selectCategory = (e) => {
+//   let category = e.getAttribute("data-category");
+//   filterCategory(category);
+// };
+
+// function filterCategory(category){
+
+//   // const selectedCategory = Array.prototype.filter.call(
+//   //   categoryButtons,
+//   //   (categoryButton) => categoryButton.getAttribute('data-category'),
+//   // )
+
+//   // console.log("selected category", selectedCategory)
+
+//   // categoryButtons.forEach(addEventListener('click', (event) => {console.log("clicked!!!")}));
+
+//   // console.log(categoryButtons);
+//   // // category.addEventListener('onlick', getSelectedCategory())
+//   // categoryButtons.addEventListener();
+//   // categoryButtons.addEventListener('click', (event) => {console.log("I am listening")});
+
+//   const filteredOrgs = allOrgs.filter(org => {
+//     const categoryMatch = (org.category === category);
+
+//     return categoryMatch;    
+//   }); 
+
+// renderOrgs(filteredOrgs);
+// }
+
 // Handle filter clicks
-  function setupFilters() {
-    const buttons = document.querySelectorAll('.filter-btn');
+function prepCategories() {
+    const categoryButtons = document.querySelectorAll('.category-button');
 
-    buttons.forEach(button => {
+    categoryButtons.forEach(button => {
       button.addEventListener('click', () => {
-        const category = button.getAttribute('data-filter');
+        const categoryValue = button.getAttribute('data-view');
 
-        const filtered = category === 'all'
-          ? allOrgs
-          : allOrgs.filter(org => org.category === category);
+        const filtered = allOrgs.filter(org => org.category === categoryValue);
         // const filtered = allResources.filter(item => item.category === filterValue);
+        console.log(filtered);
         renderOrgs(filtered);
       });
     });
-  }
+}
 
 // Search-bar listener
-document.getElementById('search-bar').addEventListener('input', function(e) {
-  applyFilters(e.target.value);
-});
+// document.getElementById('search-bar').addEventListener('input', function(e) {
+//   applyFilters(e.target.value);
+// });
 
-// Accept a search term
-function applyFilters(searchTerm) {
-  const activeCategory = getActiveCategory();
+// // Accept a search term
+// function applyFilters(searchTerm) {
+//   // const activeCategory = getActiveCategory();
 
-  const filtered = allOrgs.filter(org => {
-    const categoryMatch = (org.category === activeCategory);
+//   const filtered = allOrgs.filter(org => {
+//     const categoryMatch = (org.category === activeCategory);
 
-    const searchMatch = org.name.toLowerCase().includes(searchTerm.toLowerCase());
+//     const searchMatch = org.name.toLowerCase().includes(searchTerm.toLowerCase());
 
-    return categoryMatch && searchMatch;
-  });
+//     return categoryMatch && searchMatch;
+//   });
 
-  renderOrgs(filtered);
-}
+//   renderOrgs(filtered);
+// }
 
-function getActiveCategory(){
-  const activeBtn = document.querySelector('.filter-btn.selected');
-  return activeBtn ? activeBtn.getAttribute('data-filter') : 'all';
-}
+// function setupSearch() {
+//   const searchBar = document.getElementById('search-bar');
+
+//   searchBar.addEventListener('input', (search) => {
+//     const searchTerm = search.target.value.toLowerCase();
+
+//     const filteredOrgs = allOrgs.filter(org => {
+//       return org.name.toLowerCase().includes(searchTerm) ||
+//              org.address.toLowerCase().includes(searchTerm);
+//     });
+
+//     renderOrgs(filteredOrgs);
+//   })
+// }

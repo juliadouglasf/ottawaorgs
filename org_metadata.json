@@ -1,9 +1,17 @@
 [
     {
         "name": "1Call1Click.ca",
+        "category": "accessibility",
         "description": "Helps children, youth, and families/caregivers connect with the right mental health, addictions, substance use health, and neurodevelopmental health services and care when they need it.",
         "url": "https://www.kidscomefirst.ca/en/index.aspx",
-        "scope": "local",
-        "tags": "accessibility"
+        "scope": "local"        
+    },
+
+    {
+        "name": "A Friendly Voice",
+        "description": "A free, confidental 'warm line' for older adults aged 55 and above. A welcoming space where seniors can freely connect with a caring individual without expectations or judgment.",
+        "url": "https://afriendlyvoice.ca/",
+        "scope": "provincial",
+        "category": "seniors"
     }
 ]
